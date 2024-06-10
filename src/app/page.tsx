@@ -1,20 +1,92 @@
+"use client";
 import Image from "next/image";
+import { useCallback, useState } from "react";
+import ImageViewer from "react-simple-image-viewer";
+
+const images = [
+  "/images/1a.jpg",
+  "/images/1b.jpg",
+  "/images/2.jpg",
+  "/images/3.jpg",
+  "/images/4.jpg",
+  "/images/5.jpg",
+  "/images/6.jpg",
+  "/images/7.jpg",
+  "/images/8.jpg",
+  "/images/9.jpg",
+  "/images/10.jpg",
+  "/images/11.jpg",
+  "/images/12.jpg",
+  "/images/13.jpg",
+  "/images/14.jpg",
+  "/images/15.jpg",
+  "/images/16.jpg",
+  "/images/17.jpg",
+  "/images/18.jpg",
+  "/images/19.jpg",
+  "/images/20.jpg",
+  "/images/21.jpg",
+  "/images/22.jpg",
+  "/images/23.jpg",
+  "/images/24.jpg",
+  "/images/25.jpg",
+  "/images/26.jpg",
+  "/images/27.jpg",
+  "/images/28.jpg",
+  "/images/29.jpg",
+  "/images/30.jpg",
+  "/images/31.jpg",
+  "/images/32.jpg",
+  "/images/33.jpg",
+  "/images/34.jpg",
+  "/images/35.jpg",
+  "/images/36.jpg",
+  "/images/37.jpg",
+  "/images/38.jpg",
+  "/images/39.jpg",
+  "/images/40.jpg",
+  "/images/41.jpg",
+  "/images/42.jpg",
+  "/images/43.jpg",
+];
 
 export default function Home() {
+  const [currentImage, setCurrentImage] = useState(0);
+  const [isViewerOpen, setIsViewerOpen] = useState(false);
+
+  const openImageViewer = useCallback((index: any) => {
+    setCurrentImage(index);
+    setIsViewerOpen(true);
+  }, []);
+
+  const closeImageViewer = () => {
+    setCurrentImage(0);
+    setIsViewerOpen(false);
+  };
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between bg-black ">
+      {isViewerOpen && (
+        <ImageViewer
+          src={images}
+          currentIndex={currentImage}
+          disableScroll={false}
+          closeOnClickOutside={true}
+          onClose={closeImageViewer}
+        />
+      )}
       <div className="w-screen h-screen relative">
         <div
           style={{ backgroundImage: `url("/images/hero.jpg")` }}
           className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-no-repeat bg-center bg-cover"
         >
-          <div className="w-full h-full flex items-center justify-center text-white bg-white/15 flex-col gap-4">
+          <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
             <p className="text-6xl">Luong Hue Trinh</p>
             <p className="text-lg italic">Multimedia composer & improviser</p>
           </div>
         </div>
       </div>
-      <div className="h-[150px] w-full flex justify-center items-center bg-white italic">
+      <div className="h-[150px] w-full flex justify-center items-center bg-white italic text-[#777777]">
         "Music is the voice from my inner self, the sincerity of my emotions and
         thoughts."
       </div>
@@ -23,7 +95,7 @@ export default function Home() {
           className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
           src="/images/0.jpg"
         />
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/15 flex-col gap-4">
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-6xl">Luong Hue Trinh</p>
           <p className="text-lg italic">Multimedia composer & improviser</p>
         </div>
@@ -165,6 +237,13 @@ export default function Home() {
           <br />
         </p>
       </div>
+      <div className="w-screen min-h-screen h-fit relative">
+        <img
+          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
+          src="/images/projects.jpeg"
+        />
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+      </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-36 flex-col">
         <p className="text-center text-xl text-[#777777]">Works</p>
         <p className="mt-8 text-[#777777]">List of works:</p>
@@ -193,8 +272,9 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            SLANTED SILHOUETTES (2023) - a multicultural, multimedia and
-            site-specific performance designed for Alliance Française Accra.
+            <i className="underline">SLANTED SILHOUETTES</i> (2023) - a
+            multicultural, multimedia and site-specific performance designed for
+            Alliance Française Accra.
             <br />
             for traditional and contemporary music & dance, electronic &
             acoustic music, spokenword poetry & acting, video & scenography.
@@ -207,8 +287,8 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            NHẤP NHOÁNG (2023) - a site-specific and music performance by Luong
-            Hue Trinh and Ngo Tra My.
+            <i className="underline">NHẤP NHOÁNG</i> (2023) - a site-specific
+            and music performance by Luong Hue Trinh and Ngo Tra My.
             <br />
             for Đàn Bầu, electronics, voice, objects and poetry. Duration: 45'
             <br />
@@ -217,8 +297,9 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            The Vivid Silences (2022) - a multimedia and site-specific
-            performance designed for Goethe Institut Ghana.
+            <i className="underline">The Vivid Silences</i> (2022) - a
+            multimedia and site-specific performance designed for Goethe
+            Institut Ghana.
             <br />
             for traditional Vietnamese & Ghanaian music (acoustic, electronics),
             experimental music, traditional & contemporary African dance, spoken
@@ -229,8 +310,11 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Music for a short film 'Yellow My Window' by Ghanaian artist Ato
-            Kwamina Hasford - Oteanankanduro (2022)
+            <i className="underline">
+              Music for a short film 'Yellow My Window' by Ghanaian artist Ato
+              Kwamina Hasford - Oteanankanduro
+            </i>{" "}
+            (2022)
             <br />
             Duration: 11'
             <br />
@@ -240,8 +324,9 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            THE APPEAL (2022) - an intercultural, intermedia and site-specific
-            performance designed for Alliance Française Accra.
+            <i className="underline">THE APPEAL</i> (2022) - an intercultural,
+            intermedia and site-specific performance designed for Alliance
+            Française Accra.
             <br />
             for traditional Vietnamese & Ghanaian music (acoustic, electronics),
             experimental music, traditional & contemporary African dance, video,
@@ -254,8 +339,8 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Chênh chếch (a step aside) (2022) in the concert TÍCH TỊCH TÌNH
-            TANG...
+            <i className="underline">Chênh chếch (a step aside)</i> (2022) in
+            the concert TÍCH TỊCH TÌNH TANG...
             <br />
             for traditional Vietnamese singing & wooden block, experimental
             singing, đàn bầu, đàn tranh, objects and electronics.
@@ -266,8 +351,8 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            La lettre perdue (2022) for the 6th edition of Electric Voice
-            project of Nicholas Isherwood.
+            <i className="underline">La lettre perdue</i> (2022) for the 6th
+            edition of Electric Voice project of Nicholas Isherwood.
             <br />
             for voice, fixed media and video. Poetry by Emmanuel Labrande.
             Duration: 8'45
@@ -282,7 +367,8 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Ether (Thinh không) (2021) in album "Strengur"
+            <i className="underline">Ether (Thinh không)</i> (2021) in album
+            "Strengur"
             <br />
             for electronics. Duration: 9'39
             <br />
@@ -292,7 +378,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Strengur (2021) in album "Strengur"
+            <i className="underline">Strengur</i> (2021) in album "Strengur"
             <br />
             Performed electronics on the score by Halla Steinunn Stefánsdóttir
             with live video "Packed Memories" by Luong Hue Trinh. Duration: 8'16
@@ -303,8 +389,9 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Ohn Warum (2021) in concert "Drifting Intervals" for five female
-            artists from Vietnam, Germany, France, Switzerland & Ghana
+            <i className="underline">Ohn Warum</i> (2021) in concert "Drifting
+            Intervals" for five female artists from Vietnam, Germany, France,
+            Switzerland & Ghana
             <br />
             for cello, voices in German and Vietnamese languages, accordion, đàn
             bầu (Vietnamese monochord), poetry by Angelus Silesius and
@@ -317,8 +404,8 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Heave/Phập phồng (2021) - a multimedia performance designed for the
-            space of Alliance Française Accra.
+            <i className="underline">Heave/Phập phồng</i> (2021) - a multimedia
+            performance designed for the space of Alliance Française Accra.
             <br />
             for electronics, Ewe drums, experimental voice, Ewe traditional
             singing, poetry, traditional and African contemporary dance, video
@@ -332,7 +419,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Transit Zone (2020)
+            <i className="underline">Transit Zone </i>(2020)
             <br />
             for flute, clarinet, violin, cello, piano, đàn Tranh, electronics
             and video. Duration: 17'17
@@ -346,7 +433,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            It is not raining, it is misting (2020)
+            <i className="underline">It is not raining, it is misting</i> (2020)
             <br />
             for piano, electronics and video. Duration: 8'35
             <br />
@@ -359,7 +446,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            The Net of Imagination (2019)
+            <i className="underline">The Net of Imagination </i>(2019)
             <br />
             for traditional Vietnamese singing, cello, electronics and video.
             Duration: 7'00
@@ -373,7 +460,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Oblique Light (2019)
+            <i className="underline">Oblique Light</i> (2019)
             <br />
             for traditional Vietnamese singing, percussions, cello, electronics
             and video. Duration: 9'00
@@ -387,7 +474,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            iel (2019)
+            <i className="underline">iel</i> (2019)
             <br />
             for pipa, sheng, zhong ruan, guzheng, clarinet, drumset and
             electronics. Duration: 7'00
@@ -399,7 +486,10 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            How many skies and seas will have disappeared...? (2019)
+            <i className="underline">
+              How many skies and seas will have disappeared...?
+            </i>{" "}
+            (2019)
             <br />
             for objects, bamboo flutes, electronics and video. Duration: 7'00
             <br />
@@ -407,7 +497,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Scarlet Nails (2019)
+            <i className="underline">Scarlet Nails</i> (2019)
             <br />
             for dan Tranh, rice and electronics. Duration: 11'00
             <br />
@@ -418,7 +508,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            My Angle (2018)
+            <i className="underline">My Angle</i> (2018)
             <br />
             for a solo live electronics and video. Duration: 6’00
             <br />
@@ -427,7 +517,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Traces (2018)
+            <i className="underline">Traces</i> (2018)
             <br />
             for two percussionists, vocal, electronics and video. Duration:
             12’00
@@ -437,7 +527,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            JiJi (2018)
+            <i className="underline">JiJi</i> (2018)
             <br />
             for dan Tranh, violin, cello, flute, bass clarinet, electronics and
             video. Duration: 7'00
@@ -448,7 +538,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Red Moon (2018)
+            <i className="underline">Red Moon</i> (2018)
             <br />
             for a solo performer on Tam-Tam with various tools & live
             electronics. Duration: 12’00
@@ -458,7 +548,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Departure of a Leaf (2018)
+            <i className="underline">Departure of a Leaf</i> (2018)
             <br />
             for violin and electronics. Duration: 8'00
             <br />
@@ -472,7 +562,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Mater Materia (2017)
+            <i className="underline">Mater Materia</i> (2017)
             <br />
             for fixed Media for the opera “Mater Materia” by Maurice Lenhard.
             Duration: 16’00
@@ -484,7 +574,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Behind The Mirror 2 (2017)
+            <i className="underline">Behind The Mirror 2</i> (2017)
             <br />
             for fretless e-guitar, trombone, fixed media, live electronics &
             video. Duration: 9’00
@@ -495,7 +585,8 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            wESTAMAN PROJECT (2017) by Bjorn Charles Dreyer
+            <i className="underline">wESTAMAN PROJECT</i> (2017) by Bjorn
+            Charles Dreyer
             <br />
             Improvised with electronics, e-guitar/electronics,
             drums/electronics, oud/violin/vocal and live video formed by Bjorn
@@ -510,7 +601,7 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            Echoes - 3 parts (2016)
+            <i className="underline">Echoes - 3 parts</i> (2016)
             <br />
             Fixed Media for the opera DIDO & AENEAS by Henry Purcell.
             <br />
@@ -683,6 +774,906 @@ export default function Home() {
             <br />
           </li>
         </ul>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative">
+        <img
+          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
+          src="/images/p11.jpeg"
+        />
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Music</p>
+        </div>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative grid grid-cols-2 lg:grid-cols-3 bg-white p-32 gap-4">
+        <iframe
+          src="https://www.youtube.com/embed/1dWJPBceLLo"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          src="https://www.youtube.com/embed/9YcZX-LJrPI"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          src="https://www.youtube.com/embed/wCzbv6xrz18"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/uBvfoYRm8Eg"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/oC02n_IzFMY"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/dvg-LzOqGUk"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/EZg_8DEZbmc"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/CXqgpMBLMLg"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/ELB1nbcXoyE"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/XeYwGbJ8cwU"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/dDrDd6MB1oM"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/nZs9-ZVo_DE"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/K7rG6ddyIIY"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/uMeQoYZnMBA"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative bg-white p-32 gap-4 flex flex-col items-center text-black">
+        <p className="text-xl">Gallery</p>
+        <div className="w-full grid grid-cols-2 lg:grid-cols-4 h-fit gap-4">
+          {images.map((src, index) => (
+            <Image
+              onClick={() => openImageViewer(index)}
+              key={index}
+              alt=""
+              width={100}
+              height={100}
+              className="w-full h-auto cursor-pointer"
+              src={src}
+            />
+          ))}
+        </div>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative">
+        <img
+          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
+          src="/images/VET.jpeg"
+        />
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative bg-white p-32 gap-4 flex flex-col items-center text-[#777777]">
+        <p className="text-xl">Events</p>
+        <ul className="flex flex-col gap-4">
+          <li className="list-disc">
+            29.11.2023 at 8 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Academy of Arts, Berlin - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            28.11.2023 at 7 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Übersee Museum, Bremen - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            26.11.2023 at 6 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Sprengel Museum, Hannover - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            24.11.2023 at 7:30 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Conversations with composers of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Hannover University of Music, Theater and Media (Room E45), New
+            House 1, 30175 Hannover.{" "}
+          </li>
+          <li className="list-disc">
+            13.10.2023 at 6 PM{" "}
+            <a
+              className="underline"
+              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
+            >
+              #Showcase Concert of the project Études for Live-Electronics
+            </a>{" "}
+            at the Future Art Lab - Klangtheater at University of Music and
+            Performing Arts, Anton-von-Webern-Platz 1 1030 Vienna - Austria.{" "}
+          </li>
+          <li className="list-disc">
+            10-12.10.2023 at 10 AM - 5 PM{" "}
+            <a
+              className="underline"
+              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
+            >
+              #Workshop Live-Electronics{" "}
+            </a>{" "}
+            at University of Music and Performing Arts (mdw), Vienna - Austria.{" "}
+          </li>
+          <li className="list-disc">
+            22.09.2023 at 7 PM{" "}
+            <a
+              className="underline"
+              href="hhttps://www.facebook.com/photo?fbid=1072897170715058&amp;set=pcb.1072897240715051"
+            >
+              #composition Departure of a Leaf{" "}
+            </a>
+            for violin and electronics for Halla Steinunn Stefánsdóttir will be
+            performed at Sibelius Museum, Turku - Finland.{" "}
+          </li>
+          <li className="list-disc">
+            08.08.2023 at 7 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=600592735536733&amp;set=a.500080278921313"
+            >
+              #A talk: Multimedia Projects: Meet &amp; Share
+            </a>{" "}
+            at Alliance Française Accra, Ghana.{" "}
+          </li>
+          <li className="list-disc">
+            09.06.2023 at 7 PM{" "}
+            <a
+              className="underline"
+              href="https://web.facebook.com/events/181801891191773?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&amp;notif_id=1686043548618768&amp;notif_t=plan_user_invited&amp;ref=notif"
+            >
+              #Concert &amp; Conversation with Eva Zöllner, Stefan Kohmann &amp;
+              Dela Botri
+            </a>{" "}
+            at Goethe Institut Ghana.{" "}
+          </li>
+          <li className="list-disc">
+            06.06.2023 at 6 PM{" "}
+            <a className="underline" href="">
+              #Meet Mohammed Alidu and Bizung School of Music and Dance{" "}
+            </a>{" "}
+            at the Wooden Restaurant, Tamale, Ghana.{" "}
+          </li>
+          <li className="list-disc">
+            03.06.2023 at 7:30 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=564866039109403&amp;set=a.500080278921313"
+            >
+              #SLANTED SILHOUETTES{" "}
+            </a>{" "}
+            - a multicultural, multimedia and a site-specific performance by
+            Luong Hue Trinh with artists from Ghana, Vietnam, France, Togo,
+            Germany &amp; Cameroon, at Alliance Française Accra, Ghana.
+          </li>
+          <li className="list-disc">
+            10.05.2023 at 9 PM{" "}
+            <a
+              className="underline"
+              href="https://aaa-angelica.com/aaa/festival/angelica-33-lauren-sarah-hayes-luong-hue-trinh-ngo-tra-my/"
+            >
+              #NHẤP NHOÁNG{" "}
+            </a>{" "}
+            - a performance by Luong Hue Trinh and Ngo Tra My at the 33rd
+            AngelicA International Music Festival, at Teatro San Leonardo - a
+            Performance Art Theatre at San Vitale 63 - 67, Bologna, Italy.
+          </li>
+          <li className="list-disc">
+            14-21.04.2023{" "}
+            <a
+              className="underline"
+              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/"
+            >
+              #Workshop of project Études for Live-Electronics{" "}
+            </a>{" "}
+            at University of Music and Performing Arts Vienna, Austria.
+          </li>
+          <li className="list-disc">
+            03-05.04.2023{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Workshop and performance of project TRAIECT IV - Vietnam{" "}
+            </a>{" "}
+            at Hochschule für Musik Theater und Medien Hanover, Germany.
+          </li>
+          <li className="list-disc">
+            26.11.2022 at 7:30 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1123926778327014/?ref=newsfeed"
+            >
+              #The Vivid Silences{" "}
+            </a>{" "}
+            - a multimedia and site-specific project by Luong Hue Trinh at
+            Goethe Institut Ghana. A production of Goethe Institut Ghana with
+            the support from Alliance Française Accra.
+          </li>
+          <li className="list-disc">
+            23.10.2022 at 4:00 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1177999709730550?ref=newsfeed"
+            >
+              #Music for a short experimental film 'Yellow My Window' by
+              Ghanaian artist, Ato Kwamina Hasford - Oteanankanduro{" "}
+            </a>{" "}
+            at Auditorium, Cité Internationale des Arts, Paris.
+          </li>
+          <li className="list-disc">
+            26.08.2022{" "}
+            <a
+              className="underline"
+              href="https://hallasteinunn.bandcamp.com/album/strengur"
+            >
+              #'strengur' album release{" "}
+            </a>{" "}
+            - a project of the Icelandic violinist, composer Halla Steinunn
+            Stefánsdóttir with four international composers, released by
+            Carriers Records, New York City - USA with the support from Ministry
+            of Culture in Iceland.
+          </li>
+          <li className="list-disc">
+            18.06.2022 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/AllianceFrancaisedAccra/photos/a.143983402374576/4739778496128354/"
+            >
+              #THE APPEAL
+            </a>{" "}
+            - an intercultural and intermedia, a site-specific project by Luong
+            Hue Trinh, with artists from Ghana, Vietnam, Germany and France, at
+            Alliance Française Accra - Ghana. A production of Alliance Française
+            Accra.
+          </li>
+          <li className="list-disc">
+            19.05.2022 at 6:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.murateartdistrict.it/en/electric-voice/?fbclid=IwAR05fFzl6FzkxQfi9vOeG_pKSefnLgqqECeScZfzsa3AGNGs_1YybepYCYs"
+            >
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at MAD Murate Art
+            District, Florence - Italy
+          </li>
+          <li className="list-disc">
+            07.05.2022 at 7:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://music.washington.edu/events/2022-05-07/guest-artist-recital-nicholas-isherwood-bass-baritone?fbclid=IwAR3VHSaBDhx2QIVkYAHTuWeb-4PJ736HVnDLuSNdARfl8VWlAHUQZIxma_Y"
+            >
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at Brechemin
+            Auditorium, University of Washington, Seattle - USA
+          </li>
+          <li className="list-disc">
+            30.04.2022 at 7:00 PM:{" "}
+            <a className="underline" href="">
+              #Societe Generale Ghana Jazz Festival - as a guest artist with
+              Abdoulaye Nderguet &amp; theBex'Tet Jazz Band (France/Chad)
+            </a>{" "}
+            at Alliance Française Accra, Ghana.
+          </li>
+          <li className="list-disc">
+            20.04.2022 at 4:30 PM: Worldpremiere of{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo?fbid=10159960037673966&amp;set=a.120770133965"
+            >
+              {" "}
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at The California State
+            University, Fullerton - USA
+          </li>
+          <li className="list-disc">
+            09.04.2022 at 7:30 PM: Worldpremiere of{" "}
+            <a
+              className="underline"
+              href="https://museo.unav.edu/agenda/-/events/09/04/2022/the-electric-voice/JA6fw1cTOMDY/35767801?fbclid=IwAR0gypZeKZqp1tqRPqXKEYIB91OtRzlOFrpKed2_57aXQe26LDC9tWuEsPQ"
+            >
+              {" "}
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at Theatre of
+            University of Navarra Museum, Pamplona - Spain.
+          </li>
+          <li className="list-disc">
+            02.04.2022 at 7:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/2154272998054200/?ref=newsfeed"
+            >
+              {" "}
+              #TÍCH TỊCH TÌNH TANG Concert
+            </a>{" "}
+            at Goethe-Instiut Hanoi, 56-58 Nguyen Thai Hov, Hanoi - Vietnam.
+          </li>
+          <li className="list-disc">
+            06.11.2021 at 4:00 PM-6 PM Singapore Time:{" "}
+            <a className="underline" href="">
+              {" "}
+              #Fusing Tradition and Innovation
+            </a>
+            , a presentation panel in the SEADOM (the Southeast Asia Directors
+            of Music) 30 Under 30, hosted by Yong Siew Toh Conservatory of Music
+            - National University of Singapore.
+          </li>
+          <li className="list-disc">
+            17.07.2021 at 7:00 PM-Vietnam, 2 PM-Europe, 12 PM-Ghana:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/947355292779971?ref=newsfeed"
+            >
+              {" "}
+              #Drifting Intervals/Những khoảng trôi
+            </a>{" "}
+            - a network performance from Germany, France, Switzerland, Vietnam
+            and Ghana. Live performance of Vietnamese artist with audiences at
+            Goethe-Institut Vietnam, 56-58 Nguyễn Thái Học, Hà Nội.
+          </li>
+          <li className="list-disc">
+            29.05.2021 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/307499067714217"
+            >
+              {" "}
+              #HEAVE/Phập phồng - a multimedia project{" "}
+            </a>{" "}
+            for music, poetry, dance and video at the outdoor Amphitheater -
+            Alliance Française, Casely Hayford Road, Airport Residential Area,
+            Accra - Ghana.
+          </li>
+          <li className="list-disc">
+            16.01.2021 at 12:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.instagram.com/if_officiel/"
+            >
+              {" "}
+              #Online talk in Guest Lecture Series in Composers on Soundscape
+              Composition
+            </a>{" "}
+            at Leuphana University, Lüneburg Germany.
+          </li>
+          <li className="list-disc">
+            10.12.2020 at 6:00 PM: Online Open-Studios of{" "}
+            <a
+              className="underline"
+              href="https://www.instagram.com/if_officiel/"
+            >
+              {" "}
+              #Le lointain proche project
+            </a>{" "}
+            in the Réciprocité program of Villa Saigon, Institut Français du
+            Vietnam, Institut Français Paris at Cité interantionale des arts,
+            Paris
+          </li>
+          <li className="list-disc">
+            27.09.2020 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1996030040530009"
+            >
+              {" "}
+              #INTER Konzert intermedial und interkulturell
+            </a>{" "}
+            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
+            video at Bürgemeisterhaus Essen Werden, Heckstraße 105, 45239 Essen
+            - Germany.
+          </li>
+          <li className="list-disc">
+            26.09.2020 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/684394142288505/"
+            >
+              {" "}
+              #INTER Konzert intermedial und interkulturell
+            </a>{" "}
+            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
+            video at Theater in Pumpenhaus Münster, Gartenstr. 123 - Germany.
+          </li>
+          <li className="list-disc">
+            25.09.2020 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/324146162052937"
+            >
+              {" "}
+              #INTER Konzert intermedial und interkulturell
+            </a>{" "}
+            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
+            video at Alte Feuerwache Cologne, Melchiorstr. 3 - Germany.
+          </li>
+          <li className="list-disc">
+            10.09.2020 at 9:00 PM–Midnight Pacific Time (UTC -7) on broadcast
+            curated by Radio Eclectus on Hollow Earth Radio: KHUH LP 104.9 in
+            Central Seattle, Washington-USA, hollowearthradio.org and on demand
+            at Mixcloud starting Friday.
+          </li>
+          <li className="list-disc">
+            06.07.2020 at 10:00 PM BST:{" "}
+            <a className="underline" href="https://resonancefm.com/schedule">
+              {" "}
+              #Sound-art and transmission-art delivered monthly
+            </a>{" "}
+            by London sound art collective Gwaith Sŵn. To be broadcast on
+            Resonance FM via 104.4FM in London and online at
+            www.resonancefm.com; repeated on the following Sunday at 6AM and
+            also simulcast on DAB+ via Resonance Extra.{" "}
+          </li>
+          <li className="list-disc">
+            20.06.2020 at 8:00 PM: <u>#Fête de la Musique</u> - a performance
+            with Ghanaian choreographer/dancer Sena Atsugah at Alliance
+            Française d'Accra, Ghana. LIVE STREAM on Instagram: af_accra;
+            Facebook: Alliance Francaise d'Accra, Alliance Francaise Accra
+            Cultural Events; Youtube: Alliance Francaise Accra.{" "}
+          </li>
+          <li className="list-disc">
+            28 &amp; 30.11.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/579543092783943/"
+            >
+              {" "}
+              #Concert Lettres de Hanoi
+            </a>{" "}
+            in European Music Festival in Vietnam on 28.11 at Ho Chi Minh
+            Conservatory of Music/ on 30.11 at Youth Theatre of Vietnam, Hanoi.{" "}
+          </li>
+          <li className="list-disc">
+            23.11.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/398139147525762/"
+            >
+              {" "}
+              #Concert 5: SoundBridge-IV
+            </a>{" "}
+            in SoundBridge Contemporary music Festival at Experimental &amp; TV
+            Studio, Taylor's University, Malaysia.{" "}
+          </li>
+          <li className="list-disc">
+            20.09.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/379041056079050/"
+            >
+              {" "}
+              #Concert Blind Signal GRMN VTNM
+            </a>{" "}
+            at Wasserspeicher Prenzlauer Berg, Berlin-Germany.
+          </li>
+          <li className="list-disc">
+            06.07.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/653027985169230/"
+            >
+              {" "}
+              #Concert Frontière Indécise/Blurred Boundary
+            </a>{" "}
+            for music and video at Institut Francais de Hanoi - L'Espace, 24
+            Trang Tien, Hanoi-Vietnam.
+          </li>
+          <li className="list-disc">
+            27.04.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/803450143345055/"
+            >
+              {" "}
+              #Concert: Blind Signal Vietnam-Germany "Đoàn"
+            </a>{" "}
+            at Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi-Vietnam.
+          </li>
+          <li className="list-disc">
+            26.04.2019 at 7:00 PM: world premiere of "Móng Hường/Scarlet Nails"
+            for đàn Tranh and electronics in the Intonal Festival at Inter Arts
+            Center, Red Room, Bergsgatan 29, 214 22 Malmö-Sweden.
+          </li>
+          <li className="list-disc">
+            21.04.2019 at 8:00 PM: "JiJi" for đàn Tranh, flute/picollo, bass
+            clarinet, violin, cello, tape and video in{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/2121387418162515/"
+            >
+              {" "}
+              #Concert The Poetry of the Moon
+            </a>{" "}
+            with Hanoi New Music Ensemble and conductor Jeff Von Der Schmidt at
+            Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi.
+          </li>
+          <li className="list-disc">
+            20.04.2019 at 12:30 PM -2:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/694408290978166/"
+            >
+              {" "}
+              #Workshop/Luong Hue Trinh - In the middle of borders
+            </a>{" "}
+            in Blind Signal Vietnam-Germany project at Hanoi Rock City, 27/52 To
+            Ngoc Van, Hanoi.
+          </li>
+          <li className="list-disc">
+            25-30.03.2019 from 9:00 AM:{" "}
+            <a
+              className="underline"
+              href="https://music.upd.edu.ph/MCL.html?fbclid=IwAR1qRZuEwr7wYuNrr6nU6Ruh7R4uL04tucDZKWuLSyYUcnEVU_G9kQHx8c8"
+            >
+              {" "}
+              #Event the 10th anniversary of Manila Composers Lab
+            </a>{" "}
+            at University of Philippines.
+          </li>
+          <li className="list-disc">
+            22.03.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/603802070093556/"
+            >
+              {" "}
+              #Concert TIẾP và NỐI/On the Path of the Ancestors
+            </a>{" "}
+            - Three generations of Vietnam Contemporary music at Vietnamese
+            National Academy of Music, 77 Hao Nam, Hanoi.
+          </li>
+          <li className="list-disc">
+            16.03.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1208841429291813/"
+            >
+              {" "}
+              #Concert VỆT/ STREAKS - Hòa nhạc đa phương tiện/Concert Multimédia
+            </a>
+            , supported by Goethe-Institut Hanoi and Institut Français de Hanoi
+            - L'Espace at L'Espace, 24 Trang Tien, Hanoi.
+          </li>
+          <li className="list-disc">
+            03.03.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/553010875186595/"
+            >
+              {" "}
+              #Concert Berlin-Hanoi Meeting
+            </a>{" "}
+            - Electroacoustic music from Berlin &amp; Hanoi at Goethe-Institut
+            Hanoi, 56-58 Nguyen Thai Hoc.
+          </li>
+          <li className="list-disc">
+            23.02.2019 at 9:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/2215605261825328/"
+            >
+              {" "}
+              #Concert Music from shy &amp; sophisticated souls/Những âm thanh
+              bẽn lẽn và tinh tế,
+            </a>{" "}
+            organised by Hanoi Grapevine at Hanoi Rock City 27/52 Tô Ngọc Vân,
+            Hanoi.
+          </li>
+        </ul>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative">
+        <img
+          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
+          src="/images/p6-min.jpeg"
+        />
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative bg-white p-32 gap-4 flex flex-col items-left text-[#777777]">
+        <p className="text-xl text-center">Links</p>
+        <p>
+          <b>
+            <u>Composers/Performers I've had an honor to work with:</u>
+          </b>
+          <br />
+          http://georghajdu.de <br />
+          http://www.dieter-mack.de
+          <br />
+          http://www.alexanderschubert.net
+          <br />
+          http://www.pgvim.ac.th/postgrad/faculty/dr-jean-david-caillouet
+          <br />
+          https://chongkeeyong-studio-c.com
+          <br />
+          http://kentolofsson.com
+          <br />
+          http://henrikfrisk.com
+          <br />
+          https://www.audreychen.com
+          <br />
+          https://utewassermann.com
+          <br />
+          https://www.severineballon.com
+          <br />
+          http://www.nicholasisherwood.com/
+          <br />
+          <br />
+          https://www.minhtamnguyen.com
+          <br />
+          http://www.claudiachan.ca
+          <br />
+          https://www.ina-ich.net
+          <br />
+          https://www.max-riefer.com
+          <br />
+          https://lin-chen-percussion.com
+          <br />
+          https://koksiewwai.wordpress.com
+          <br />
+          https://www.mhm.lu.se/en/stefan-ostersjo
+          <br />
+          https://nguyenthanhthuy.weebly.com
+          <br />
+          https://www.orso.co/solisten/holger-roese
+          <br />
+          https://www.facebook.com/martin.d.vera.3
+          <br />
+          https://www.facebook.com/josete.rosales.7
+          <br />
+          http://ensemble-handwerk.eu
+          <br />
+          https://www.facebook.com/TRAMYBAU/
+          <br />
+          https://playingforchange.org/mohammed-alidu/
+          <br />
+          http://www.eva-zoellner.de
+          <br />
+          https://stefankohmann.de <br />
+          https://www.ghanaweb.com/person/Botri-Dela-772
+          <br />
+          https://oteanankanduro.wordpress.com/
+          <br />
+          <br />
+          <b>
+            <u>Favourite Wineries</u>
+          </b>
+          <br />
+          http://www.drloosen.de
+          <br />
+          http://www.franz-keller.de
+          <br />
+          http://www.vonschubert.com
+          <br />
+          http://www.zilliken-vdp.de
+          <br />
+          http://www.quartzreef.co.nz
+          <br />
+          https://www.matua.co.nz
+          <br />
+          https://www.champagne-gosset.com
+          <br />
+          https://www.bourgogne-wines.com
+          <br />
+          https://www.weingut-theo-enk.de
+          <br />
+          https://www.schieferkopf.com
+          <br />
+          https://maximingruenhaus.de
+          <br />
+          http://www.muellen.de
+          <br />
+          https://www.bassermann-jordan.de <br />
+          https://weingut-knipser.de <br />
+          https://www.weingut-kuenstler.de
+          <br />
+          https://www.weingut-robert-weil.com
+          <br />
+          https://weingut-fritz-haag.de
+          <br />
+          https://www.weingut-matthiasmueller.de <br />
+          Peter &amp; Peter Riesling
+          <br />
+          https://domdechantwerner.com/
+          <br />
+          https://www.vino-store.com/produit/gigondas-vieux-clocher/
+          <br />
+          <br />
+          <b>
+            <u>Favourite Restaurants</u>
+          </b>
+          <br />
+          http://eraora.dk
+          <br />
+          http://www.reinstoff.eu
+          <br />
+          http://www.wullenwever.de
+          <br />
+          http://restaurant-piment.de
+          <br />
+          http://www.annasgroi.de/en
+          <br />
+          http://www.cornelia-poletto.de
+          <br />
+          https://www.gallo-nero.net
+          <br />
+          https://highway4.com
+          <br />
+          https://www.kisusushi.vn
+          <br />
+          https://www.facebook.com/GaneyaJapaneseRestaurant/
+          <br />
+          https://www.facebook.com/Ngan-Ngon-Trâm-42-Hàng-Nón-2409591725920105/
+          <br />
+          https://pasgo.vn/nha-hang/hai-san-huong-lan-hai-san-nuc-tieng-ha-thanh-825
+          <br />
+          https://www.facebook.com/LeTandemaccraghana
+          <br />
+          https://etoiledasielyon.wordpress.com
+          <br />
+          http://www.yoloxperiences.com/santoku.aspx
+          <br />
+          <br />
+        </p>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative">
+        <img
+          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
+          src="/images/p10-min.jpeg"
+        />
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+      </div>
+      <div className="w-screen min-h-screen h-fit relative bg-white p-32 gap-4 flex flex-col items-left text-[#777777]">
+        <h3 className="text-center text-xl">Legal Notice</h3>
+        <p>
+          Luong Hue Trinh <br />
+          Hanoi, Vietnam
+          <br />
+          <br />
+          <br />
+          <b>Copyright</b>
+          <br />
+          © 2023, <br />
+          All rights reserved
+          <br />
+          The content of this website is protected by international copyright
+          laws. The content of this site may not be used for reproduction in any
+          form or for transmission, multiplication and publication by electronic
+          mediums without the express written permission of{" "}
+          <b>Luong Hue Trinh</b>, unless otherwise stated.
+          <br />
+          <b>Links to external websites</b>
+          <br />
+          The website contains links to external websites. We do not accept any
+          responsibility for the contents and data copyright policies of
+          external websites, as this lies beyond our jurisdiction and influence.
+          All links have been carefully examined, and do not pose any legal or
+          ethical issues at the time of publishing.
+          <br />
+          <b>Exclusion of liability</b>
+          <br />
+          This contents of the website reflect the ongoing nature of a
+          continuous working process. I cannot guarantee the actuality, quality,
+          correctness or completeness of the information contained on our web
+          pages, although utmost care has been taken with the selection of
+          included content.
+          <br />
+          No liability claims can be made against me, relating to damages of
+          material or ideological claims caused by the use or misuse of the
+          presented information or by faulty and incomplete information.
+        </p>
+        <h3 className="text-center text-xl">Contact</h3>
+        <div className="">
+          <i className=""></i>Luong Hue Trinh <br />
+          huetrinh.luong@gmail.com
+          <br />
+        </div>
+        <i className="">
+          {" "}
+          <a className="underline" href="mailto:huetrinh.luong@gmail.com">
+            Contact me
+          </a>{" "}
+          for further information!
+        </i>
       </div>
     </main>
   );
