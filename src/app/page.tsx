@@ -83,7 +83,7 @@ export default function Home() {
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
             <p className="text-4xl md:text-6xl">Luong Hue Trinh</p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & improviser
+              Multimedia composer & electronics improviser 
             </p>
           </div>
         </div>
