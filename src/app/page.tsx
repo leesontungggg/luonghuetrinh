@@ -93,7 +93,7 @@ export default function Home() {
         <br /> the sincerity of my emotions and thoughts."
       </div>
       <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-repeat bg-center bg-cover bg-white"
         style={{ backgroundImage: `url("/images/0.jpg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
@@ -236,7 +236,7 @@ export default function Home() {
         </p>
       </div>
       <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-no-repeat bg-right md:bg-center bg-cover bg-white"
         style={{ backgroundImage: `url("/images/projects.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
@@ -773,7 +773,7 @@ export default function Home() {
         </ul>
       </div>
       <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-no-repeat bg-right md:bg-center bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p11.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
@@ -933,7 +933,7 @@ export default function Home() {
         </div>
       </div>
       <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-no-repeat bg-center bg-cover bg-white"
         style={{ backgroundImage: `url("/images/VET.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
@@ -1458,7 +1458,7 @@ export default function Home() {
         </ul>
       </div>
       <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-no-repeat bg-center bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p6-min.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
@@ -1610,7 +1610,7 @@ export default function Home() {
         </p>
       </div>
       <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-no-repeat bg-center bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p10-min.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
