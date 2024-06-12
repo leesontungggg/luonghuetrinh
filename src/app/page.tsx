@@ -81,7 +81,9 @@ export default function Home() {
           className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-para bg-no-repeat bg-center bg-cover"
         >
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-            <p className="text-4xl md:text-6xl">Luong Hue Trinh</p>
+            <p className="text-4xl md:text-6xl font-brassiere">
+              <span className="">Luong</span> Hue Trinh
+            </p>
             <p className="text-md md:text-lg italic">
               Multimedia composer & improviser
             </p>
