@@ -989,6 +989,14 @@ export default function Home() {
         <p className="text-xl">Events</p>
         <ul className="flex flex-col gap-8">
           <li className="list-disc">
+            18.01.2024 at 7:30 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
+            Điền, Saigon.{" "}
+          </li>
+          <li className="list-disc">
             29.11.2023 at 8 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
               #Premiere Concert of the project TRAIECT IV Vietnam{" "}
