@@ -78,12 +78,14 @@ export default function Home() {
       <div className="w-full h-screen relative">
         <div
           style={{ backgroundImage: `url("/images/hero.jpg")` }}
-          className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-no-repeat bg-center bg-cover"
+          className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-para bg-no-repeat bg-center bg-cover"
         >
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-            <p className="text-4xl md:text-6xl">Luong Hue Trinh</p>
+            <p className="text-4xl md:text-6xl font-brassiere">
+              <span className="">Luong</span> Hue Trinh
+            </p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & electronics improviser
+              Multimedia composer & improviser
             </p>
           </div>
         </div>
@@ -92,14 +94,13 @@ export default function Home() {
         "Music is the voice from my inner self,
         <br /> the sincerity of my emotions and thoughts."
       </div>
-      <div className="w-full min-h-screen h-fit relative">
-        <img
-          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
-          src="/images/0.jpg"
-        />
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/0.jpg")` }}
+      >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-64 flex-col">
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <p className="text-center text-xl text-[#777777]">Biography</p>
         <p className="mt-8 text-[#777777]">
           Short version: Starting with music at age 5, then in 1998 at age 13,
@@ -236,14 +237,13 @@ export default function Home() {
           <br />
         </p>
       </div>
-      <div className="w-full min-h-screen h-fit relative">
-        <img
-          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-contain lg:object-cover bg-white"
-          src="/images/projects.jpeg"
-        />
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/projects.jpeg")` }}
+      >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-64 flex-col">
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col">
         <p className="text-center text-xl text-[#777777]">Works</p>
         <p className="my-8 text-[#777777]">List of works:</p>
         <ul className="text-[#777777] flex flex-col gap-8">
@@ -774,16 +774,15 @@ export default function Home() {
           </li>
         </ul>
       </div>
-      <div className="w-full min-h-screen h-fit relative">
-        <img
-          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-contain lg:object-cover bg-white"
-          src="/images/p11.jpeg"
-        />
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/p11.jpeg")` }}
+      >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-6xl">Music</p>
         </div>
       </div>
-      <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-2 bg-white py-8 lg:py-32 px-8 lg:px-64 gap-4">
+      <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-2 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
         <iframe
           src="https://www.youtube.com/embed/1dWJPBceLLo"
           title="YouTube video player"
@@ -919,7 +918,7 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
       </div>
-      <div className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-64 gap-4 flex flex-col items-center text-black">
+      <div className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black">
         <p className="text-xl">Gallery</p>
         <div className="w-full grid grid-cols-2 lg:grid-cols-4 h-fit gap-4">
           {images.map((src, index) => (
@@ -935,14 +934,13 @@ export default function Home() {
           ))}
         </div>
       </div>
-      <div className="w-full min-h-screen h-fit relative">
-        <img
-          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full bg-white object-contain lg:object-cover"
-          src="/images/VET.jpeg"
-        />
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/VET.jpeg")` }}
+      >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-64 gap-4 flex flex-col items-center text-[#777777]">
+      <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]">
         <p className="text-xl">Events</p>
         <ul className="flex flex-col gap-8">
           <li className="list-disc">
@@ -1469,14 +1467,13 @@ export default function Home() {
           </li>
         </ul>
       </div>
-      <div className="w-full min-h-screen h-fit relative">
-        <img
-          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
-          src="/images/p6-min.jpeg"
-        />
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/p6-min.jpeg")` }}
+      >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-64 gap-4 flex flex-col items-left text-[#777777]">
+      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p className="text-xl text-center">Links</p>
         <p>
           <b>
@@ -1622,14 +1619,13 @@ export default function Home() {
           <br />
         </p>
       </div>
-      <div className="w-[100%] min-h-screen h-fit relative">
-        <img
-          className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full object-cover"
-          src="/images/p10-min.jpeg"
-        />
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/p10-min.jpeg")` }}
+      >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-64 gap-4 flex flex-col items-left text-[#777777]">
+      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <h3 className="text-center text-xl">Legal Notice</h3>
         <p>
           Luong Hue Trinh <br />
