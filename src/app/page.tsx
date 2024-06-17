@@ -65,7 +65,39 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between bg-black w-screen overflow-hidden">
+    <main
+      id="home"
+      className="flex min-h-screen flex-col items-center justify-between bg-black w-screen overflow-hidden"
+    >
+      <nav className="fixed w-full flex flex-row z-10 bg-black/30">
+        <a className="px-8 py-4 hover:bg-white/50" href="#home">
+          HOME
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#biography">
+          BIOGRAPHY
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#works">
+          WORKS
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#music">
+          MUSIC
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#gallery">
+          GALLERY
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#events">
+          EVENTS
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#links">
+          LINKS
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#contact">
+          CONTACT
+        </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#legal">
+          LEGAL NOTICE
+        </a>
+      </nav>
       {isViewerOpen && (
         <ImageViewer
           src={images}
@@ -100,7 +132,10 @@ export default function Home() {
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
+      <div
+        id="biography"
+        className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col"
+      >
         <p className="text-center text-xl text-[#777777]">Biography</p>
         <p className="mt-8 text-[#777777]">
           Short version: Starting with music at age 5, then in 1998 at age 13,
@@ -243,7 +278,10 @@ export default function Home() {
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col">
+      <div
+        id="works"
+        className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col"
+      >
         <p className="text-center text-xl text-[#777777]">Works</p>
         <p className="my-8 text-[#777777]">List of works:</p>
         <ul className="text-[#777777] flex flex-col gap-8">
@@ -775,6 +813,7 @@ export default function Home() {
         </ul>
       </div>
       <div
+        id="music"
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p11.jpeg")` }}
       >
@@ -918,7 +957,10 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
       </div>
-      <div className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black">
+      <div
+        id="gallery"
+        className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black"
+      >
         <p className="text-xl">Gallery</p>
         <div className="w-full grid grid-cols-2 lg:grid-cols-4 h-fit gap-4">
           {images.map((src, index) => (
@@ -940,7 +982,10 @@ export default function Home() {
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]">
+      <div
+        id="events"
+        className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
+      >
         <p className="text-xl">Events</p>
         <ul className="flex flex-col gap-8">
           <li className="list-disc">
@@ -1465,7 +1510,10 @@ export default function Home() {
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+      <div
+        id="links"
+        className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]"
+      >
         <p className="text-xl text-center">Links</p>
         <p>
           <b>
@@ -1617,7 +1665,10 @@ export default function Home() {
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
       </div>
-      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+      <div
+        id="legal"
+        className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]"
+      >
         <h3 className="text-center text-xl">Legal Notice</h3>
         <p>
           Luong Hue Trinh <br />
@@ -1662,7 +1713,7 @@ export default function Home() {
           huetrinh.luong@gmail.com
           <br />
         </div>
-        <i className="">
+        <i id="contact" className="">
           {" "}
           <a className="underline" href="mailto:huetrinh.luong@gmail.com">
             Contact me
