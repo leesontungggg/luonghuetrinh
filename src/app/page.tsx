@@ -69,7 +69,7 @@ export default function Home() {
       id="home"
       className="flex min-h-screen flex-col items-center justify-between bg-black w-screen overflow-hidden"
     >
-      <nav className="fixed w-full flex flex-row z-10 bg-black/30">
+      <nav className="fixed w-full md:flex flex-row z-10 bg-black/30 left-0 top-0 text-white hidden">
         <a className="px-8 py-4 hover:bg-white/50" href="#home">
           HOME
         </a>
@@ -114,7 +114,7 @@ export default function Home() {
         >
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
             <p className="text-4xl md:text-6xl font-brassiere">
-              <span className="">Luong</span> Hue Trinh
+              <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
             <p className="text-md md:text-lg italic">
               Multimedia composer & improviser
@@ -821,7 +821,7 @@ export default function Home() {
           <p className="text-6xl">Music</p>
         </div>
       </div>
-      <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-2 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
+      <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
         <iframe
           src="https://www.youtube.com/embed/1dWJPBceLLo"
           title="YouTube video player"

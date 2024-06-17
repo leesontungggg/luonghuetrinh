@@ -7,6 +7,11 @@
   src: url("../../public/font/Brassiere.ttf");
 }
 
+@font-face {
+  font-family: "Brassiere Solid";
+  src: url("../../public/font/BrassiereSolid.ttf");
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;

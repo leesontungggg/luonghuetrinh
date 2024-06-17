@@ -16,6 +16,7 @@ const config: Config = {
     },
     fontFamily: {
       brassiere: ["Brassiere", "sans-serif"],
+      brassiere_solid: ["Brassiere Solid", "sans-serif"],
     },
   },
   plugins: [],
