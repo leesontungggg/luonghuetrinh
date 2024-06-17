@@ -83,7 +83,7 @@ export default function Home() {
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
             <p className="text-4xl md:text-6xl">Luong Hue Trinh</p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & electronics improviser 
+              Multimedia composer & electronics improviser
             </p>
           </div>
         </div>
@@ -945,6 +945,14 @@ export default function Home() {
       <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-64 gap-4 flex flex-col items-center text-[#777777]">
         <p className="text-xl">Events</p>
         <ul className="flex flex-col gap-8">
+          <li className="list-disc">
+            18.01.2024 at 7:30 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
+            Điền, Saigon.{" "}
+          </li>
           <li className="list-disc">
             29.11.2023 at 8 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
