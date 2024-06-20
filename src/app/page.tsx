@@ -987,38 +987,100 @@ export default function Home() {
         className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
       >
         <p className="text-xl">Events</p>
-        <ul className="flex flex-col gap-8">
-          <li className="list-disc">
-            18.01.2024 at 7:30 PM{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+        <ul className="flex flex-col gap-8"> 
+        <li className="list-disc">
+            09.06.2024 at 21:00:{" "}
+            <a className="underline" href="https://www.facebook.com/photo/?fbid=464322732923807&set=a.325553506800731">
+              #Gió chướng/Headwind - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon, Vietnam.{" "}  
+        </li>
+        <li className="list-disc">
+            04.06.2024 at 19:30:{" "}
+            <a className="underline" href="https://www.facebook.com/photo/?fbid=464316002924480&set=a.325553506800731">
+              #Ớiii À! - a night of music & dance - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2, Saigon, Vietnam.{" "}  
+        </li>
+        <li className="list-disc">
+            01.06.2024 at 19:30:{" "}
+            <a className="underline" href="https://www.facebook.com/photo/?fbid=464316919591055&set=a.325553506800731">
+              #Những thanh âm chưng cất/Distilled Sounds - a night of multimedia compositions - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon, Vietnam.{" "}  
+        </li>
+        <li className="list-disc">
+            31.05.2024 at 19:30:{" "}
+            <a className="underline" href="https://www.facebook.com/photo?fbid=464317426257671&set=a.325553506800731">
+              #Cót Két Concert - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2, Saigon, Vietnam.{" "}  
+        </li>
+            09.03.2024 at 20:00:{" "}
+            <a className="underline" href=" ">
+              #Serious Play Improv Lab (SPIL 085){" "}
+            </a>{" "}
+            at Percussion Sotre, Kota Damansara, Malaysia.{" "}
+          </li>
+        <li className="list-disc">
+            08.03.2024 at 20:00:{" "}
+            <a className="underline" href=" ">
+              #Album Release - Opening Performance{" "}
+            </a>{" "}
+            at Khatulistiwa 3/F, B-2-36, 13AJalan PJU 5, Cascades, Kota Damansara, Malaysia.{" "}
+          </li> 
+        <li className="list-disc">
+            06.03.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Lương Huệ Trinh & Natalie Alexandra TSE{" "}
+            </a>{" "}
+            at ThirdSpace, 113 Depot Road #14-1023 Singapore 100113.{" "}
+          </li>
+        <li className="list-disc">
+            23.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
+          </li>
+        <li className="list-disc">
+            20.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
+          </li>
+        <li className="list-disc">
+            18.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
               #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
             </a>{" "}
             at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
             Điền, Saigon.{" "}
           </li>
           <li className="list-disc">
-            29.11.2023 at 8 PM{" "}
+            29.11.2023 at 20:00:{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
               #Premiere Concert of the project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Academy of Arts, Berlin - Germany.{" "}
           </li>
           <li className="list-disc">
-            28.11.2023 at 7 PM{" "}
+            28.11.2023 at 19:00:{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
               #Premiere Concert of the project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Übersee Museum, Bremen - Germany.{" "}
           </li>
           <li className="list-disc">
-            26.11.2023 at 6 PM{" "}
+            26.11.2023 at 18:00:{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
               #Premiere Concert of the project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Sprengel Museum, Hannover - Germany.{" "}
           </li>
           <li className="list-disc">
-            24.11.2023 at 7:30 PM{" "}
+            24.11.2023 at 19:30:{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
               #Conversations with composers of the project TRAIECT IV Vietnam{" "}
             </a>{" "}
@@ -1026,7 +1088,7 @@ export default function Home() {
             House 1, 30175 Hannover.{" "}
           </li>
           <li className="list-disc">
-            13.10.2023 at 6 PM{" "}
+            13.10.2023 at 18:00:{" "}
             <a
               className="underline"
               href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
@@ -1037,7 +1099,7 @@ export default function Home() {
             Performing Arts, Anton-von-Webern-Platz 1 1030 Vienna - Austria.{" "}
           </li>
           <li className="list-disc">
-            10-12.10.2023 at 10 AM - 5 PM{" "}
+            10-12.10.2023 at 10:00 - 17:00:{" "}
             <a
               className="underline"
               href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
@@ -1047,7 +1109,7 @@ export default function Home() {
             at University of Music and Performing Arts (mdw), Vienna - Austria.{" "}
           </li>
           <li className="list-disc">
-            22.09.2023 at 7 PM{" "}
+            22.09.2023 at 19:00:{" "}
             <a
               className="underline"
               href="hhttps://www.facebook.com/photo?fbid=1072897170715058&amp;set=pcb.1072897240715051"
@@ -1058,7 +1120,7 @@ export default function Home() {
             performed at Sibelius Museum, Turku - Finland.{" "}
           </li>
           <li className="list-disc">
-            08.08.2023 at 7 PM{" "}
+            08.08.2023 at 19:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/photo/?fbid=600592735536733&amp;set=a.500080278921313"
@@ -1068,7 +1130,7 @@ export default function Home() {
             at Alliance Française Accra, Ghana.{" "}
           </li>
           <li className="list-disc">
-            09.06.2023 at 7 PM{" "}
+            09.06.2023 at 19:00:{" "}
             <a
               className="underline"
               href="https://web.facebook.com/events/181801891191773?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&amp;notif_id=1686043548618768&amp;notif_t=plan_user_invited&amp;ref=notif"
@@ -1079,14 +1141,14 @@ export default function Home() {
             at Goethe Institut Ghana.{" "}
           </li>
           <li className="list-disc">
-            06.06.2023 at 6 PM{" "}
+            06.06.2023 at 18:00:{" "}
             <a className="underline" href="">
               #Meet Mohammed Alidu and Bizung School of Music and Dance{" "}
             </a>{" "}
             at the Wooden Restaurant, Tamale, Ghana.{" "}
           </li>
           <li className="list-disc">
-            03.06.2023 at 7:30 PM{" "}
+            03.06.2023 at 19:30:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/photo/?fbid=564866039109403&amp;set=a.500080278921313"
@@ -1098,7 +1160,7 @@ export default function Home() {
             Germany &amp; Cameroon, at Alliance Française Accra, Ghana.
           </li>
           <li className="list-disc">
-            10.05.2023 at 9 PM{" "}
+            10.05.2023 at 21:00:{" "}
             <a
               className="underline"
               href="https://aaa-angelica.com/aaa/festival/angelica-33-lauren-sarah-hayes-luong-hue-trinh-ngo-tra-my/"
@@ -1127,7 +1189,7 @@ export default function Home() {
             at Hochschule für Musik Theater und Medien Hanover, Germany.
           </li>
           <li className="list-disc">
-            26.11.2022 at 7:30 PM{" "}
+            26.11.2022 at 19:30:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/1123926778327014/?ref=newsfeed"
@@ -1139,7 +1201,7 @@ export default function Home() {
             the support from Alliance Française Accra.
           </li>
           <li className="list-disc">
-            23.10.2022 at 4:00 PM{" "}
+            23.10.2022 at 16:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/1177999709730550?ref=newsfeed"
@@ -1163,7 +1225,7 @@ export default function Home() {
             of Culture in Iceland.
           </li>
           <li className="list-disc">
-            18.06.2022 at 8:00 PM:{" "}
+            18.06.2022 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/AllianceFrancaisedAccra/photos/a.143983402374576/4739778496128354/"
@@ -1176,7 +1238,7 @@ export default function Home() {
             Accra.
           </li>
           <li className="list-disc">
-            19.05.2022 at 6:00 PM:{" "}
+            19.05.2022 at 18:00:{" "}
             <a
               className="underline"
               href="https://www.murateartdistrict.it/en/electric-voice/?fbclid=IwAR05fFzl6FzkxQfi9vOeG_pKSefnLgqqECeScZfzsa3AGNGs_1YybepYCYs"
@@ -1187,7 +1249,7 @@ export default function Home() {
             District, Florence - Italy
           </li>
           <li className="list-disc">
-            07.05.2022 at 7:30 PM:{" "}
+            07.05.2022 at 19:30:{" "}
             <a
               className="underline"
               href="https://music.washington.edu/events/2022-05-07/guest-artist-recital-nicholas-isherwood-bass-baritone?fbclid=IwAR3VHSaBDhx2QIVkYAHTuWeb-4PJ736HVnDLuSNdARfl8VWlAHUQZIxma_Y"
@@ -1198,7 +1260,7 @@ export default function Home() {
             Auditorium, University of Washington, Seattle - USA
           </li>
           <li className="list-disc">
-            30.04.2022 at 7:00 PM:{" "}
+            30.04.2022 at 19:00:{" "}
             <a className="underline" href="">
               #Societe Generale Ghana Jazz Festival - as a guest artist with
               Abdoulaye Nderguet &amp; theBex'Tet Jazz Band (France/Chad)
@@ -1206,7 +1268,7 @@ export default function Home() {
             at Alliance Française Accra, Ghana.
           </li>
           <li className="list-disc">
-            20.04.2022 at 4:30 PM: Worldpremiere of{" "}
+            20.04.2022 at 16:30: Worldpremiere of{" "}
             <a
               className="underline"
               href="https://www.facebook.com/photo?fbid=10159960037673966&amp;set=a.120770133965"
@@ -1218,7 +1280,7 @@ export default function Home() {
             University, Fullerton - USA
           </li>
           <li className="list-disc">
-            09.04.2022 at 7:30 PM: Worldpremiere of{" "}
+            09.04.2022 at 19:30: Worldpremiere of{" "}
             <a
               className="underline"
               href="https://museo.unav.edu/agenda/-/events/09/04/2022/the-electric-voice/JA6fw1cTOMDY/35767801?fbclid=IwAR0gypZeKZqp1tqRPqXKEYIB91OtRzlOFrpKed2_57aXQe26LDC9tWuEsPQ"
@@ -1230,7 +1292,7 @@ export default function Home() {
             University of Navarra Museum, Pamplona - Spain.
           </li>
           <li className="list-disc">
-            02.04.2022 at 7:30 PM:{" "}
+            02.04.2022 at 19:30:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/2154272998054200/?ref=newsfeed"
@@ -1241,7 +1303,7 @@ export default function Home() {
             at Goethe-Instiut Hanoi, 56-58 Nguyen Thai Hov, Hanoi - Vietnam.
           </li>
           <li className="list-disc">
-            06.11.2021 at 4:00 PM-6 PM Singapore Time:{" "}
+            06.11.2021 at 16:00-18:00 Singapore Time:{" "}
             <a className="underline" href="">
               {" "}
               #Fusing Tradition and Innovation
@@ -1251,7 +1313,7 @@ export default function Home() {
             - National University of Singapore.
           </li>
           <li className="list-disc">
-            17.07.2021 at 7:00 PM-Vietnam, 2 PM-Europe, 12 PM-Ghana:{" "}
+            17.07.2021 at 19:00-Vietnam, 14:00-Europe, 12:00-Ghana:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/947355292779971?ref=newsfeed"
@@ -1264,7 +1326,7 @@ export default function Home() {
             Goethe-Institut Vietnam, 56-58 Nguyễn Thái Học, Hà Nội.
           </li>
           <li className="list-disc">
-            29.05.2021 at 8:00 PM:{" "}
+            29.05.2021 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/307499067714217"
@@ -1277,7 +1339,7 @@ export default function Home() {
             Accra - Ghana.
           </li>
           <li className="list-disc">
-            16.01.2021 at 12:00 PM:{" "}
+            16.01.2021 at 12:00:{" "}
             <a
               className="underline"
               href="https://www.instagram.com/if_officiel/"
@@ -1289,7 +1351,7 @@ export default function Home() {
             at Leuphana University, Lüneburg Germany.
           </li>
           <li className="list-disc">
-            10.12.2020 at 6:00 PM: Online Open-Studios of{" "}
+            10.12.2020 at 18:00: Online Open-Studios of{" "}
             <a
               className="underline"
               href="https://www.instagram.com/if_officiel/"
@@ -1302,7 +1364,7 @@ export default function Home() {
             Paris
           </li>
           <li className="list-disc">
-            27.09.2020 at 8:00 PM:{" "}
+            27.09.2020 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/1996030040530009"
@@ -1315,7 +1377,7 @@ export default function Home() {
             - Germany.
           </li>
           <li className="list-disc">
-            26.09.2020 at 8:00 PM:{" "}
+            26.09.2020 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/684394142288505/"
@@ -1327,7 +1389,7 @@ export default function Home() {
             video at Theater in Pumpenhaus Münster, Gartenstr. 123 - Germany.
           </li>
           <li className="list-disc">
-            25.09.2020 at 8:00 PM:{" "}
+            25.09.2020 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/324146162052937"
@@ -1345,7 +1407,7 @@ export default function Home() {
             at Mixcloud starting Friday.
           </li>
           <li className="list-disc">
-            06.07.2020 at 10:00 PM BST:{" "}
+            06.07.2020 at 22:00 BST:{" "}
             <a className="underline" href="https://resonancefm.com/schedule">
               {" "}
               #Sound-art and transmission-art delivered monthly
@@ -1363,7 +1425,7 @@ export default function Home() {
             Cultural Events; Youtube: Alliance Francaise Accra.{" "}
           </li>
           <li className="list-disc">
-            28 &amp; 30.11.2019 at 8:00 PM:{" "}
+            28 &amp; 30.11.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/579543092783943/"
@@ -1375,7 +1437,7 @@ export default function Home() {
             Conservatory of Music/ on 30.11 at Youth Theatre of Vietnam, Hanoi.{" "}
           </li>
           <li className="list-disc">
-            23.11.2019 at 8:00 PM:{" "}
+            23.11.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/398139147525762/"
@@ -1387,7 +1449,7 @@ export default function Home() {
             Studio, Taylor's University, Malaysia.{" "}
           </li>
           <li className="list-disc">
-            20.09.2019 at 8:00 PM:{" "}
+            20.09.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/379041056079050/"
@@ -1398,7 +1460,7 @@ export default function Home() {
             at Wasserspeicher Prenzlauer Berg, Berlin-Germany.
           </li>
           <li className="list-disc">
-            06.07.2019 at 8:00 PM:{" "}
+            06.07.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/653027985169230/"
@@ -1410,7 +1472,7 @@ export default function Home() {
             Trang Tien, Hanoi-Vietnam.
           </li>
           <li className="list-disc">
-            27.04.2019 at 8:00 PM:{" "}
+            27.04.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/803450143345055/"
@@ -1426,7 +1488,7 @@ export default function Home() {
             Center, Red Room, Bergsgatan 29, 214 22 Malmö-Sweden.
           </li>
           <li className="list-disc">
-            21.04.2019 at 8:00 PM: "JiJi" for đàn Tranh, flute/picollo, bass
+            21.04.2019 at 20:00: "JiJi" for đàn Tranh, flute/picollo, bass
             clarinet, violin, cello, tape and video in{" "}
             <a
               className="underline"
@@ -1439,7 +1501,7 @@ export default function Home() {
             Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi.
           </li>
           <li className="list-disc">
-            20.04.2019 at 12:30 PM -2:30 PM:{" "}
+            20.04.2019 at 12:30 - 14:30:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/694408290978166/"
@@ -1451,7 +1513,7 @@ export default function Home() {
             Ngoc Van, Hanoi.
           </li>
           <li className="list-disc">
-            25-30.03.2019 from 9:00 AM:{" "}
+            25-30.03.2019 from 9:00:{" "}
             <a
               className="underline"
               href="https://music.upd.edu.ph/MCL.html?fbclid=IwAR1qRZuEwr7wYuNrr6nU6Ruh7R4uL04tucDZKWuLSyYUcnEVU_G9kQHx8c8"
@@ -1462,7 +1524,7 @@ export default function Home() {
             at University of Philippines.
           </li>
           <li className="list-disc">
-            22.03.2019 at 8:00 PM:{" "}
+            22.03.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/603802070093556/"
@@ -1474,7 +1536,7 @@ export default function Home() {
             National Academy of Music, 77 Hao Nam, Hanoi.
           </li>
           <li className="list-disc">
-            16.03.2019 at 8:00 PM:{" "}
+            16.03.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/1208841429291813/"
@@ -1486,7 +1548,7 @@ export default function Home() {
             - L'Espace at L'Espace, 24 Trang Tien, Hanoi.
           </li>
           <li className="list-disc">
-            03.03.2019 at 8:00 PM:{" "}
+            03.03.2019 at 20:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/553010875186595/"
@@ -1498,7 +1560,7 @@ export default function Home() {
             Hanoi, 56-58 Nguyen Thai Hoc.
           </li>
           <li className="list-disc">
-            23.02.2019 at 9:00 PM:{" "}
+            23.02.2019 at 21:00: {" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/2215605261825328/"
@@ -1528,7 +1590,8 @@ export default function Home() {
             <u>Composers/Performers I've had an honor to work with:</u>
           </b>
           <br />
-          http://georghajdu.de <br />
+          http://georghajdu.de 
+          <br />
           http://www.dieter-mack.de
           <br />
           http://www.alexanderschubert.net
@@ -1580,7 +1643,8 @@ export default function Home() {
           <br />
           http://www.eva-zoellner.de
           <br />
-          https://stefankohmann.de <br />
+          https://stefankohmann.de 
+          <br />
           https://www.ghanaweb.com/person/Botri-Dela-772
           <br />
           https://oteanankanduro.wordpress.com/
@@ -1614,8 +1678,10 @@ export default function Home() {
           <br />
           http://www.muellen.de
           <br />
-          https://www.bassermann-jordan.de <br />
-          https://weingut-knipser.de <br />
+          https://www.bassermann-jordan.de 
+          <br />
+          https://weingut-knipser.de 
+          <br />
           https://www.weingut-kuenstler.de
           <br />
           https://www.weingut-robert-weil.com
@@ -1686,7 +1752,7 @@ export default function Home() {
           <br />
           <b>Copyright</b>
           <br />
-          © 2023, <br />
+          © 2024, <br />
           All rights reserved
           <br />
           The content of this website is protected by international copyright
