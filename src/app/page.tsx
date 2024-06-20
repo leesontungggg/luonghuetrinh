@@ -1033,7 +1033,7 @@ export default function Home() {
             at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
             Saigon, Vietnam.{" "}
           </li>
-          <li>
+          <li className="list-disc">
             09.03.2024 at 20:00:{" "}
             <a className="underline" href=" ">
               #Serious Play Improv Lab (SPIL 085){" "}
