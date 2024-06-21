@@ -939,8 +939,7 @@ export default function Home() {
             <a className="underline" href=" ">
               #Serious Play Improv Lab (SPIL 085)/KLEX Fest{" "}
             </a>{" "}
-            - Three generations of Vietnam Contemporary music at Vietnamese
-            National Academy of Music, 77 Hao Nam, Hanoi.
+            at Percussion Store, Kota Damansara, Malaysia.{" "}
           </li>
           <li className="list-disc">
             16.03.2019 at 8:00 PM:{" "}
@@ -967,7 +966,7 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/391173613410861/"
             >
-              #TỊCH MỊCH Concert{" "}
+              #TỊCH MỊCH{" "}
             </a>{" "}
             at Manzi Art Space, 14 Phan Huy Ích, Hanoi.{" "}
           </li>
@@ -1021,8 +1020,7 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/553010875186595/"
             >
-              {" "}
-              #Concert Berlin-Hanoi Meeting
+              #Showcase Concert of project Études for Live-Electronics
             </a>{" "}
             - Electroacoustic music from Berlin &amp; Hanoi at Goethe-Institut
             Hanoi, 56-58 Nguyen Thai Hoc.
