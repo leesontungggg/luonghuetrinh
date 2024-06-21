@@ -117,7 +117,7 @@ export default function Home() {
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & improviser
+              Multimedia composer & music improviser
             </p>
           </div>
         </div>
@@ -545,15 +545,6 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
-            <i className="underline">My Angle</i> (2018)
-            <br />
-            for a solo live electronics and video. Duration: 6’00
-            <br />
-            World premiered at Hamburg University of Music & Theatre/Institut
-            Français de Hanoi - L'Espace.
-            <br />
-          </li>
-          <li className="list-disc">
             <i className="underline">Traces</i> (2018)
             <br />
             for two percussionists, vocal, electronics and video. Duration:
@@ -608,17 +599,6 @@ export default function Home() {
             <br />
             World premiered at Theater Quartier – Theaterakademie Hamburg,
             Germany.
-            <br />
-          </li>
-          <li className="list-disc">
-            <i className="underline">Behind The Mirror 2</i> (2017)
-            <br />
-            for fretless e-guitar, trombone, fixed media, live electronics &
-            video. Duration: 9’00
-            <br />
-            Premiered in Blurred Edges festival at MS Stubnitz, Hamburg/
-            Portrait Concert: Luong Hue Trinh in the 43th Neue Musik Festival
-            Lüneburg, Germany.
             <br />
           </li>
           <li className="list-disc">
@@ -930,6 +910,16 @@ export default function Home() {
           width="320"
           height="240"
           src="https://www.youtube.com/embed/nZs9-ZVo_DE"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+         <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/v3kPiZLCjek?si=folOLngy16X47Xp2"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
