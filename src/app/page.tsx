@@ -76,6 +76,9 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#biography">
           BIOGRAPHY
         </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#events">
+          EVENTS
+        </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#works">
           WORKS
         </a>
@@ -84,9 +87,6 @@ export default function Home() {
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#gallery">
           GALLERY
-        </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#events">
-          EVENTS
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#links">
           LINKS
