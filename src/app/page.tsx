@@ -129,15 +129,13 @@ export default function Home() {
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/0.jpg")` }}
+        id="biography"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-6xl">Biography</p>
         </div>
       </div>
-      <div
-        id="biography"
-        className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col"
-      >
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <p className="mt-8 text-[#777777]">
           Short version: Starting with music at age 5, then in 1998 at age 13,
           LUONG Hue Trinh entered the Vietnam National Academy of Music. After
@@ -276,15 +274,13 @@ export default function Home() {
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/VET.jpeg")` }}
+        id="events"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-6xl">Events</p>
         </div>
       </div>
-      <div
-        id="events"
-        className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
-      >
+      <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]">
         <ul className="flex flex-col gap-8">
           <li className="list-disc">
             18.01.2024 at 7:30 PM{" "}
@@ -813,15 +809,13 @@ export default function Home() {
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/projects.jpeg")` }}
+        id="works"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-6xl">Works</p>
         </div>
       </div>
-      <div
-        id="works"
-        className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col"
-      >
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col">
         <p className="my-8 text-[#777777]">List of works:</p>
         <ul className="text-[#777777] flex flex-col gap-8">
           <li className="list-disc">
@@ -1523,15 +1517,13 @@ export default function Home() {
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p6-min.jpeg")` }}
+        id="links"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-6xl">Links</p>
         </div>
       </div>
-      <div
-        id="links"
-        className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]"
-      >
+      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
             <u>Composers/Performers I've had an honor to work with:</u>
@@ -1679,15 +1671,13 @@ export default function Home() {
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p10-min.jpeg")` }}
+        id="legal"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <h3 className="text-6xl">Legal Notice</h3>
         </div>
       </div>
-      <div
-        id="legal"
-        className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]"
-      >
+      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           Luong Hue Trinh <br />
           Hanoi, Vietnam
