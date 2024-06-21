@@ -117,7 +117,7 @@ export default function Home() {
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & music improviser
+              Multimedia composer & improviser
             </p>
           </div>
         </div>
@@ -130,13 +130,14 @@ export default function Home() {
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/0.jpg")` }}
       >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Biography</p>
+        </div>
       </div>
       <div
         id="biography"
         className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col"
       >
-        <p className="text-center text-xl text-[#777777]">Biography</p>
         <p className="mt-8 text-[#777777]">
           Short version: Starting with music at age 5, then in 1998 at age 13,
           LUONG Hue Trinh entered the Vietnam National Academy of Music. After
@@ -274,15 +275,553 @@ export default function Home() {
       </div>
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/VET.jpeg")` }}
+      >
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Events</p>
+        </div>
+      </div>
+      <div
+        id="events"
+        className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
+      >
+        <ul className="flex flex-col gap-8">
+          <li className="list-disc">
+            18.01.2024 at 7:30 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
+            Điền, Saigon.{" "}
+          </li>
+          <li className="list-disc">
+            29.11.2023 at 8 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Academy of Arts, Berlin - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            28.11.2023 at 7 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Übersee Museum, Bremen - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            26.11.2023 at 6 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Sprengel Museum, Hannover - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            24.11.2023 at 7:30 PM{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Conversations with composers of the project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Hannover University of Music, Theater and Media (Room E45), New
+            House 1, 30175 Hannover.{" "}
+          </li>
+          <li className="list-disc">
+            13.10.2023 at 6 PM{" "}
+            <a
+              className="underline"
+              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
+            >
+              #Showcase Concert of the project Études for Live-Electronics
+            </a>{" "}
+            at the Future Art Lab - Klangtheater at University of Music and
+            Performing Arts, Anton-von-Webern-Platz 1 1030 Vienna - Austria.{" "}
+          </li>
+          <li className="list-disc">
+            10-12.10.2023 at 10 AM - 5 PM{" "}
+            <a
+              className="underline"
+              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
+            >
+              #Workshop Live-Electronics{" "}
+            </a>{" "}
+            at University of Music and Performing Arts (mdw), Vienna - Austria.{" "}
+          </li>
+          <li className="list-disc">
+            22.09.2023 at 7 PM{" "}
+            <a
+              className="underline"
+              href="hhttps://www.facebook.com/photo?fbid=1072897170715058&amp;set=pcb.1072897240715051"
+            >
+              #composition Departure of a Leaf{" "}
+            </a>
+            for violin and electronics for Halla Steinunn Stefánsdóttir will be
+            performed at Sibelius Museum, Turku - Finland.{" "}
+          </li>
+          <li className="list-disc">
+            08.08.2023 at 7 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=600592735536733&amp;set=a.500080278921313"
+            >
+              #A talk: Multimedia Projects: Meet &amp; Share
+            </a>{" "}
+            at Alliance Française Accra, Ghana.{" "}
+          </li>
+          <li className="list-disc">
+            09.06.2023 at 7 PM{" "}
+            <a
+              className="underline"
+              href="https://web.facebook.com/events/181801891191773?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&amp;notif_id=1686043548618768&amp;notif_t=plan_user_invited&amp;ref=notif"
+            >
+              #Concert &amp; Conversation with Eva Zöllner, Stefan Kohmann &amp;
+              Dela Botri
+            </a>{" "}
+            at Goethe Institut Ghana.{" "}
+          </li>
+          <li className="list-disc">
+            06.06.2023 at 6 PM{" "}
+            <a className="underline" href="">
+              #Meet Mohammed Alidu and Bizung School of Music and Dance{" "}
+            </a>{" "}
+            at the Wooden Restaurant, Tamale, Ghana.{" "}
+          </li>
+          <li className="list-disc">
+            03.06.2023 at 7:30 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=564866039109403&amp;set=a.500080278921313"
+            >
+              #SLANTED SILHOUETTES{" "}
+            </a>{" "}
+            - a multicultural, multimedia and a site-specific performance by
+            Luong Hue Trinh with artists from Ghana, Vietnam, France, Togo,
+            Germany &amp; Cameroon, at Alliance Française Accra, Ghana.
+          </li>
+          <li className="list-disc">
+            10.05.2023 at 9 PM{" "}
+            <a
+              className="underline"
+              href="https://aaa-angelica.com/aaa/festival/angelica-33-lauren-sarah-hayes-luong-hue-trinh-ngo-tra-my/"
+            >
+              #NHẤP NHOÁNG{" "}
+            </a>{" "}
+            - a performance by Luong Hue Trinh and Ngo Tra My at the 33rd
+            AngelicA International Music Festival, at Teatro San Leonardo - a
+            Performance Art Theatre at San Vitale 63 - 67, Bologna, Italy.
+          </li>
+          <li className="list-disc">
+            14-21.04.2023{" "}
+            <a
+              className="underline"
+              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/"
+            >
+              #Workshop of project Études for Live-Electronics{" "}
+            </a>{" "}
+            at University of Music and Performing Arts Vienna, Austria.
+          </li>
+          <li className="list-disc">
+            03-05.04.2023{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Workshop and performance of project TRAIECT IV - Vietnam{" "}
+            </a>{" "}
+            at Hochschule für Musik Theater und Medien Hanover, Germany.
+          </li>
+          <li className="list-disc">
+            26.11.2022 at 7:30 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1123926778327014/?ref=newsfeed"
+            >
+              #The Vivid Silences{" "}
+            </a>{" "}
+            - a multimedia and site-specific project by Luong Hue Trinh at
+            Goethe Institut Ghana. A production of Goethe Institut Ghana with
+            the support from Alliance Française Accra.
+          </li>
+          <li className="list-disc">
+            23.10.2022 at 4:00 PM{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1177999709730550?ref=newsfeed"
+            >
+              #Music for a short experimental film 'Yellow My Window' by
+              Ghanaian artist, Ato Kwamina Hasford - Oteanankanduro{" "}
+            </a>{" "}
+            at Auditorium, Cité Internationale des Arts, Paris.
+          </li>
+          <li className="list-disc">
+            26.08.2022{" "}
+            <a
+              className="underline"
+              href="https://hallasteinunn.bandcamp.com/album/strengur"
+            >
+              #'strengur' album release{" "}
+            </a>{" "}
+            - a project of the Icelandic violinist, composer Halla Steinunn
+            Stefánsdóttir with four international composers, released by
+            Carriers Records, New York City - USA with the support from Ministry
+            of Culture in Iceland.
+          </li>
+          <li className="list-disc">
+            18.06.2022 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/AllianceFrancaisedAccra/photos/a.143983402374576/4739778496128354/"
+            >
+              #THE APPEAL
+            </a>{" "}
+            - an intercultural and intermedia, a site-specific project by Luong
+            Hue Trinh, with artists from Ghana, Vietnam, Germany and France, at
+            Alliance Française Accra - Ghana. A production of Alliance Française
+            Accra.
+          </li>
+          <li className="list-disc">
+            19.05.2022 at 6:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.murateartdistrict.it/en/electric-voice/?fbclid=IwAR05fFzl6FzkxQfi9vOeG_pKSefnLgqqECeScZfzsa3AGNGs_1YybepYCYs"
+            >
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at MAD Murate Art
+            District, Florence - Italy
+          </li>
+          <li className="list-disc">
+            07.05.2022 at 7:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://music.washington.edu/events/2022-05-07/guest-artist-recital-nicholas-isherwood-bass-baritone?fbclid=IwAR3VHSaBDhx2QIVkYAHTuWeb-4PJ736HVnDLuSNdARfl8VWlAHUQZIxma_Y"
+            >
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at Brechemin
+            Auditorium, University of Washington, Seattle - USA
+          </li>
+          <li className="list-disc">
+            30.04.2022 at 7:00 PM:{" "}
+            <a className="underline" href="">
+              #Societe Generale Ghana Jazz Festival - as a guest artist with
+              Abdoulaye Nderguet &amp; theBex'Tet Jazz Band (France/Chad)
+            </a>{" "}
+            at Alliance Française Accra, Ghana.
+          </li>
+          <li className="list-disc">
+            20.04.2022 at 4:30 PM: Worldpremiere of{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo?fbid=10159960037673966&amp;set=a.120770133965"
+            >
+              {" "}
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at The California State
+            University, Fullerton - USA
+          </li>
+          <li className="list-disc">
+            09.04.2022 at 7:30 PM: Worldpremiere of{" "}
+            <a
+              className="underline"
+              href="https://museo.unav.edu/agenda/-/events/09/04/2022/the-electric-voice/JA6fw1cTOMDY/35767801?fbclid=IwAR0gypZeKZqp1tqRPqXKEYIB91OtRzlOFrpKed2_57aXQe26LDC9tWuEsPQ"
+            >
+              {" "}
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at Theatre of
+            University of Navarra Museum, Pamplona - Spain.
+          </li>
+          <li className="list-disc">
+            02.04.2022 at 7:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/2154272998054200/?ref=newsfeed"
+            >
+              {" "}
+              #TÍCH TỊCH TÌNH TANG Concert
+            </a>{" "}
+            at Goethe-Instiut Hanoi, 56-58 Nguyen Thai Hov, Hanoi - Vietnam.
+          </li>
+          <li className="list-disc">
+            06.11.2021 at 4:00 PM-6 PM Singapore Time:{" "}
+            <a className="underline" href="">
+              {" "}
+              #Fusing Tradition and Innovation
+            </a>
+            , a presentation panel in the SEADOM (the Southeast Asia Directors
+            of Music) 30 Under 30, hosted by Yong Siew Toh Conservatory of Music
+            - National University of Singapore.
+          </li>
+          <li className="list-disc">
+            17.07.2021 at 7:00 PM-Vietnam, 2 PM-Europe, 12 PM-Ghana:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/947355292779971?ref=newsfeed"
+            >
+              {" "}
+              #Drifting Intervals/Những khoảng trôi
+            </a>{" "}
+            - a network performance from Germany, France, Switzerland, Vietnam
+            and Ghana. Live performance of Vietnamese artist with audiences at
+            Goethe-Institut Vietnam, 56-58 Nguyễn Thái Học, Hà Nội.
+          </li>
+          <li className="list-disc">
+            29.05.2021 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/307499067714217"
+            >
+              {" "}
+              #HEAVE/Phập phồng - a multimedia project{" "}
+            </a>{" "}
+            for music, poetry, dance and video at the outdoor Amphitheater -
+            Alliance Française, Casely Hayford Road, Airport Residential Area,
+            Accra - Ghana.
+          </li>
+          <li className="list-disc">
+            16.01.2021 at 12:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.instagram.com/if_officiel/"
+            >
+              {" "}
+              #Online talk in Guest Lecture Series in Composers on Soundscape
+              Composition
+            </a>{" "}
+            at Leuphana University, Lüneburg Germany.
+          </li>
+          <li className="list-disc">
+            10.12.2020 at 6:00 PM: Online Open-Studios of{" "}
+            <a
+              className="underline"
+              href="https://www.instagram.com/if_officiel/"
+            >
+              {" "}
+              #Le lointain proche project
+            </a>{" "}
+            in the Réciprocité program of Villa Saigon, Institut Français du
+            Vietnam, Institut Français Paris at Cité interantionale des arts,
+            Paris
+          </li>
+          <li className="list-disc">
+            27.09.2020 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1996030040530009"
+            >
+              {" "}
+              #INTER Konzert intermedial und interkulturell
+            </a>{" "}
+            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
+            video at Bürgemeisterhaus Essen Werden, Heckstraße 105, 45239 Essen
+            - Germany.
+          </li>
+          <li className="list-disc">
+            26.09.2020 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/684394142288505/"
+            >
+              {" "}
+              #INTER Konzert intermedial und interkulturell
+            </a>{" "}
+            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
+            video at Theater in Pumpenhaus Münster, Gartenstr. 123 - Germany.
+          </li>
+          <li className="list-disc">
+            25.09.2020 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/324146162052937"
+            >
+              {" "}
+              #INTER Konzert intermedial und interkulturell
+            </a>{" "}
+            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
+            video at Alte Feuerwache Cologne, Melchiorstr. 3 - Germany.
+          </li>
+          <li className="list-disc">
+            10.09.2020 at 9:00 PM–Midnight Pacific Time (UTC -7) on broadcast
+            curated by Radio Eclectus on Hollow Earth Radio: KHUH LP 104.9 in
+            Central Seattle, Washington-USA, hollowearthradio.org and on demand
+            at Mixcloud starting Friday.
+          </li>
+          <li className="list-disc">
+            06.07.2020 at 10:00 PM BST:{" "}
+            <a className="underline" href="https://resonancefm.com/schedule">
+              {" "}
+              #Sound-art and transmission-art delivered monthly
+            </a>{" "}
+            by London sound art collective Gwaith Sŵn. To be broadcast on
+            Resonance FM via 104.4FM in London and online at
+            www.resonancefm.com; repeated on the following Sunday at 6AM and
+            also simulcast on DAB+ via Resonance Extra.{" "}
+          </li>
+          <li className="list-disc">
+            20.06.2020 at 8:00 PM: <u>#Fête de la Musique</u> - a performance
+            with Ghanaian choreographer/dancer Sena Atsugah at Alliance
+            Française d'Accra, Ghana. LIVE STREAM on Instagram: af_accra;
+            Facebook: Alliance Francaise d'Accra, Alliance Francaise Accra
+            Cultural Events; Youtube: Alliance Francaise Accra.{" "}
+          </li>
+          <li className="list-disc">
+            28 &amp; 30.11.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/579543092783943/"
+            >
+              {" "}
+              #Concert Lettres de Hanoi
+            </a>{" "}
+            in European Music Festival in Vietnam on 28.11 at Ho Chi Minh
+            Conservatory of Music/ on 30.11 at Youth Theatre of Vietnam, Hanoi.{" "}
+          </li>
+          <li className="list-disc">
+            23.11.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/398139147525762/"
+            >
+              {" "}
+              #Concert 5: SoundBridge-IV
+            </a>{" "}
+            in SoundBridge Contemporary music Festival at Experimental &amp; TV
+            Studio, Taylor's University, Malaysia.{" "}
+          </li>
+          <li className="list-disc">
+            20.09.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/379041056079050/"
+            >
+              {" "}
+              #Concert Blind Signal GRMN VTNM
+            </a>{" "}
+            at Wasserspeicher Prenzlauer Berg, Berlin-Germany.
+          </li>
+          <li className="list-disc">
+            06.07.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/653027985169230/"
+            >
+              {" "}
+              #Concert Frontière Indécise/Blurred Boundary
+            </a>{" "}
+            for music and video at Institut Francais de Hanoi - L'Espace, 24
+            Trang Tien, Hanoi-Vietnam.
+          </li>
+          <li className="list-disc">
+            27.04.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/803450143345055/"
+            >
+              {" "}
+              #Concert: Blind Signal Vietnam-Germany "Đoàn"
+            </a>{" "}
+            at Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi-Vietnam.
+          </li>
+          <li className="list-disc">
+            26.04.2019 at 7:00 PM: world premiere of "Móng Hường/Scarlet Nails"
+            for đàn Tranh and electronics in the Intonal Festival at Inter Arts
+            Center, Red Room, Bergsgatan 29, 214 22 Malmö-Sweden.
+          </li>
+          <li className="list-disc">
+            21.04.2019 at 8:00 PM: "JiJi" for đàn Tranh, flute/picollo, bass
+            clarinet, violin, cello, tape and video in{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/2121387418162515/"
+            >
+              {" "}
+              #Concert The Poetry of the Moon
+            </a>{" "}
+            with Hanoi New Music Ensemble and conductor Jeff Von Der Schmidt at
+            Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi.
+          </li>
+          <li className="list-disc">
+            20.04.2019 at 12:30 PM -2:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/694408290978166/"
+            >
+              {" "}
+              #Workshop/Luong Hue Trinh - In the middle of borders
+            </a>{" "}
+            in Blind Signal Vietnam-Germany project at Hanoi Rock City, 27/52 To
+            Ngoc Van, Hanoi.
+          </li>
+          <li className="list-disc">
+            25-30.03.2019 from 9:00 AM:{" "}
+            <a
+              className="underline"
+              href="https://music.upd.edu.ph/MCL.html?fbclid=IwAR1qRZuEwr7wYuNrr6nU6Ruh7R4uL04tucDZKWuLSyYUcnEVU_G9kQHx8c8"
+            >
+              {" "}
+              #Event the 10th anniversary of Manila Composers Lab
+            </a>{" "}
+            at University of Philippines.
+          </li>
+          <li className="list-disc">
+            22.03.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/603802070093556/"
+            >
+              {" "}
+              #Concert TIẾP và NỐI/On the Path of the Ancestors
+            </a>{" "}
+            - Three generations of Vietnam Contemporary music at Vietnamese
+            National Academy of Music, 77 Hao Nam, Hanoi.
+          </li>
+          <li className="list-disc">
+            16.03.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/1208841429291813/"
+            >
+              {" "}
+              #Concert VỆT/ STREAKS - Hòa nhạc đa phương tiện/Concert Multimédia
+            </a>
+            , supported by Goethe-Institut Hanoi and Institut Français de Hanoi
+            - L'Espace at L'Espace, 24 Trang Tien, Hanoi.
+          </li>
+          <li className="list-disc">
+            03.03.2019 at 8:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/553010875186595/"
+            >
+              {" "}
+              #Concert Berlin-Hanoi Meeting
+            </a>{" "}
+            - Electroacoustic music from Berlin &amp; Hanoi at Goethe-Institut
+            Hanoi, 56-58 Nguyen Thai Hoc.
+          </li>
+          <li className="list-disc">
+            23.02.2019 at 9:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/2215605261825328/"
+            >
+              {" "}
+              #Concert Music from shy &amp; sophisticated souls/Những âm thanh
+              bẽn lẽn và tinh tế,
+            </a>{" "}
+            organised by Hanoi Grapevine at Hanoi Rock City 27/52 Tô Ngọc Vân,
+            Hanoi.
+          </li>
+        </ul>
+      </div>
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/projects.jpeg")` }}
       >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Works</p>
+        </div>
       </div>
       <div
         id="works"
         className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col"
       >
-        <p className="text-center text-xl text-[#777777]">Works</p>
         <p className="my-8 text-[#777777]">List of works:</p>
         <ul className="text-[#777777] flex flex-col gap-8">
           <li className="list-disc">
@@ -545,6 +1084,15 @@ export default function Home() {
             <br />
           </li>
           <li className="list-disc">
+            <i className="underline">My Angle</i> (2018)
+            <br />
+            for a solo live electronics and video. Duration: 6’00
+            <br />
+            World premiered at Hamburg University of Music & Theatre/Institut
+            Français de Hanoi - L'Espace.
+            <br />
+          </li>
+          <li className="list-disc">
             <i className="underline">Traces</i> (2018)
             <br />
             for two percussionists, vocal, electronics and video. Duration:
@@ -599,6 +1147,17 @@ export default function Home() {
             <br />
             World premiered at Theater Quartier – Theaterakademie Hamburg,
             Germany.
+            <br />
+          </li>
+          <li className="list-disc">
+            <i className="underline">Behind The Mirror 2</i> (2017)
+            <br />
+            for fretless e-guitar, trombone, fixed media, live electronics &
+            video. Duration: 9’00
+            <br />
+            Premiered in Blurred Edges festival at MS Stubnitz, Hamburg/
+            Portrait Concert: Luong Hue Trinh in the 43th Neue Musik Festival
+            Lüneburg, Germany.
             <br />
           </li>
           <li className="list-disc">
@@ -916,16 +1475,6 @@ export default function Home() {
           allowFullScreen={true}
           className="w-full h-auto min-h-[240px]"
         ></iframe>
-         <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/v3kPiZLCjek?si=folOLngy16X47Xp2"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
         <iframe
           width="320"
           height="240"
@@ -949,9 +1498,14 @@ export default function Home() {
       </div>
       <div
         id="gallery"
-        className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/gallery.jpg")` }}
       >
-        <p className="text-xl">Gallery</p>
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Gallery</p>
+        </div>
+      </div>
+      <div className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black">
         <div className="w-full grid grid-cols-2 lg:grid-cols-4 h-fit gap-4">
           {images.map((src, index) => (
             <Image
@@ -968,639 +1522,22 @@ export default function Home() {
       </div>
       <div
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
-        style={{ backgroundImage: `url("/images/VET.jpeg")` }}
-      >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
-      </div>
-      <div
-        id="events"
-        className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
-      >
-        <p className="text-xl">Events</p>
-        <ul className="flex flex-col gap-8">
-          <li className="list-disc">
-            09.06.2024 at 21:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo/?fbid=464322732923807&set=a.325553506800731"
-            >
-              #Gió chướng/Headwind  {" "}
-            </a>- Ồ Ạt Oh Art Festival 2024{" "}
-            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon,
-            Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            04.06.2024 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo/?fbid=464316002924480&set=a.325553506800731"
-            >
-              #Ớiii À! - a night of music & dance {" "}
-            </a>- Ồ Ạt Oh Art Festival 2024{" "}
-            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
-            Saigon, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            01.06.2024 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo/?fbid=464316919591055&set=a.325553506800731"
-            >
-              #Những thanh âm chưng cất/Distilled Sounds - a night of multimedia
-              compositions {" "}
-            </a>- Ồ Ạt Oh Art Festival 2024{" "}
-            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon,
-            Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            31.05.2024 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo?fbid=464317426257671&set=a.325553506800731"
-            >
-              #Cót Két Concert {" "}
-            </a>- Ồ Ạt Oh Art Festival 2024{" "}
-            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
-            Saigon, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            09.03.2024 at 20:00:{" "}
-            <a className="underline" href=" ">
-              #Serious Play Improv Lab (SPIL 085)/KLEX Fest{" "}
-            </a>{" "}
-            at Percussion Store, Kota Damansara, Malaysia.{" "}
-          </li>
-          <li className="list-disc">
-            08.03.2024 at 20:00:{" "}
-            <a className="underline" href=" ">
-              #Album Release - Opening Performance{" "}
-            </a>{" "}
-            at Khatulistiwa 3/F, B-2-36, 13AJalan PJU 5, Cascades, Kota
-            Damansara, Malaysia.{" "}
-          </li>
-          <li className="list-disc">
-            06.03.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Lương Huệ Trinh & Natalie Alexandra TSE{" "}
-            </a>{" "}
-            at ThirdSpace, 113 Depot Road #14-1023 Singapore 100113.{" "}
-          </li>
-          <li className="list-disc">
-            23.01.2024 at 19:30:{" "}
-            <a className="underline" href="https://www.facebook.com/events/391173613410861/">
-              #TỊCH MỊCH Concert{" "}
-            </a>{" "}
-            at Manzi Art Space, 14 Phan Huy Ích, Hanoi.{" "}
-          </li>
-          <li className="list-disc">
-            20.01.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Culture & Art Center, 22 Hàng Buồm, Hanoi, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            18.01.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
-            Điền, Saigon, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            29.11.2023 at 20:00:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Academy of Arts, Berlin - Germany.{" "}
-          </li>
-          <li className="list-disc">
-            28.11.2023 at 19:00:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Übersee Museum, Bremen - Germany.{" "}
-          </li>
-          <li className="list-disc">
-            26.11.2023 at 18:00:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Sprengel Museum, Hannover - Germany.{" "}
-          </li>
-          <li className="list-disc">
-            24.11.2023 at 19:30:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Conversations with composers of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Hannover University of Music, Theater and Media (Room E45), New
-            House 1, 30175 Hannover.{" "}
-          </li>
-          <li className="list-disc">
-            13.10.2023 at 18:00:{" "}
-            <a
-              className="underline"
-              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
-            >
-              #Showcase Concert of project Études for Live-Electronics
-            </a>{" "}
-            at the Future Art Lab - Klangtheater at University of Music and
-            Performing Arts, Anton-von-Webern-Platz 1 1030 Vienna - Austria.{" "}
-          </li>
-          <li className="list-disc">
-            10-12.10.2023 at 10:00 - 17:00:{" "}
-            <a
-              className="underline"
-              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
-            >
-              #Workshop Live-Electronics{" "}
-            </a>{" "}
-            at University of Music and Performing Arts (mdw), Vienna - Austria.{" "}
-          </li>
-          <li className="list-disc">
-            22.09.2023 at 19:00:{" "}
-            <a
-              className="underline"
-              href="hhttps://www.facebook.com/photo?fbid=1072897170715058&amp;set=pcb.1072897240715051"
-            >
-              #composition Departure of a Leaf{" "}
-            </a>
-            for violin and electronics for Halla Steinunn Stefánsdóttir will be
-            performed at Sibelius Museum, Turku - Finland.{" "}
-          </li>
-          <li className="list-disc">
-            08.08.2023 at 19:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo/?fbid=600592735536733&amp;set=a.500080278921313"
-            >
-              #A talk: Multimedia Projects: Meet &amp; Share
-            </a>{" "}
-            at Alliance Française Accra, Ghana.{" "}
-          </li>
-          <li className="list-disc">
-            09.06.2023 at 19:00:{" "}
-            <a
-              className="underline"
-              href="https://web.facebook.com/events/181801891191773?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&amp;notif_id=1686043548618768&amp;notif_t=plan_user_invited&amp;ref=notif"
-            >
-              #Concert &amp; Conversation with Eva Zöllner, Stefan Kohmann &amp;
-              Dela Botri
-            </a>{" "}
-            at Goethe Institut Ghana.{" "}
-          </li>
-          <li className="list-disc">
-            06.06.2023 at 18:00:{" "}
-            <a className="underline" href="">
-              #Meet Mohammed Alidu and Bizung School of Music and Dance{" "}
-            </a>{" "}
-            at the Wooden Restaurant, Tamale, Ghana.{" "}
-          </li>
-          <li className="list-disc">
-            03.06.2023 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo/?fbid=564866039109403&amp;set=a.500080278921313"
-            >
-              #SLANTED SILHOUETTES{" "}
-            </a>{" "}
-            - a multicultural, multimedia and a site-specific performance by
-            Luong Hue Trinh with artists from Ghana, Vietnam, France, Togo,
-            Germany &amp; Cameroon, at Alliance Française Accra, Ghana.
-          </li>
-          <li className="list-disc">
-            10.05.2023 at 21:00:{" "}
-            <a
-              className="underline"
-              href="https://aaa-angelica.com/aaa/festival/angelica-33-lauren-sarah-hayes-luong-hue-trinh-ngo-tra-my/"
-            >
-              #NHẤP NHOÁNG{" "}
-            </a>{" "}
-            - a performance by Luong Hue Trinh and Ngo Tra My at the 33rd
-            AngelicA International Music Festival, at Teatro San Leonardo - a
-            Performance Art Theatre at San Vitale 63 - 67, Bologna, Italy.
-          </li>
-          <li className="list-disc">
-            14-21.04.2023{" "}
-            <a
-              className="underline"
-              href="https://iwk.mdw.ac.at/hofmann/peek-etudes/"
-            >
-              #Workshop of project Études for Live-Electronics{" "}
-            </a>{" "}
-            at University of Music and Performing Arts Vienna, Austria.
-          </li>
-          <li className="list-disc">
-            03-05.04.2023{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Workshop and performance of project TRAIECT IV - Vietnam{" "}
-            </a>{" "}
-            at Hochschule für Musik Theater und Medien Hanover, Germany.
-          </li>
-          <li className="list-disc">
-            26.11.2022 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/1123926778327014/?ref=newsfeed"
-            >
-              #The Vivid Silences{" "}
-            </a>{" "}
-            - a multimedia and site-specific project by Luong Hue Trinh at
-            Goethe Institut Ghana. A production of Goethe Institut Ghana with
-            the support from Alliance Française Accra.
-          </li>
-          <li className="list-disc">
-            23.10.2022 at 16:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/1177999709730550?ref=newsfeed"
-            >
-              #Music for a short experimental film 'Yellow My Window' by
-              Ghanaian artist, Ato Kwamina Hasford - Oteanankanduro{" "}
-            </a>{" "}
-            at Auditorium, Cité Internationale des Arts, Paris.
-          </li>
-          <li className="list-disc">
-            26.08.2022{" "}
-            <a
-              className="underline"
-              href="https://hallasteinunn.bandcamp.com/album/strengur"
-            >
-              #'strengur' album release{" "}
-            </a>{" "}
-            - a project of the Icelandic violinist, composer Halla Steinunn
-            Stefánsdóttir with four international composers, released by
-            Carriers Records, New York City - USA with the support from Ministry
-            of Culture in Iceland.
-          </li>
-          <li className="list-disc">
-            18.06.2022 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/AllianceFrancaisedAccra/photos/a.143983402374576/4739778496128354/"
-            >
-              #THE APPEAL
-            </a>{" "}
-            - an intercultural and intermedia, a site-specific project by Luong
-            Hue Trinh, with artists from Ghana, Vietnam, Germany and France, at
-            Alliance Française Accra - Ghana. A production of Alliance Française
-            Accra.
-          </li>
-          <li className="list-disc">
-            19.05.2022 at 18:00:{" "}
-            <a
-              className="underline"
-              href="https://www.murateartdistrict.it/en/electric-voice/?fbclid=IwAR05fFzl6FzkxQfi9vOeG_pKSefnLgqqECeScZfzsa3AGNGs_1YybepYCYs"
-            >
-              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
-            </a>{" "}
-            - Music for Voice and Electro-acoustic music at MAD Murate Art
-            District, Florence - Italy
-          </li>
-          <li className="list-disc">
-            07.05.2022 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://music.washington.edu/events/2022-05-07/guest-artist-recital-nicholas-isherwood-bass-baritone?fbclid=IwAR3VHSaBDhx2QIVkYAHTuWeb-4PJ736HVnDLuSNdARfl8VWlAHUQZIxma_Y"
-            >
-              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
-            </a>{" "}
-            - Music for Voice and Electro-acoustic music at Brechemin
-            Auditorium, University of Washington, Seattle - USA
-          </li>
-          <li className="list-disc">
-            30.04.2022 at 19:00:{" "}
-            <a className="underline" href="">
-              #Societe Generale Ghana Jazz Festival - as a guest artist with
-              Abdoulaye Nderguet &amp; theBex'Tet Jazz Band (France/Chad)
-            </a>{" "}
-            at Alliance Française Accra, Ghana.
-          </li>
-          <li className="list-disc">
-            20.04.2022 at 16:30: Worldpremiere of{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/photo?fbid=10159960037673966&amp;set=a.120770133965"
-            >
-              {" "}
-              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
-            </a>{" "}
-            - Music for Voice and Electro-acoustic music at The California State
-            University, Fullerton - USA
-          </li>
-          <li className="list-disc">
-            09.04.2022 at 19:30: Worldpremiere of{" "}
-            <a
-              className="underline"
-              href="https://museo.unav.edu/agenda/-/events/09/04/2022/the-electric-voice/JA6fw1cTOMDY/35767801?fbclid=IwAR0gypZeKZqp1tqRPqXKEYIB91OtRzlOFrpKed2_57aXQe26LDC9tWuEsPQ"
-            >
-              {" "}
-              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
-            </a>{" "}
-            - Music for Voice and Electro-acoustic music at Theatre of
-            University of Navarra Museum, Pamplona - Spain.
-          </li>
-          <li className="list-disc">
-            02.04.2022 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/2154272998054200/?ref=newsfeed"
-            >
-              {" "}
-              #TÍCH TỊCH TÌNH TANG Concert
-            </a>{" "}
-            at Goethe-Instiut Hanoi, 56-58 Nguyen Thai Hov, Hanoi - Vietnam.
-          </li>
-          <li className="list-disc">
-            06.11.2021 at 16:00-18:00 Singapore Time:{" "}
-            <a className="underline" href="">
-              {" "}
-              #Fusing Tradition and Innovation
-            </a>
-            , a presentation panel in the SEADOM (the Southeast Asia Directors
-            of Music) 30 Under 30, hosted by Yong Siew Toh Conservatory of Music
-            - National University of Singapore.
-          </li>
-          <li className="list-disc">
-            17.07.2021 at 19:00-Vietnam, 14:00-Europe, 12:00-Ghana:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/947355292779971?ref=newsfeed"
-            >
-              {" "}
-              #Drifting Intervals/Những khoảng trôi
-            </a>{" "}
-            - a network performance from Germany, France, Switzerland, Vietnam
-            and Ghana. Live performance of Vietnamese artist with audiences at
-            Goethe-Institut Vietnam, 56-58 Nguyễn Thái Học, Hà Nội.
-          </li>
-          <li className="list-disc">
-            29.05.2021 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/307499067714217"
-            >
-              {" "}
-              #HEAVE/Phập phồng - a multimedia project{" "}
-            </a>{" "}
-            for music, poetry, dance and video at the outdoor Amphitheater -
-            Alliance Française, Casely Hayford Road, Airport Residential Area,
-            Accra - Ghana.
-          </li>
-          <li className="list-disc">
-            16.01.2021 at 12:00:{" "}
-            <a
-              className="underline"
-              href="https://www.instagram.com/if_officiel/"
-            >
-              {" "}
-              #Online talk in Guest Lecture Series in Composers on Soundscape
-              Composition
-            </a>{" "}
-            at Leuphana University, Lüneburg Germany.
-          </li>
-          <li className="list-disc">
-            10.12.2020 at 18:00: Online Open-Studios of{" "}
-            <a
-              className="underline"
-              href="https://www.instagram.com/if_officiel/"
-            >
-              {" "}
-              #Le lointain proche project
-            </a>{" "}
-            in the Réciprocité program of Villa Saigon, Institut Français du
-            Vietnam, Institut Français Paris at Cité interantionale des arts,
-            Paris
-          </li>
-          <li className="list-disc">
-            27.09.2020 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/1996030040530009"
-            >
-              {" "}
-              #INTER Konzert intermedial und interkulturell
-            </a>{" "}
-            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
-            video at Bürgemeisterhaus Essen Werden, Heckstraße 105, 45239 Essen
-            - Germany.
-          </li>
-          <li className="list-disc">
-            26.09.2020 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/684394142288505/"
-            >
-              {" "}
-              #INTER Konzert intermedial und interkulturell
-            </a>{" "}
-            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
-            video at Theater in Pumpenhaus Münster, Gartenstr. 123 - Germany.
-          </li>
-          <li className="list-disc">
-            25.09.2020 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/324146162052937"
-            >
-              {" "}
-              #INTER Konzert intermedial und interkulturell
-            </a>{" "}
-            with ensemble Hand werk, đàn Tranh player Nguyễn Thanh Thủy and
-            video at Alte Feuerwache Cologne, Melchiorstr. 3 - Germany.
-          </li>
-          <li className="list-disc">
-            10.09.2020 at 9:00 PM–Midnight Pacific Time (UTC -7) on broadcast
-            curated by Radio Eclectus on Hollow Earth Radio: KHUH LP 104.9 in
-            Central Seattle, Washington-USA, hollowearthradio.org and on demand
-            at Mixcloud starting Friday.
-          </li>
-          <li className="list-disc">
-            06.07.2020 at 22:00 BST:{" "}
-            <a className="underline" href="https://resonancefm.com/schedule">
-              {" "}
-              #Sound-art and transmission-art delivered monthly
-            </a>{" "}
-            by London sound art collective Gwaith Sŵn. To be broadcast on
-            Resonance FM via 104.4FM in London and online at
-            www.resonancefm.com; repeated on the following Sunday at 6AM and
-            also simulcast on DAB+ via Resonance Extra.{" "}
-          </li>
-          <li className="list-disc">
-            20.06.2020 at 8:00 PM: <u>#Fête de la Musique</u> - a performance
-            with Ghanaian choreographer/dancer Sena Atsugah at Alliance
-            Française d'Accra, Ghana. LIVE STREAM on Instagram: af_accra;
-            Facebook: Alliance Francaise d'Accra, Alliance Francaise Accra
-            Cultural Events; Youtube: Alliance Francaise Accra.{" "}
-          </li>
-          <li className="list-disc">
-            28 &amp; 30.11.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/579543092783943/"
-            >
-              {" "}
-              #Concert Lettres de Hanoi
-            </a>{" "}
-            in European Music Festival in Vietnam on 28.11 at Ho Chi Minh
-            Conservatory of Music/ on 30.11 at Youth Theatre of Vietnam, Hanoi.{" "}
-          </li>
-          <li className="list-disc">
-            23.11.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/398139147525762/"
-            >
-              {" "}
-              #Concert 5: SoundBridge-IV
-            </a>{" "}
-            in SoundBridge Contemporary music Festival at Experimental &amp; TV
-            Studio, Taylor's University, Malaysia.{" "}
-          </li>
-          <li className="list-disc">
-            20.09.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/379041056079050/"
-            >
-              {" "}
-              #Concert Blind Signal GRMN VTNM
-            </a>{" "}
-            at Wasserspeicher Prenzlauer Berg, Berlin-Germany.
-          </li>
-          <li className="list-disc">
-            06.07.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/653027985169230/"
-            >
-              {" "}
-              #Concert Frontière Indécise/Blurred Boundary
-            </a>{" "}
-            for music and video at Institut Francais de Hanoi - L'Espace, 24
-            Trang Tien, Hanoi-Vietnam.
-          </li>
-          <li className="list-disc">
-            27.04.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/803450143345055/"
-            >
-              {" "}
-              #Concert: Blind Signal Vietnam-Germany "Đoàn"
-            </a>{" "}
-            at Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi-Vietnam.
-          </li>
-          <li className="list-disc">
-            26.04.2019 at 7:00 PM: world premiere of "Móng Hường/Scarlet Nails"
-            for đàn Tranh and electronics in the Intonal Festival at Inter Arts
-            Center, Red Room, Bergsgatan 29, 214 22 Malmö-Sweden.
-          </li>
-          <li className="list-disc">
-            21.04.2019 at 20:00: "JiJi" for đàn Tranh, flute/picollo, bass
-            clarinet, violin, cello, tape and video in{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/2121387418162515/"
-            >
-              {" "}
-              #Concert The Poetry of the Moon
-            </a>{" "}
-            with Hanoi New Music Ensemble and conductor Jeff Von Der Schmidt at
-            Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi.
-          </li>
-          <li className="list-disc">
-            20.04.2019 at 12:30 - 14:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/694408290978166/"
-            >
-              {" "}
-              #Workshop/Luong Hue Trinh - In the middle of borders
-            </a>{" "}
-            in Blind Signal Vietnam-Germany project at Hanoi Rock City, 27/52 To
-            Ngoc Van, Hanoi.
-          </li>
-          <li className="list-disc">
-            25-30.03.2019 from 9:00:{" "}
-            <a
-              className="underline"
-              href="https://music.upd.edu.ph/MCL.html?fbclid=IwAR1qRZuEwr7wYuNrr6nU6Ruh7R4uL04tucDZKWuLSyYUcnEVU_G9kQHx8c8"
-            >
-              {" "}
-              #Event the 10th anniversary of Manila Composers Lab
-            </a>{" "}
-            at University of Philippines.
-          </li>
-          <li className="list-disc">
-            22.03.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/603802070093556/"
-            >
-              {" "}
-              #Concert TIẾP và NỐI/On the Path of the Ancestors
-            </a>{" "}
-            - Three generations of Vietnam Contemporary music at Vietnamese
-            National Academy of Music, 77 Hao Nam, Hanoi.
-          </li>
-          <li className="list-disc">
-            16.03.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/1208841429291813/"
-            >
-              {" "}
-              #Concert VỆT/ STREAKS - Hòa nhạc đa phương tiện/Concert Multimédia
-            </a>
-            , supported by Goethe-Institut Hanoi and Institut Français de Hanoi
-            - L'Espace at L'Espace, 24 Trang Tien, Hanoi.
-          </li>
-          <li className="list-disc">
-            03.03.2019 at 20:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/553010875186595/"
-            >
-              {" "}
-              #Concert Berlin-Hanoi Meeting
-            </a>{" "}
-            - Electroacoustic music from Berlin &amp; Hanoi at Goethe-Institut
-            Hanoi, 56-58 Nguyen Thai Hoc.
-          </li>
-          <li className="list-disc">
-            23.02.2019 at 21:00:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/2215605261825328/"
-            >
-              {" "}
-              #Concert Music from shy &amp; sophisticated souls/Những âm thanh
-              bẽn lẽn và tinh tế,
-            </a>{" "}
-            organised by Hanoi Grapevine at Hanoi Rock City 27/52 Tô Ngọc Vân,
-            Hanoi.
-          </li>
-        </ul>
-      </div>
-      <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p6-min.jpeg")` }}
       >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Links</p>
+        </div>
       </div>
       <div
         id="links"
         className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]"
       >
-        <p className="text-xl text-center">Links</p>
         <p>
           <b>
             <u>Composers/Performers I've had an honor to work with:</u>
           </b>
           <br />
-          http://georghajdu.de
-          <br />
+          http://georghajdu.de <br />
           http://www.dieter-mack.de
           <br />
           http://www.alexanderschubert.net
@@ -1652,8 +1589,7 @@ export default function Home() {
           <br />
           http://www.eva-zoellner.de
           <br />
-          https://stefankohmann.de
-          <br />
+          https://stefankohmann.de <br />
           https://www.ghanaweb.com/person/Botri-Dela-772
           <br />
           https://oteanankanduro.wordpress.com/
@@ -1687,10 +1623,8 @@ export default function Home() {
           <br />
           http://www.muellen.de
           <br />
-          https://www.bassermann-jordan.de
-          <br />
-          https://weingut-knipser.de
-          <br />
+          https://www.bassermann-jordan.de <br />
+          https://weingut-knipser.de <br />
           https://www.weingut-kuenstler.de
           <br />
           https://www.weingut-robert-weil.com
@@ -1746,13 +1680,14 @@ export default function Home() {
         className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p10-min.jpeg")` }}
       >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <h3 className="text-6xl">Legal Notice</h3>
+        </div>
       </div>
       <div
         id="legal"
         className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]"
       >
-        <h3 className="text-center text-xl">Legal Notice</h3>
         <p>
           Luong Hue Trinh <br />
           Hanoi, Vietnam
@@ -1761,7 +1696,7 @@ export default function Home() {
           <br />
           <b>Copyright</b>
           <br />
-          © 2024, <br />
+          © 2023, <br />
           All rights reserved
           <br />
           The content of this website is protected by international copyright
