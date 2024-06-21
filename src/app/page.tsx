@@ -895,11 +895,10 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/2121387418162515/"
             >
-              {" "}
-              #Concert The Poetry of the Moon
-            </a>{" "}
-            with Hanoi New Music Ensemble and conductor Jeff Von Der Schmidt at
-            Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi.
+              #Gió chướng/Headwind{" "}
+            </a>
+            - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn
+            Cừ, district 1, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             20.04.2019 at 12:30 PM -2:30 PM:{" "}
@@ -907,11 +906,10 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/694408290978166/"
             >
-              {" "}
-              #Workshop/Luong Hue Trinh - In the middle of borders
-            </a>{" "}
-            in Blind Signal Vietnam-Germany project at Hanoi Rock City, 27/52 To
-            Ngoc Van, Hanoi.
+              #Ớiii À! - a night of music & dance{" "}
+            </a>
+            - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn
+            Đăng Giai, district 2, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             25-30.03.2019 from 9:00 AM:{" "}
@@ -919,10 +917,11 @@ export default function Home() {
               className="underline"
               href="https://music.upd.edu.ph/MCL.html?fbclid=IwAR1qRZuEwr7wYuNrr6nU6Ruh7R4uL04tucDZKWuLSyYUcnEVU_G9kQHx8c8"
             >
-              {" "}
-              #Event the 10th anniversary of Manila Composers Lab
-            </a>{" "}
-            at University of Philippines.
+              #Những thanh âm chưng cất/Distilled Sounds - a night of multimedia
+              compositions{" "}
+            </a>
+            - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn
+            Cừ, district 1, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             22.03.2019 at 8:00 PM:{" "}
@@ -930,8 +929,15 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/603802070093556/"
             >
-              {" "}
-              #Concert TIẾP và NỐI/On the Path of the Ancestors
+              #Cót Két Concert{" "}
+            </a>
+            - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn
+            Đăng Giai, district 2, Saigon, Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            09.03.2024 at 20:00:{" "}
+            <a className="underline" href=" ">
+              #Serious Play Improv Lab (SPIL 085)/KLEX Fest{" "}
             </a>{" "}
             - Three generations of Vietnam Contemporary music at Vietnamese
             National Academy of Music, 77 Hao Nam, Hanoi.
@@ -949,7 +955,68 @@ export default function Home() {
             - L'Espace at L'Espace, 24 Trang Tien, Hanoi.
           </li>
           <li className="list-disc">
-            03.03.2019 at 8:00 PM:{" "}
+            06.03.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Lương Huệ Trinh & Natalie Alexandra TSE{" "}
+            </a>{" "}
+            at ThirdSpace, 113 Depot Road #14-1023 Singapore 100113.{" "}
+          </li>
+          <li className="list-disc">
+            23.01.2024 at 19:30:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/391173613410861/"
+            >
+              #TỊCH MỊCH Concert{" "}
+            </a>{" "}
+            at Manzi Art Space, 14 Phan Huy Ích, Hanoi.{" "}
+          </li>
+          <li className="list-disc">
+            20.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Culture & Art Center, 22 Hàng Buồm, Hanoi, Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            18.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
+            Điền, Saigon, Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            29.11.2023 at 20:00:{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Academy of Arts, Berlin - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            28.11.2023 at 19:00:{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Übersee Museum, Bremen - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            26.11.2023 at 18:00:{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Sprengel Museum, Hannover - Germany.{" "}
+          </li>
+          <li className="list-disc">
+            24.11.2023 at 19:30:{" "}
+            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
+              #Conversations with composers of project TRAIECT IV Vietnam{" "}
+            </a>{" "}
+            at Hannover University of Music, Theater and Media (Room E45), New
+            House 1, 30175 Hannover.{" "}
+          </li>
+          <li className="list-disc">
+            13.10.2023 at 18:00:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/553010875186595/"
