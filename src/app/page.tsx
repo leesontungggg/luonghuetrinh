@@ -117,7 +117,7 @@ export default function Home() {
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & improviser
+              Multimedia composer & music improviser
             </p>
           </div>
         </div>
@@ -470,26 +470,14 @@ export default function Home() {
             Accra.
           </li>
           <li className="list-disc">
-            19.05.2022 at 6:00 PM:{" "}
-            <a
-              className="underline"
-              href="https://www.murateartdistrict.it/en/electric-voice/?fbclid=IwAR05fFzl6FzkxQfi9vOeG_pKSefnLgqqECeScZfzsa3AGNGs_1YybepYCYs"
-            >
-              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
-            </a>{" "}
-            - Music for Voice and Electro-acoustic music at MAD Murate Art
-            District, Florence - Italy
-          </li>
-          <li className="list-disc">
-            07.05.2022 at 7:30 PM:{" "}
-            <a
-              className="underline"
-              href="https://music.washington.edu/events/2022-05-07/guest-artist-recital-nicholas-isherwood-bass-baritone?fbclid=IwAR3VHSaBDhx2QIVkYAHTuWeb-4PJ736HVnDLuSNdARfl8VWlAHUQZIxma_Y"
-            >
-              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
-            </a>{" "}
-            - Music for Voice and Electro-acoustic music at Brechemin
-            Auditorium, University of Washington, Seattle - USA
+            <i className="underline">Traces</i> (2018)
+            <br />
+            for two percussionists, vocal, electronics and video. Duration:
+            12’00
+            <br />
+            World premiered at Hamburg University of Music & Theatre/Institut
+            Français de Hanoi - L'Espace.
+            <br />
           </li>
           <li className="list-disc">
             30.04.2022 at 7:00 PM:{" "}
@@ -535,27 +523,20 @@ export default function Home() {
             at Goethe-Instiut Hanoi, 56-58 Nguyen Thai Hov, Hanoi - Vietnam.
           </li>
           <li className="list-disc">
-            06.11.2021 at 4:00 PM-6 PM Singapore Time:{" "}
-            <a className="underline" href="">
-              {" "}
-              #Fusing Tradition and Innovation
-            </a>
-            , a presentation panel in the SEADOM (the Southeast Asia Directors
-            of Music) 30 Under 30, hosted by Yong Siew Toh Conservatory of Music
-            - National University of Singapore.
-          </li>
-          <li className="list-disc">
-            17.07.2021 at 7:00 PM-Vietnam, 2 PM-Europe, 12 PM-Ghana:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/947355292779971?ref=newsfeed"
-            >
-              {" "}
-              #Drifting Intervals/Những khoảng trôi
-            </a>{" "}
-            - a network performance from Germany, France, Switzerland, Vietnam
-            and Ghana. Live performance of Vietnamese artist with audiences at
-            Goethe-Institut Vietnam, 56-58 Nguyễn Thái Học, Hà Nội.
+            <i className="underline">wESTAMAN PROJECT</i> (2017) by Bjorn
+            Charles Dreyer
+            <br />
+            Improvised with electronics, e-guitar/electronics,
+            drums/electronics, oud/violin/vocal and live video formed by Bjorn
+            Charles Dreyer. Duration: 60'00
+            <br />
+            Commissioned by wESTAMAN project.
+            <br />
+            World premiered in Kristiansand: at Vågsbygd videregående skole
+            (music college), Kvadraturen videregående skole (college), Agder
+            Folkehøyskole (folk university college), Tangen videregående skole
+            (college); in Flekkefjord: Flekkefjord videregående skole (college).
+            <br />
           </li>
           <li className="list-disc">
             29.05.2021 at 8:00 PM:{" "}
@@ -719,6 +700,194 @@ export default function Home() {
             for đàn Tranh and electronics in the Intonal Festival at Inter Arts
             Center, Red Room, Bergsgatan 29, 214 22 Malmö-Sweden.
           </li>
+        </ul>
+      </div>
+      <div
+        id="music"
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/p11.jpeg")` }}
+      >
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-6xl">Music</p>
+        </div>
+      </div>
+      <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
+        <iframe
+          src="https://www.youtube.com/embed/1dWJPBceLLo"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          src="https://www.youtube.com/embed/9YcZX-LJrPI"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          src="https://www.youtube.com/embed/wCzbv6xrz18"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/uBvfoYRm8Eg"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/oC02n_IzFMY"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/dvg-LzOqGUk"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/EZg_8DEZbmc"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/CXqgpMBLMLg"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/ELB1nbcXoyE"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/XeYwGbJ8cwU"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/dDrDd6MB1oM"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/nZs9-ZVo_DE"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/v3kPiZLCjek?si=folOLngy16X47Xp2"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/K7rG6ddyIIY"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+        <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/embed/uMeQoYZnMBA"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
+      </div>
+      <div
+        id="gallery"
+        className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black"
+      >
+        <p className="text-xl">Gallery</p>
+        <div className="w-full grid grid-cols-2 lg:grid-cols-4 h-fit gap-4">
+          {images.map((src, index) => (
+            <Image
+              onClick={() => openImageViewer(index)}
+              key={index}
+              alt=""
+              width={200}
+              height={200}
+              className="w-full h-auto cursor-pointer"
+              src={src}
+            />
+          ))}
+        </div>
+      </div>
+      <div
+        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/VET.jpeg")` }}
+      >
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
+      </div>
+      <div
+        id="events"
+        className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
+      >
+        <p className="text-xl">Events</p>
+        <ul className="flex flex-col gap-8">
           <li className="list-disc">
             21.04.2019 at 8:00 PM: "JiJi" for đàn Tranh, flute/picollo, bass
             clarinet, violin, cello, tape and video in{" "}
