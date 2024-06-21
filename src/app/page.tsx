@@ -132,7 +132,7 @@ export default function Home() {
         id="biography"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Biography</p>
+          <p className="text-6xl font-brassiere">Biography</p>
         </div>
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
@@ -277,7 +277,7 @@ export default function Home() {
         id="events"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Events</p>
+          <p className="text-6xl font-brassiere">Events</p>
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]">
@@ -812,7 +812,7 @@ export default function Home() {
         id="works"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Works</p>
+          <p className="text-6xl font-brassiere">Works</p>
         </div>
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col">
@@ -1351,7 +1351,7 @@ export default function Home() {
         style={{ backgroundImage: `url("/images/p11.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Music</p>
+          <p className="text-6xl font-brassiere">Music</p>
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
@@ -1496,7 +1496,7 @@ export default function Home() {
         style={{ backgroundImage: `url("/images/gallery.jpg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Gallery</p>
+          <p className="text-6xl font-brassiere">Gallery</p>
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black">
@@ -1520,7 +1520,7 @@ export default function Home() {
         id="links"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Links</p>
+          <p className="text-6xl font-brassiere">Links</p>
         </div>
       </div>
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
@@ -1674,7 +1674,7 @@ export default function Home() {
         id="legal"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <h3 className="text-6xl">Legal Notice</h3>
+          <h3 className="text-6xl font-brassiere">Legal Notice</h3>
         </div>
       </div>
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
