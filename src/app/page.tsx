@@ -288,10 +288,10 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/photo/?fbid=464322732923807&set=a.325553506800731"
             >
-              #Gió chướng/Headwind - Ồ Ạt Oh Art Festival 2024{" "}
+              #Gió chướng/Headwind
             </a>{" "}
-            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon,
-            Vietnam.{" "}
+            - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn
+            Cừ, district 1, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             04.06.2024 at 19:30:{" "}
@@ -299,10 +299,10 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/photo/?fbid=464316002924480&set=a.325553506800731"
             >
-              #Ớiii À! - a night of music & dance - Ồ Ạt Oh Art Festival 2024{" "}
+              #Ớiii À! - a night of music & dance
             </a>{" "}
-            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
-            Saigon, Vietnam.{" "}
+            - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn
+            Đăng Giai, district 2, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             01.06.2024 at 19:30:{" "}
@@ -311,10 +311,10 @@ export default function Home() {
               href="https://www.facebook.com/photo/?fbid=464316919591055&set=a.325553506800731"
             >
               #Những thanh âm chưng cất/Distilled Sounds - a night of multimedia
-              compositions - Ồ Ạt Oh Art Festival 2024{" "}
+              compositions
             </a>{" "}
-            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon,
-            Vietnam.{" "}
+            - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn
+            Cừ, district 1, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             31.05.2024 at 19:30:{" "}
@@ -322,10 +322,10 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/photo?fbid=464317426257671&set=a.325553506800731"
             >
-              #Cót Két Concert - Ồ Ạt Oh Art Festival 2024{" "}
+              #Cót Két Concert
             </a>{" "}
-            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
-            Saigon, Vietnam.{" "}
+            - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn
+            Đăng Giai, district 2, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             09.03.2024 at 20:00:{" "}
@@ -355,7 +355,7 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/391173613410861/"
             >
-              #TỊCH MỊCH{" "}
+              #TỊCH MỊCH Concert{" "}
             </a>{" "}
             at Manzi Art Space, 14 Phan Huy Ích, Hanoi.{" "}
           </li>
@@ -364,7 +364,7 @@ export default function Home() {
             <a className="underline" href=" ">
               #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
-            at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
+            at Culture & Art Center, 22 Hàng Buồm, Hanoi, Vietnam.{" "}
           </li>
           <li className="list-disc">
             18.01.2024 at 7:30 PM{" "}
@@ -372,7 +372,7 @@ export default function Home() {
               #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
-            Điền, Saigon.{" "}
+            Điền, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
             29.11.2023 at 8 PM{" "}
