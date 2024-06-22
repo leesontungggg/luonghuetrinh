@@ -117,7 +117,7 @@ export default function Home() {
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
             <p className="text-md md:text-lg italic">
-              Multimedia composer & music improviser
+              Multimedia composer & improviser
             </p>
           </div>
         </div>
@@ -470,14 +470,26 @@ export default function Home() {
             Accra.
           </li>
           <li className="list-disc">
-            <i className="underline">Traces</i> (2018)
-            <br />
-            for two percussionists, vocal, electronics and video. Duration:
-            12’00
-            <br />
-            World premiered at Hamburg University of Music & Theatre/Institut
-            Français de Hanoi - L'Espace.
-            <br />
+            19.05.2022 at 6:00 PM:{" "}
+            <a
+              className="underline"
+              href="https://www.murateartdistrict.it/en/electric-voice/?fbclid=IwAR05fFzl6FzkxQfi9vOeG_pKSefnLgqqECeScZfzsa3AGNGs_1YybepYCYs"
+            >
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at MAD Murate Art
+            District, Florence - Italy
+          </li>
+          <li className="list-disc">
+            07.05.2022 at 7:30 PM:{" "}
+            <a
+              className="underline"
+              href="https://music.washington.edu/events/2022-05-07/guest-artist-recital-nicholas-isherwood-bass-baritone?fbclid=IwAR3VHSaBDhx2QIVkYAHTuWeb-4PJ736HVnDLuSNdARfl8VWlAHUQZIxma_Y"
+            >
+              #THE ELECTRIC VOICE - NICHOLAS ISHERWOOD
+            </a>{" "}
+            - Music for Voice and Electro-acoustic music at Brechemin
+            Auditorium, University of Washington, Seattle - USA
           </li>
           <li className="list-disc">
             30.04.2022 at 7:00 PM:{" "}
@@ -523,20 +535,27 @@ export default function Home() {
             at Goethe-Instiut Hanoi, 56-58 Nguyen Thai Hov, Hanoi - Vietnam.
           </li>
           <li className="list-disc">
-            <i className="underline">wESTAMAN PROJECT</i> (2017) by Bjorn
-            Charles Dreyer
-            <br />
-            Improvised with electronics, e-guitar/electronics,
-            drums/electronics, oud/violin/vocal and live video formed by Bjorn
-            Charles Dreyer. Duration: 60'00
-            <br />
-            Commissioned by wESTAMAN project.
-            <br />
-            World premiered in Kristiansand: at Vågsbygd videregående skole
-            (music college), Kvadraturen videregående skole (college), Agder
-            Folkehøyskole (folk university college), Tangen videregående skole
-            (college); in Flekkefjord: Flekkefjord videregående skole (college).
-            <br />
+            06.11.2021 at 4:00 PM-6 PM Singapore Time:{" "}
+            <a className="underline" href="">
+              {" "}
+              #Fusing Tradition and Innovation
+            </a>
+            , a presentation panel in the SEADOM (the Southeast Asia Directors
+            of Music) 30 Under 30, hosted by Yong Siew Toh Conservatory of Music
+            - National University of Singapore.
+          </li>
+          <li className="list-disc">
+            17.07.2021 at 7:00 PM-Vietnam, 2 PM-Europe, 12 PM-Ghana:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/947355292779971?ref=newsfeed"
+            >
+              {" "}
+              #Drifting Intervals/Những khoảng trôi
+            </a>{" "}
+            - a network performance from Germany, France, Switzerland, Vietnam
+            and Ghana. Live performance of Vietnamese artist with audiences at
+            Goethe-Institut Vietnam, 56-58 Nguyễn Thái Học, Hà Nội.
           </li>
           <li className="list-disc">
             29.05.2021 at 8:00 PM:{" "}
@@ -700,194 +719,6 @@ export default function Home() {
             for đàn Tranh and electronics in the Intonal Festival at Inter Arts
             Center, Red Room, Bergsgatan 29, 214 22 Malmö-Sweden.
           </li>
-        </ul>
-      </div>
-      <div
-        id="music"
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
-        style={{ backgroundImage: `url("/images/p11.jpeg")` }}
-      >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-6xl">Music</p>
-        </div>
-      </div>
-      <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
-        <iframe
-          src="https://www.youtube.com/embed/1dWJPBceLLo"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          src="https://www.youtube.com/embed/9YcZX-LJrPI"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          src="https://www.youtube.com/embed/wCzbv6xrz18"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/uBvfoYRm8Eg"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/oC02n_IzFMY"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/dvg-LzOqGUk"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/EZg_8DEZbmc"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/CXqgpMBLMLg"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/ELB1nbcXoyE"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/XeYwGbJ8cwU"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/dDrDd6MB1oM"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/nZs9-ZVo_DE"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/v3kPiZLCjek?si=folOLngy16X47Xp2"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/K7rG6ddyIIY"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/uMeQoYZnMBA"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-      </div>
-      <div
-        id="gallery"
-        className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black"
-      >
-        <p className="text-xl">Gallery</p>
-        <div className="w-full grid grid-cols-2 lg:grid-cols-4 h-fit gap-4">
-          {images.map((src, index) => (
-            <Image
-              onClick={() => openImageViewer(index)}
-              key={index}
-              alt=""
-              width={200}
-              height={200}
-              className="w-full h-auto cursor-pointer"
-              src={src}
-            />
-          ))}
-        </div>
-      </div>
-      <div
-        className="w-full h-[100px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
-        style={{ backgroundImage: `url("/images/VET.jpeg")` }}
-      >
-        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4"></div>
-      </div>
-      <div
-        id="events"
-        className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]"
-      >
-        <p className="text-xl">Events</p>
-        <ul className="flex flex-col gap-8">
           <li className="list-disc">
             21.04.2019 at 8:00 PM: "JiJi" for đàn Tranh, flute/picollo, bass
             clarinet, violin, cello, tape and video in{" "}
@@ -895,10 +726,11 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/2121387418162515/"
             >
-              #Gió chướng/Headwind{" "}
-            </a>
-            - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn
-            Cừ, district 1, Saigon, Vietnam.{" "}
+              {" "}
+              #Concert The Poetry of the Moon
+            </a>{" "}
+            with Hanoi New Music Ensemble and conductor Jeff Von Der Schmidt at
+            Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc, Hanoi.
           </li>
           <li className="list-disc">
             20.04.2019 at 12:30 PM -2:30 PM:{" "}
@@ -906,10 +738,11 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/694408290978166/"
             >
-              #Ớiii À! - a night of music & dance{" "}
-            </a>
-            - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn
-            Đăng Giai, district 2, Saigon, Vietnam.{" "}
+              {" "}
+              #Workshop/Luong Hue Trinh - In the middle of borders
+            </a>{" "}
+            in Blind Signal Vietnam-Germany project at Hanoi Rock City, 27/52 To
+            Ngoc Van, Hanoi.
           </li>
           <li className="list-disc">
             25-30.03.2019 from 9:00 AM:{" "}
@@ -917,11 +750,10 @@ export default function Home() {
               className="underline"
               href="https://music.upd.edu.ph/MCL.html?fbclid=IwAR1qRZuEwr7wYuNrr6nU6Ruh7R4uL04tucDZKWuLSyYUcnEVU_G9kQHx8c8"
             >
-              #Những thanh âm chưng cất/Distilled Sounds - a night of multimedia
-              compositions{" "}
-            </a>
-            - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn
-            Cừ, district 1, Saigon, Vietnam.{" "}
+              {" "}
+              #Event the 10th anniversary of Manila Composers Lab
+            </a>{" "}
+            at University of Philippines.
           </li>
           <li className="list-disc">
             22.03.2019 at 8:00 PM:{" "}
@@ -929,17 +761,11 @@ export default function Home() {
               className="underline"
               href="https://www.facebook.com/events/603802070093556/"
             >
-              #Cót Két Concert{" "}
-            </a>
-            - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn
-            Đăng Giai, district 2, Saigon, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            09.03.2024 at 20:00:{" "}
-            <a className="underline" href=" ">
-              #Serious Play Improv Lab (SPIL 085)/KLEX Fest{" "}
+              {" "}
+              #Concert TIẾP và NỐI/On the Path of the Ancestors
             </a>{" "}
-            at Percussion Store, Kota Damansara, Malaysia.{" "}
+            - Three generations of Vietnam Contemporary music at Vietnamese
+            National Academy of Music, 77 Hao Nam, Hanoi.
           </li>
           <li className="list-disc">
             16.03.2019 at 8:00 PM:{" "}
@@ -954,73 +780,13 @@ export default function Home() {
             - L'Espace at L'Espace, 24 Trang Tien, Hanoi.
           </li>
           <li className="list-disc">
-            06.03.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Lương Huệ Trinh & Natalie Alexandra TSE{" "}
-            </a>{" "}
-            at ThirdSpace, 113 Depot Road #14-1023 Singapore 100113.{" "}
-          </li>
-          <li className="list-disc">
-            23.01.2024 at 19:30:{" "}
-            <a
-              className="underline"
-              href="https://www.facebook.com/events/391173613410861/"
-            >
-              #TỊCH MỊCH{" "}
-            </a>{" "}
-            at Manzi Art Space, 14 Phan Huy Ích, Hanoi.{" "}
-          </li>
-          <li className="list-disc">
-            20.01.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Culture & Art Center, 22 Hàng Buồm, Hanoi, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            18.01.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
-            Điền, Saigon, Vietnam.{" "}
-          </li>
-          <li className="list-disc">
-            29.11.2023 at 20:00:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Academy of Arts, Berlin - Germany.{" "}
-          </li>
-          <li className="list-disc">
-            28.11.2023 at 19:00:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Übersee Museum, Bremen - Germany.{" "}
-          </li>
-          <li className="list-disc">
-            26.11.2023 at 18:00:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Sprengel Museum, Hannover - Germany.{" "}
-          </li>
-          <li className="list-disc">
-            24.11.2023 at 19:30:{" "}
-            <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Conversations with composers of project TRAIECT IV Vietnam{" "}
-            </a>{" "}
-            at Hannover University of Music, Theater and Media (Room E45), New
-            House 1, 30175 Hannover.{" "}
-          </li>
-          <li className="list-disc">
-            13.10.2023 at 18:00:{" "}
+            03.03.2019 at 8:00 PM:{" "}
             <a
               className="underline"
               href="https://www.facebook.com/events/553010875186595/"
             >
-              #Showcase Concert of project Études for Live-Electronics
+              {" "}
+              #Concert Berlin-Hanoi Meeting
             </a>{" "}
             - Electroacoustic music from Berlin &amp; Hanoi at Goethe-Institut
             Hanoi, 56-58 Nguyen Thai Hoc.
