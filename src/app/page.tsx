@@ -283,6 +283,87 @@ export default function Home() {
       <div className="w-full min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]">
         <ul className="flex flex-col gap-8">
           <li className="list-disc">
+            09.06.2024 at 21:00:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=464322732923807&set=a.325553506800731"
+            >
+              #Gió chướng/Headwind - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon,
+            Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            04.06.2024 at 19:30:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=464316002924480&set=a.325553506800731"
+            >
+              #Ớiii À! - a night of music & dance - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
+            Saigon, Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            01.06.2024 at 19:30:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo/?fbid=464316919591055&set=a.325553506800731"
+            >
+              #Những thanh âm chưng cất/Distilled Sounds - a night of multimedia
+              compositions - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon,
+            Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            31.05.2024 at 19:30:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/photo?fbid=464317426257671&set=a.325553506800731"
+            >
+              #Cót Két Concert - Ồ Ạt Oh Art Festival 2024{" "}
+            </a>{" "}
+            at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2,
+            Saigon, Vietnam.{" "}
+          </li>
+          <li className="list-disc">
+            09.03.2024 at 20:00:{" "}
+            <a className="underline" href=" ">
+              #Serious Play Improv Lab (SPIL 085){" "}
+            </a>{" "}
+            at Percussion Sotre, Kota Damansara, Malaysia.{" "}
+          </li>
+          <li className="list-disc">
+            08.03.2024 at 20:00:{" "}
+            <a className="underline" href=" ">
+              #Album Release - Opening Performance{" "}
+            </a>{" "}
+            at Khatulistiwa 3/F, B-2-36, 13AJalan PJU 5, Cascades, Kota
+            Damansara, Malaysia.{" "}
+          </li>
+          <li className="list-disc">
+            06.03.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Lương Huệ Trinh & Natalie Alexandra TSE{" "}
+            </a>{" "}
+            at ThirdSpace, 113 Depot Road #14-1023 Singapore 100113.{" "}
+          </li>
+          <li className="list-disc">
+            23.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
+          </li>
+          <li className="list-disc">
+            20.01.2024 at 19:30:{" "}
+            <a className="underline" href=" ">
+              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            </a>{" "}
+            at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
+          </li>
+          <li className="list-disc">
             18.01.2024 at 7:30 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
               #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
