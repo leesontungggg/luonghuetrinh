@@ -168,6 +168,7 @@ export default function Home() {
           LUONG's artistic pursuits extend to exploring traditional and experimental elements in music and visuals, scenography, and creating site-specific artworks. 
           Alongside composing, she excels as an improviser, receiving commissions for exhibitions, contemporary dance projects, animation, experimental films, video art and live performances across Asia, Europe, Australia, Canada, North America, and Africa.
           <br />
+          <br />
           Her debut album "Illusions" in 2016 garnered acclaim and was recognized as one of the Best of 2016 – Albums of The Year by Avant Music News, San Francisco, USA. 
           In 2019, Hanoi Grapevine Finest named her the Finest Artist of the year, marking her significant contribution to Vietnam's art and culture scene. 
           She was also awarded a scholarship in the Réciprocité program of Villa Saigon-Institut Français Vietnam for a 3-month residency at the Cité Internationale des Arts Paris in 2020. 
