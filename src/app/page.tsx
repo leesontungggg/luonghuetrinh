@@ -112,7 +112,7 @@ export default function Home() {
           style={{ backgroundImage: `url("/images/hero.jpg")` }}
           className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-para bg-no-repeat bg-[70%] md:bg-center bg-cover"
         >
-          <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col">
             <p className="text-4xl md:text-6xl font-brassiere">
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
