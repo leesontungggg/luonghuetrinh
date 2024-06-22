@@ -147,6 +147,8 @@ export default function Home() {
           <br />
           LUONG's artistic interests span traditional and experimental music elements, alongside visual arts and scenography, often creating site-specific artworks. Beyond composing, she is an adept improviser 
           and has received commissions for exhibitions, contemporary dance projects, animation, experimental films, video arts, and live performances across Asia, Europe, Australia, Canada, North America, and Africa.
+          <br />
+          <br />
           ------------------
           <br />
           <br />
