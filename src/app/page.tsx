@@ -137,7 +137,9 @@ export default function Home() {
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <p className="mt-8 text-[#777777]">
-          Short version: Starting her musical journey at the age of 5, LUONG Hue Trinh embarked on a path that led her to the Vietnam National Academy of Music in 1998, at the age of 13. 
+          Short version: 
+          <br />
+          Starting her musical journey at the age of 5, LUONG Hue Trinh embarked on a path that led her to the Vietnam National Academy of Music in 1998, at the age of 13. 
           Over the next 12 years of intensive study, she earned her Bachelor’s degree in Jazz Keyboard in 2010. Since then, her focus has shifted towards electroacoustic music.
           <br />
           <br />
