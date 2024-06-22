@@ -137,136 +137,42 @@ export default function Home() {
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <p className="mt-8 text-[#777777]">
-          Short version: Starting with music at age 5, then in 1998 at age 13,
-          LUONG Hue Trinh entered the Vietnam National Academy of Music. After
-          12 years of studying, she obtained her Bachelor’s degree in Jazz
-          Keyboard in 2010. Since then, she has focused on electroacoustic
-          music. From 2015 to 2018, she won a full German Academic Exchange
-          Service (DAAD) scholarship for the program New Techniques in
-          Composition and then, Master Multimedia Composition at Hochschule für
-          Musik & Theater Hamburg.
+          Short version: Starting her musical journey at the age of 5, LUONG Hue Trinh embarked on a path that led her to the Vietnam National Academy of Music in 1998, at the age of 13. 
+          Over the next 12 years of intensive study, she earned her Bachelor’s degree in Jazz Keyboard in 2010. Since then, her focus has shifted towards electroacoustic music.
           <br />
           <br />
-          LUONG is interested in exploring traditional and experimental elements
-          in music and visuals, in scenography and in creating artwork for
-          specific sites. Not only active as a composer but also an improviser,
-          she got commissions for exhibitions, contemporary dance projects,
-          films and live performances in many different countries in Asia,
-          Europe, Australia, Canada, North America and Africa.
+          From 2015 to 2018, LUONG was awarded a prestigious full scholarship from the German Academic Exchange Service (DAAD) to pursue the program in New Techniques in Composition, 
+          followed by her Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg. 
           <br />
+          <br />
+          LUONG's artistic interests span traditional and experimental music elements, alongside visual arts and scenography, often creating site-specific artworks. Beyond composing, she is an adept improviser 
+          and has received commissions for exhibitions, contemporary dance projects, animation, experimental films, video arts, and live performances across Asia, Europe, Australia, Canada, North America, and Africa.
           ------------------
           <br />
           <br />
           Full:
           <br />
-          Starting with music at age 5, then in 1998 at age 13, LUONG Hue Trinh
-          entered the Vietnam National Academy of Music. After 12 years of
-          studying, she obtained her Bachelor’s degree in Jazz Keyboard in 2010.
-          Since then, she has focused on electroacoustic music under the
-          guidance of Vietnamese composer Nguyen Xuan Son (SonX). From 2015 to
-          2018, she won a full German Academic Exchange Service (DAAD)
-          scholarship for the program New Techniques in Composition and then,
-          Master Multimedia Composition with Prof. Dr. Georg Hajdu, Prof. Elmar
-          Lampson and Alexander Schubert at Hochschule für Musik & Theater
-          Hamburg.
+          Beginning her musical journey at the age of 5, LUONG Hue Trinh entered the Vietnam National Academy of Music in 1998 at the age of 13. 
+          Over the next 12 years of dedicated study, she earned her Bachelor’s degree in Jazz Keyboard in 2010, guided by Vietnamese composer Nguyen Xuan Son (SonX). 
+          Since then, her focus has shifted to electroacoustic music.
           <br />
           <br />
-          LUONG is interested in exploring traditional and experimental elements
-          in music and visuals, in scenography and in creating artwork for
-          specific sites. Not only active as a composer but also an improviser,
-          she got commissions for exhibitions, contemporary dance projects,
-          films and live performances in many different countries in Asia,
-          Europe, Australia, Canada, North America and Africa.
+          From 2015 to 2018, LUONG was awarded a full German Academic Exchange Service (DAAD) scholarship for the New Techniques in Composition program, 
+          followed by her Master's in Multimedia Composition under the tutelage of Prof. Dr. Georg Hajdu, Prof. Elmar Lampson, and Alexander Schubert at Hochschule für Musik & Theater Hamburg.
           <br />
           <br />
-          Illusions (2016), her first album, was reviewed and became one of the
-          Best of 2016 – Albums of The Year selected by Avant Music News, San
-          Francisco-USA. Hanoi Grapevine Finest 2019, the first and only
-          bi-lingual site of Art and Culture Events in Vietnam chose her as the
-          Finest Artist of the year. She won a scholarship in the Réciprocité
-          program of Villa Saigon-Institut Français Vietnam for a 3
-          month-residence at the Cité Internationale des Arts Paris in 2020. In
-          the same year, she was chosen as one of 14 successful alumni of DAAD
-          Vietnam since 1985 and was written in a publication for the
-          celebration of the 45 years of diplomatic relations between Germany
-          and Vietnam.
+          LUONG's artistic pursuits extend to exploring traditional and experimental elements in music and visuals, scenography, and creating site-specific artworks. 
+          Alongside composing, she excels as an improviser, receiving commissions for exhibitions, contemporary dance projects, animation, experimental films, video art and live performances across Asia, Europe, Australia, Canada, North America, and Africa.
           <br />
-          Trinh's music was broadcast from time to time on the radio in the USA,
-          Thailand, India, Czech Republic, Australia, Scotland, England and
-          highlighted as Artist of the Month on StillStream Radio, Los
-          Angeles-USA (2013). The Norwegian Broadcasting Corporation (NRK)
-          interviewed and presented her music in 2014 & 2015. Her performance in
-          Mikromusik Festival (2018) organised by Berliner Künstlerprogramm des
-          DAAD and the Humboldt Forum Foundation was broadcasted on radio
-          Deutschlandfunk Kultur, Germany.
+          Her debut album "Illusions" in 2016 garnered acclaim and was recognized as one of the Best of 2016 – Albums of The Year by Avant Music News, San Francisco, USA. 
+          In 2019, Hanoi Grapevine Finest named her the Finest Artist of the year, marking her significant contribution to Vietnam's art and culture scene. 
+          She was also awarded a scholarship in the Réciprocité program of Villa Saigon-Institut Français Vietnam for a 3-month residency at the Cité Internationale des Arts Paris in 2020. 
+          The same year, she was honored as one of 14 successful DAAD Vietnam alumni since 1985, featured in a publication commemorating 45 years of diplomatic relations between Germany and Vietnam.
           <br />
           <br />
-          Hanoi Sound Stuff Festival (2010 & 11)/ Riverscapes IN FLUX (2011-13)
-          toured in five Southeast Asian countries by Goethe Institut/ Hanoi New
-          Music Festival (2013 & 18)/ The Roving Eye - Contemporary Art from
-          South-East Asia (2014) Istanbul/ SAVAKA Vol. 11- Asia Experimental
-          Music Current Project – Artist of the Month (July 2014) for concerts
-          and talks at Shanghai Rockbund Art Museum & Banye Art Hotel in
-          Hangzhou/ as a creator in Echoes (2014) - a “geolocative” audio
-          project in Hanoi-Copenhagen & workshop in Roskilde University/
-          Soundtrack for hand drawn animation film Light-being by Nguyen Hoang
-          Giang & trailer of Mini DOCFEST (2014) Hanoi/ Asian Meeting Festival
-          (2015) Tokyo and Kyoto/Punkt Festival (2015) Kristiansand Norway.
-          <br />
-          <br />
-          Blurred Edges Festival (2016 & 17) Hamburg/ Project Hanoi-Berlin
-          Experimental Music Meeting in Copenhagen Jazz Festival (2016)
-          Copenhagen & Berlin/ Soundtrack for a five-channel video The Bridge 3
-          (2016) by Le Brothers at Goethe Institut Hanoi/ Opera Dido & Aeneas
-          (2016) at the Opera Stabile - Staatsoper Hamburg/ the 13th SMC
-          Conference 2016 - Sound & Music Computing Hamburg/ Wenjack (2016) - an
-          audio book for disable people, by The National Network for Equitable
-          Library Service (NNELS) Toronto/ Concert tour of project wESTAMAN
-          (2016-17) Southern Norway/ Virtual Exhibition – OUA Electroacoustic
-          Music Festival (2017) at Osaka University of Art, Japan/ Next
-          Generation 7.0:SENSORIK Festival (2017) at ZKM Karlsruhe Germany/
-          Concert Vietnamese words and music (2017) at Inter Arts Center-Malmö
-          Academy of Music Sweden/ Portrait Concert: Luong Hue Trinh (2017) in
-          the 43th Lüneburg Neue Musik Festival Germany/ G((o))ng Tomorrow
-          Festival (2017) at Jazzhouse Copenhagen/ Concert of Trio “Đ” (2017) at
-          Inter Art Center Malmö/ Summer Concert (2018) at Skálholt church,
-          Iceland/ STREAKS - a multimedia concert by Luong Hue Trinh (2018)
-          Hamburg/ ASEAN Youth Ensemble & International Conference MUSIC &
-          METAMORPHOSIS (2018) at Princess Galyani Vadhana Institute of Music,
-          Bangkok.
-          <br />
-          <br />
-          Ultima Oslo Contemporary Music Festival (2018) Norway/ Project
-          Berlin-Hanoi Meeting in Electroacoustic music (2019) Goethe Institut
-          Hanoi/ VỆT - Multimedia Concert by Luong Hue Trinh (2019) by Goethe
-          Institut Hanoi and Institut Français de Hanoi/ the 10th Anniversary
-          Celebrations of Manila Composers Lab (2019) at the Philippines
-          University/ Concert In the Path of the Ancestors (2019) at Vietnam
-          National Academy of Music/ Concert The Poetry of the Moon (2019) at
-          Goethe Institut Hanoi/ Blind Signal project (2019) at Goethe Institut
-          Hanoi and Wasserspeicher Prenzlauer Berg Berlin/ Concert Frontière
-          Indécise/Blurred Boundary (2019) at Institut Françai de Hanoi -
-          L’Espace/ Intonal Festival at Inter Arts Center, Malmö Academy of
-          Music Sweden/ SoundBridge IV Contemporary music Festival (2019) at
-          Taylor’s University, Malaysia/ Franco-Vietnamese concert Lettres de
-          Hanoi (2019) in European Music Festival at Ho Chi Minh Conservatory of
-          Music and Hanoi Youth Theatre, Vietnam/ Fête de la Musique (2020) at
-          Alliance Française d'Accra, Ghana/ INTERKONZERT - intermedial und
-          interkulturell (2020) with ensemble Handwerk at Alte
-          Feuerwache-Cologne, Theater im Pumpenhaus-Münster,
-          Bürgermeisterhaus-Essen in Germany/ HEAVE/Phập phồng - a multimedia
-          performance (2021)at Alliance française Accra, Ghana/ Drifting
-          Intervals (2021)- online concert for 5 female artists from Vietnam,
-          Germany, France Switzerland, & Ghana by Goethe Institut Vietnam/ TÍCH
-          TỊCH TÌNH TANG... Concert (2022) at Goethe Institut Vietnam/ ACCRA
-          JAZZ FESTIVAL 2022 at Alliance Française Accra/ THE APPEAL (2022) - an
-          intercultural & intermedia, a site-specific performance by Luong Hue
-          Trinh at Alliance Française Accra, Ghana/ The Vivid Silences (2022) -
-          a multimedia and site-specific performance at Goethe Institut Ghana,
-          NHẤP NHOÁNG (2023) - a music performance at the 33rd AngelicA
-          International Music Festival in Bologna, Italy/ Slanted Silhouettes -
-          a multimedia & site-specific project at Alliance Française Accra,
-          Ghana ...
+          LUONG's music has been broadcasted internationally, with notable features including Artist of the Month on StillStream Radio, Los Angeles, USA (2013), 
+          interviews and presentations by the Norwegian Broadcasting Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023. 
+          And a performance at the Mikromusik Festival (2018) broadcasted on radio Deutschlandfunk Kultur, Germany, organized by Berliner Künstlerprogramm des DAAD and the Humboldt Forum Foundation.
           <br />
           <br />
         </p>
