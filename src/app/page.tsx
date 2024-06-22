@@ -330,9 +330,9 @@ export default function Home() {
           <li className="list-disc">
             09.03.2024 at 20:00:{" "}
             <a className="underline" href=" ">
-              #Serious Play Improv Lab (SPIL 085){" "}
+              #Serious Play Improv Lab (SPIL 085)/KLEX Fest{" "}
             </a>{" "}
-            at Percussion Sotre, Kota Damansara, Malaysia.{" "}
+            at Percussion Store, Kota Damansara, Malaysia.{" "}
           </li>
           <li className="list-disc">
             08.03.2024 at 20:00:{" "}
@@ -351,22 +351,25 @@ export default function Home() {
           </li>
           <li className="list-disc">
             23.01.2024 at 19:30:{" "}
-            <a className="underline" href=" ">
-              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/events/391173613410861/"
+            >
+              #TỊCH MỊCH{" "}
             </a>{" "}
-            at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
+            at Manzi Art Space, 14 Phan Huy Ích, Hanoi.{" "}
           </li>
           <li className="list-disc">
             20.01.2024 at 19:30:{" "}
             <a className="underline" href=" ">
-              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Culture & Art Center, 22 Hàng Buồm, Hanoi.{" "}
           </li>
           <li className="list-disc">
             18.01.2024 at 7:30 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of the project TRAIECT IV in Vietnam{" "}
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at MoTplus, Amanaki Thảo Điền, fl 6., 10 Nguyễn Đăng Giai, Thảo
             Điền, Saigon.{" "}
@@ -374,28 +377,28 @@ export default function Home() {
           <li className="list-disc">
             29.11.2023 at 8 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Academy of Arts, Berlin - Germany.{" "}
           </li>
           <li className="list-disc">
             28.11.2023 at 7 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Übersee Museum, Bremen - Germany.{" "}
           </li>
           <li className="list-disc">
             26.11.2023 at 6 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Premiere Concert of the project TRAIECT IV Vietnam{" "}
+              #Premiere Concert of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Sprengel Museum, Hannover - Germany.{" "}
           </li>
           <li className="list-disc">
             24.11.2023 at 7:30 PM{" "}
             <a className="underline" href="https://hgnm.de/traiect-iv-vietnam/">
-              #Conversations with composers of the project TRAIECT IV Vietnam{" "}
+              #Conversations with composers of project TRAIECT IV Vietnam{" "}
             </a>{" "}
             at Hannover University of Music, Theater and Media (Room E45), New
             House 1, 30175 Hannover.{" "}
@@ -406,7 +409,7 @@ export default function Home() {
               className="underline"
               href="https://iwk.mdw.ac.at/hofmann/peek-etudes/news/2023/04/04/Vienna-Workshop/"
             >
-              #Showcase Concert of the project Études for Live-Electronics
+              #Showcase Concert of project Études for Live-Electronics
             </a>{" "}
             at the Future Art Lab - Klangtheater at University of Music and
             Performing Arts, Anton-von-Webern-Platz 1 1030 Vienna - Austria.{" "}
@@ -917,7 +920,7 @@ export default function Home() {
             Premiere at Sprengel Museum - Hanover, Overseas Museum - Bremen,
             Academy of Arts - Berlin.
             <br />
-            Commissioned for the project TRAIECT IV Vietnam by Hannoversche
+            Commissioned for project TRAIECT IV Vietnam by Hannoversche
             Gesellschaft für Neue Musik (Hanover Society for New Music),
             Germany.
             <br />
