@@ -174,7 +174,7 @@ export default function Home() {
           The same year, she was honored as one of 14 successful DAAD Vietnam alumni since 1985, featured in a publication commemorating 45 years of diplomatic relations between Germany and Vietnam.
           <br />
           <br />
-          LUONG's music has been broadcasted internationally, with notable features including Artist of the Month on StillStream Radio, Los Angeles, USA (2013), 
+          LUONG's music has been broadcasted internationally, with notable features including Artist of the Month on StillStream Radio, Los Angeles - USA (2013), London sound art collective Gwaith Sŵn (UK),
           interviews and presentations by the Norwegian Broadcasting Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023 etc...
           She had a performance at the Mikromusik Festival (2018) broadcasted on radio Deutschlandfunk Kultur, Germany, organized by Berliner Künstlerprogramm des DAAD and the Humboldt Forum Foundation.
           <br />
