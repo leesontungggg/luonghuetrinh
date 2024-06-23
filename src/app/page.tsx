@@ -175,9 +175,10 @@ export default function Home() {
           <br />
           <br />
           LUONG's music has been broadcasted internationally, with notable features including Artist of the Month on StillStream Radio, Los Angeles, USA (2013), 
-          interviews and presentations by the Norwegian Broadcasting Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023. 
+          interviews and presentations by the Norwegian Broadcasting Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023 etc...
           She had a performance at the Mikromusik Festival (2018) broadcasted on radio Deutschlandfunk Kultur, Germany, organized by Berliner Künstlerprogramm des DAAD and the Humboldt Forum Foundation.
-
+          <br />
+          <br />
           Her work has been performed across Asia, Europe, Australia, Canada, North America, and Africa such as Übersee museum, Berlin Academy of Arts, Center for Art & Media - ZKM Karlsruhe, University of Music, Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum - Turku (Findland); 
           Navarre museum - Pamploma (Spain); Intonal Festival at Inter Arts Center - Malmö (Sweden); University of Washington-Seattle, California State University-Fullerton (USA); Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna (Italy);
           University of Music & Performing Arts Vienna (Austria); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, National Fine Arts museum - Hanoi (Vietnam); 
