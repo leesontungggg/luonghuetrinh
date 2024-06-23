@@ -239,6 +239,16 @@ export default function Home() {
             Đăng Giai, district 2, Saigon, Vietnam.{" "}
           </li>
           <li className="list-disc">
+            01.04.2024 at 19:00:{" "}
+            <a
+              className="underline"
+              href="https://www.facebook.com/asianartbridge/videos/897521152124674"
+            >
+              #Polar Voids exhibition
+            </a>- an immersive performance of music and painting performance. An event of Asian Art Bridge{" "}
+            at 16,17 galerie de Montpensier, Palais Royal, 75001 Paris, France.{" "}
+          </li>
+          <li className="list-disc">
             09.03.2024 at 20:00:{" "}
             <a className="underline" href=" ">
               #Serious Play Improv Lab (SPIL 085)/KLEX Fest{" "}
