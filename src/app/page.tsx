@@ -181,7 +181,7 @@ export default function Home() {
           <br />
           Her work has been performed across Asia, Europe, Australia, Canada, North America, and Africa such as Übersee museum, Berlin Academy of Arts, Center for Art & Media - ZKM Karlsruhe, University of Music, Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum - Turku (Findland); 
           Navarre museum - Pamploma (Spain); Intonal Festival at Inter Arts Center - Malmö (Sweden); University of Washington-Seattle, California State University-Fullerton (USA); Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna (Italy);
-          University of Music & Performing Arts Vienna (Austria); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, National Fine Arts museum - Hanoi (Vietnam); 
+          University of Music & Performing Arts Vienna (Austria); Copenhagen Jazz festival, Gong festival - Copenhagen (Denmark); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, National Fine Arts museum - Hanoi (Vietnam); 
           Shanghai Rockbund Art museum (China); Metropolitan museum - Manila, Taylor's University, University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok (Thailand); 
           Goethe Institut Ghana, Alliance Française d'Accra (Ghana); etc...
           <br />
