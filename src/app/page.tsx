@@ -137,7 +137,7 @@ export default function Home() {
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <p className="mt-8 text-[#777777]">
-          Short version: 
+          Short: 
           <br />
           Starting her musical journey at the age of 5, LUONG Hue Trinh embarked on a path that led her to the Vietnam National Academy of Music in 1998, at the age of 13. 
           Over the next 12 years of intensive study, she earned her Bachelor’s degree in Jazz Keyboard in 2010. Since then, her focus has shifted towards electroacoustic music.
@@ -181,7 +181,7 @@ export default function Home() {
           <br />
           Her work has been performed across Asia, Europe, Australia, Canada, North America, and Africa such as Übersee museum, Berlin Academy of Arts, Center for Art & Media - ZKM Karlsruhe, University of Music, Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum - Turku (Findland); 
           Navarre museum - Pamploma (Spain); Intonal Festival at Inter Arts Center - Malmö (Sweden); University of Washington-Seattle, California State University-Fullerton (USA); Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna (Italy);
-          University of Music & Performing Arts Vienna (Austria); Copenhagen Jazz festival, Gong festival - Copenhagen (Denmark); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, National Fine Arts museum - Hanoi (Vietnam); 
+          University of Music & Performing Arts Vienna (Austria); Copenhagen Jazz festival, Gong festival - Copenhagen (Denmark); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine Arts museum - Hanoi (Vietnam); 
           Shanghai Rockbund Art museum (China); Metropolitan museum - Manila, Taylor's University, University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok (Thailand); 
           Goethe Institut Ghana, Alliance Française d'Accra (Ghana); etc...
           <br />
