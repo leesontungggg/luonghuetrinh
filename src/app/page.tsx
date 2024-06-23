@@ -153,7 +153,6 @@ export default function Home() {
           <br />
           ------------------
           <br />
-          <br />
           Full:
           <br />
           Beginning her musical journey at the age of 5, LUONG Hue Trinh entered the Vietnam National Academy of Music in 1998 at the age of 13. 
@@ -166,7 +165,7 @@ export default function Home() {
           <br />
           <br />
           LUONG's artistic pursuits extend to exploring traditional and experimental elements in music and visuals, scenography, and creating site-specific artworks. 
-          Alongside composing, she excels as an improviser, receiving commissions for exhibitions, contemporary dance projects, animation, experimental films, video art and live performances across Asia, Europe, Australia, Canada, North America, and Africa.
+          Alongside composing, she excels as an improviser, receiving commissions for exhibitions, contemporary dance projects, animation, experimental films, video art, installations, painting performance and live performances...
           <br />
           <br />
           Her debut album "Illusions" in 2016 garnered acclaim and was recognized as one of the Best of 2016 – Albums of The Year by Avant Music News, San Francisco, USA. 
@@ -178,6 +177,12 @@ export default function Home() {
           LUONG's music has been broadcasted internationally, with notable features including Artist of the Month on StillStream Radio, Los Angeles, USA (2013), 
           interviews and presentations by the Norwegian Broadcasting Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023. 
           She had a performance at the Mikromusik Festival (2018) broadcasted on radio Deutschlandfunk Kultur, Germany, organized by Berliner Künstlerprogramm des DAAD and the Humboldt Forum Foundation.
+
+          Her work has been performed across Asia, Europe, Australia, Canada, North America, and Africa such as Übersee museum, Berlin Academy of Arts, Center for Art & Media - ZKM Karlsruhe, University of Music, Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum - Turku (Findland); 
+          Navarre museum - Pamploma (Spain); Intonal Festival at Inter Arts Center - Malmö (Sweden); University of Washington-Seattle, California State University-Fullerton (USA); Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna (Italy);
+          University of Music & Performing Arts Vienna (Austria); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, National Fine Arts museum - Hanoi (Vietnam); 
+          Shanghai Rockbund Art museum (China); Metropolitan museum - Manila, Taylor's University, University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok (Thailand); 
+          Goethe Institut Ghana, Alliance Française d'Accra (Ghana); etc...
           <br />
           <br />
         </p>
