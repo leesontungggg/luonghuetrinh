@@ -1352,7 +1352,7 @@ export default function Home() {
           src="https://www.youtube.com/embed/aMux-nqOcCg?si=4x8mWC-yCMEQTJmL"
           title="YouTube video player"
           frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen={true}
           className="w-full h-auto min-h-[240px]"
         ></iframe>
