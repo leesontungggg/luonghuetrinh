@@ -137,50 +137,97 @@ export default function Home() {
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <p className="mt-8 text-[#777777]">
-          Short: 
+          Short:
           <br />
-          Starting her musical journey at the age of 5, LUONG Hue Trinh embarked on a path that led her to the Vietnam National Academy of Music in 1998, at the age of 13. 
-          Over the next 12 years of intensive study, she earned her Bachelor’s degree in Jazz Keyboard in 2010. Since then, her focus has shifted towards electroacoustic music.
+          Starting her musical journey at the age of 5, LUONG Hue Trinh embarked
+          on a path that led her to the Vietnam National Academy of Music in
+          1998, at the age of 13. Over the next 12 years of intensive study, she
+          earned her Bachelor’s degree in Jazz Keyboard in 2010. Since then, her
+          focus has shifted towards electroacoustic music.
           <br />
           <br />
-          From 2015 to 2018, LUONG was awarded a prestigious full scholarship from the German Academic Exchange Service (DAAD) to pursue the program in New Techniques in Composition, 
-          followed by her Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg. 
+          From 2015 to 2018, LUONG was awarded a prestigious full scholarship
+          from the German Academic Exchange Service (DAAD) to pursue the program
+          in New Techniques in Composition, followed by her Master's in
+          Multimedia Composition at Hochschule für Musik & Theater Hamburg.
           <br />
           <br />
-          LUONG's artistic interests span traditional and experimental music elements, alongside visual arts and scenography, often creating site-specific artworks. Beyond composing, she is an adept improviser. 
-          She has received commissions for exhibitions, contemporary dance projects, animation, experimental films, video arts, and live performances across Asia, Europe, Australia, Canada, North America, and Africa.
+          LUONG's artistic interests span traditional and experimental music
+          elements, alongside visual arts and scenography, often creating
+          site-specific artworks. Beyond composing, she is an adept improviser.
+          She has received commissions for exhibitions, contemporary dance
+          projects, animation, experimental films, video arts, and live
+          performances across Asia, Europe, Australia, Canada, North America,
+          and Africa.
           <br />
           <br />
           ------------------
           <br />
           Full:
           <br />
-          Beginning her musical journey at the age of 5, LUONG Hue Trinh entered the Vietnam National Academy of Music in 1998 at the age of 13. 
-          Over the next 12 years of dedicated study, she earned her Bachelor’s degree in Jazz Keyboard in 2010, guided by Vietnamese composer Nguyen Xuan Son (SonX). 
-          Since then, her focus has shifted to electroacoustic music. From 2015 to 2018, LUONG was awarded a full German Academic Exchange Service (DAAD) scholarship for the New Techniques in Composition program, 
-          followed by her Master's in Multimedia Composition under the tutelage of Prof. Dr. Georg Hajdu, Prof. Elmar Lampson, and Alexander Schubert at Hochschule für Musik & Theater Hamburg.
+          Beginning her musical journey at the age of 5, LUONG Hue Trinh entered
+          the Vietnam National Academy of Music in 1998 at the age of 13. Over
+          the next 12 years of dedicated study, she earned her Bachelor’s degree
+          in Jazz Keyboard in 2010, guided by Vietnamese composer Nguyen Xuan
+          Son (SonX). Since then, her focus has shifted to electroacoustic
+          music. From 2015 to 2018, LUONG was awarded a full German Academic
+          Exchange Service (DAAD) scholarship for the New Techniques in
+          Composition program, followed by her Master's in Multimedia
+          Composition under the tutelage of Prof. Dr. Georg Hajdu, Prof. Elmar
+          Lampson, and Alexander Schubert at Hochschule für Musik & Theater
+          Hamburg.
           <br />
           <br />
-          LUONG's artistic pursuits extend to exploring traditional and experimental elements in music and visuals, scenography, and creating site-specific artworks. 
-          She has received commissions for exhibitions, contemporary dance projects, animation, experimental films, video art, installations, painting performance and more...
+          LUONG's artistic pursuits extend to exploring traditional and
+          experimental elements in music and visuals, scenography, and creating
+          site-specific artworks. She has received commissions for exhibitions,
+          contemporary dance projects, animation, experimental films, video art,
+          installations, painting performance and more...
           <br />
           <br />
-          Her debut album "Illusions" in 2016 garnered acclaim and was recognized as one of the Best of 2016 – Albums of The Year by Avant Music News, San Francisco, USA. 
-          In 2019, Hanoi Grapevine - the first and only bi-lingual site for art and cultural events in Vietnam, named her the 'Finest Artist of the Year', marking her significant contribution to Vietnam's art and culture scene. 
-          She was also awarded a scholarship in the Réciprocité program of Villa Saigon-Institut Français Vietnam for a 3-month residency at the Cité Internationale des Arts Paris in 2020. 
-          The same year, she was honored as one of 14 successful DAAD Vietnam alumni since 1985, featured in a publication commemorating 45 years of diplomatic relations between Germany and Vietnam.
+          Her debut album "Illusions" in 2016 garnered acclaim and was
+          recognized as one of the Best of 2016 – Albums of The Year by Avant
+          Music News, San Francisco, USA. In 2019, Hanoi Grapevine - the first
+          and only bi-lingual site for art and cultural events in Vietnam, named
+          her the 'Finest Artist of the Year', marking her significant
+          contribution to Vietnam's art and culture scene. She was also awarded
+          a scholarship in the Réciprocité program of Villa Saigon-Institut
+          Français Vietnam for a 3-month residency at the Cité Internationale
+          des Arts Paris in 2020. The same year, she was honored as one of 14
+          successful DAAD Vietnam alumni since 1985, featured in a publication
+          commemorating 45 years of diplomatic relations between Germany and
+          Vietnam.
           <br />
           <br />
-          LUONG's music has been broadcasted internationally, with notable features including Artist of the Month on StillStream Radio, Los Angeles - USA (2013), London sound art collective Gwaith Sŵn (UK),
-          interviews and presentations by the Norwegian Broadcasting Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023 etc...
-          She had a performance at the Mikromusik Festival (2018) broadcasted on radio Deutschlandfunk Kultur, Germany, organized by Berliner Künstlerprogramm des DAAD and the Humboldt Forum Foundation.
+          LUONG's music has been broadcasted internationally, with notable
+          features including Artist of the Month on StillStream Radio, Los
+          Angeles - USA (2013), London sound art collective Gwaith Sŵn (UK),
+          interviews and presentations by the Norwegian Broadcasting Corporation
+          (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022 and 2023
+          etc... She had a performance at the Mikromusik Festival (2018)
+          broadcasted on radio Deutschlandfunk Kultur, Germany, organized by
+          Berliner Künstlerprogramm des DAAD and the Humboldt Forum Foundation.
           <br />
           <br />
-          Her work has been performed across Asia, Europe, Australia, Canada, North America, and Africa such as Übersee museum, Berlin Academy of Arts, Center for Art & Media - ZKM Karlsruhe, University of Music, Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum - Turku (Findland); 
-          Navarre museum - Pamploma (Spain); Intonal Festival at Inter Arts Center - Malmö (Sweden); University of Washington-Seattle, California State University-Fullerton (USA); Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna (Italy);
-          University of Music & Performing Arts Vienna (Austria); Copenhagen Jazz festival, Gong festival - Copenhagen (Denmark); Punkt festival - Kristiansand (Norway); Skálholt church (Iceland); the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine Arts museum - Hanoi (Vietnam); 
-          Shanghai Rockbund Art museum (China); Metropolitan museum - Manila, Taylor's University, University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok (Thailand); 
-          Goethe Institut Ghana, Alliance Française d'Accra (Ghana); etc...
+          Her work has been performed across Asia, Europe, Australia, Canada,
+          North America, and Africa such as Übersee museum, Berlin Academy of
+          Arts, Center for Art & Media - ZKM Karlsruhe, University of Music,
+          Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum -
+          Turku (Findland); Navarre museum - Pamploma (Spain); Intonal Festival
+          at Inter Arts Center - Malmö (Sweden); University of
+          Washington-Seattle, California State University-Fullerton (USA);
+          Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna
+          (Italy); University of Music & Performing Arts Vienna (Austria);
+          Copenhagen Jazz festival, Gong festival - Copenhagen (Denmark); Punkt
+          festival - Kristiansand (Norway); Skálholt church (Iceland); the
+          ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi, Goethe
+          Institut Vietnam, Institut français du Vietnam, National Fine Arts
+          museum - Hanoi (Vietnam); Shanghai Rockbund Art museum (China);
+          Metropolitan museum - Manila, Taylor's University, University of
+          Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta
+          (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok
+          (Thailand); Goethe Institut Ghana, Alliance Française d'Accra (Ghana);
+          etc...
           <br />
           <br />
         </p>
@@ -248,8 +295,10 @@ export default function Home() {
               href="https://www.facebook.com/asianartbridge/videos/897521152124674"
             >
               #Polar Voids exhibition
-            </a>- an immersive performance of music and painting performance. An event of Asian Art Bridge{" "}
-            at 16,17 galerie de Montpensier, Palais Royal, 75001 Paris, France.{" "}
+            </a>
+            - an immersive performance of music and painting performance. An
+            event of Asian Art Bridge at 16,17 galerie de Montpensier, Palais
+            Royal, 75001 Paris, France.{" "}
           </li>
           <li className="list-disc">
             09.03.2024 at 20:00:{" "}
@@ -823,8 +872,7 @@ export default function Home() {
           <p className="text-4xl font-brassiere">Works</p>
         </div>
       </div>
-      <div className="h-fit w-full flex justify-center items-center bg-white py-8 px-8 lg:px-72 flex-col">
-        <p className="my-8 text-[#777777]">List of works:</p>
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
         <ul className="text-[#777777] flex flex-col gap-8">
           <li className="list-disc">
             <i className="underline">How can I be tender ?</i> (2023) <br /> for
@@ -1334,6 +1382,52 @@ export default function Home() {
         </ul>
       </div>
       <div
+        className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
+        style={{ backgroundImage: `url("/images/interview.jpg")` }}
+        id="interview"
+      >
+        <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
+          <p className="text-4xl font-brassiere">Interviews</p>
+        </div>
+      </div>
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
+        <ul className="flex flex-col gap-8 w-full">
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
+            >
+              Emerging musician goes her own way
+            </a>{" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
+            >
+              Composer travels the world to write music
+            </a>{" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
+            >
+              Culture Mosaic
+            </a>{" "}
+          </li>
+
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
+            >
+              Hành trình âm nhạc của Lương Huệ Trinh
+            </a>{" "}
+          </li>
+        </ul>
+      </div>
+      <div
         id="music"
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p11.jpeg")` }}
@@ -1343,7 +1437,7 @@ export default function Home() {
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
-      <iframe
+        <iframe
           width="320"
           height="240"
           src="https://www.youtube.com/embed/aMux-nqOcCg?si=4x8mWC-yCMEQTJmL"
@@ -1354,7 +1448,7 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
         <iframe
-         width="320"
+          width="320"
           height="240"
           src="https://www.youtube.com/embed/1dWJPBceLLo"
           title="YouTube video player"
@@ -1364,7 +1458,7 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
         <iframe
-         width="320"
+          width="320"
           height="240"
           src="https://www.youtube.com/embed/9YcZX-LJrPI"
           title="YouTube video player"
@@ -1374,7 +1468,7 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
         <iframe
-         width="320"
+          width="320"
           height="240"
           src="https://www.youtube.com/embed/wCzbv6xrz18"
           title="YouTube video player"
@@ -1497,7 +1591,7 @@ export default function Home() {
       <div
         id="gallery"
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
-        style={{ backgroundImage: `url("/images/gallery.jpg")` }}
+        style={{ backgroundImage: `url("/images/gallery.png")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-4xl font-brassiere">Gallery</p>
