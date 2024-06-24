@@ -1346,6 +1346,16 @@ export default function Home() {
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
+      <iframe
+          width="320"
+          height="240"
+          src="https://www.youtube.com/watch?v=aMux-nqOcCg"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
         <iframe
           src="https://www.youtube.com/embed/1dWJPBceLLo"
           title="YouTube video player"
@@ -1454,16 +1464,6 @@ export default function Home() {
           width="320"
           height="240"
           src="https://www.youtube.com/embed/nZs9-ZVo_DE"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen={true}
-          className="w-full h-auto min-h-[240px]"
-        ></iframe>
-        <iframe
-          width="320"
-          height="240"
-          src="https://www.youtube.com/embed/v3kPiZLCjek"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
