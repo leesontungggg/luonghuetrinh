@@ -1357,6 +1357,8 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
         <iframe
+         width="320"
+          height="240"
           src="https://www.youtube.com/embed/1dWJPBceLLo"
           title="YouTube video player"
           frameBorder="0"
@@ -1365,6 +1367,8 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
         <iframe
+         width="320"
+          height="240"
           src="https://www.youtube.com/embed/9YcZX-LJrPI"
           title="YouTube video player"
           frameBorder="0"
@@ -1373,6 +1377,8 @@ export default function Home() {
           className="w-full h-auto min-h-[240px]"
         ></iframe>
         <iframe
+         width="320"
+          height="240"
           src="https://www.youtube.com/embed/wCzbv6xrz18"
           title="YouTube video player"
           frameBorder="0"
