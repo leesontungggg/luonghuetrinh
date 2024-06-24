@@ -1466,24 +1466,24 @@ export default function Home() {
               className="underline cursor-pointer"
               href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
             >
-              Composer travels the world to write music - Việt Nam News
-            </a>{" "}
+              Composer travels the world to write music 
+            </a> - Việt Nam News{" "}
           </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
             >
-              Emerging musician goes her own way - Việt Nam News
-            </a>{" "}
+              Emerging musician goes her own way 
+            </a>- Việt Nam News{" "}
           </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
             >
-              Culture Mosaic - Vietnam Television 4 - from minute 13'59
-            </a>{" "}
+              Culture Mosaic 
+            </a>- Vietnam Television 4 - from minute 13'59{" "}
           </li>
 
           <li className="list-disc">
@@ -1491,8 +1491,8 @@ export default function Home() {
               className="underline cursor-pointer"
               href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
             >
-              Hành trình âm nhạc của Lương Huệ Trinh - Hanoi Grapevine
-            </a>{" "}
+              The musical journey of Luong Hue Trinh / Hành trình âm nhạc của Lương Huệ Trinh 
+            </a>- Hanoi Grapevine{" "}
           </li>
         </ul>
       </div>
