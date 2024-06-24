@@ -134,7 +134,7 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
+                <a className="px-8 py-4 hover:bg-white/50" href="#interview">
                   INTERVIEWS
                 </a>
               </li>
@@ -1456,7 +1456,7 @@ export default function Home() {
         id="interviews"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Interviews</p>
+          <p className="text-4xl font-brassiere">Interview</p>
         </div>
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
@@ -1464,17 +1464,17 @@ export default function Home() {
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
-              href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
+              href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
             >
-              Emerging musician goes her own way
+              Composer travels the world to write music - Việt Nam News
             </a>{" "}
           </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
-              href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
+              href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
             >
-              Composer travels the world to write music
+              Emerging musician goes her own way - Việt Nam News
             </a>{" "}
           </li>
           <li className="list-disc">
@@ -1482,7 +1482,7 @@ export default function Home() {
               className="underline cursor-pointer"
               href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
             >
-              Culture Mosaic
+              Culture Mosaic - Vietnam Television 4 - from minute 13'59
             </a>{" "}
           </li>
 
@@ -1491,7 +1491,7 @@ export default function Home() {
               className="underline cursor-pointer"
               href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
             >
-              Hành trình âm nhạc của Lương Huệ Trinh
+              Hành trình âm nhạc của Lương Huệ Trinh - Hanoi Grapevine
             </a>{" "}
           </li>
         </ul>
