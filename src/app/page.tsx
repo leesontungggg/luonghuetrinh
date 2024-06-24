@@ -98,6 +98,67 @@ export default function Home() {
           LEGAL NOTICE
         </a>
       </nav>
+      <label
+        className="fixed z-40 cursor-pointer px-3 py-6 bg-black/30 md:hidden w-full"
+        htmlFor="mobile-menu"
+      >
+        <input className="peer hidden" type="checkbox" id="mobile-menu" />
+        <div className="relative z-50 block h-[1px] w-7 bg-white bg-transparent content-[''] before:absolute before:top-[-0.35rem] before:z-50 before:block before:h-full before:w-full before:bg-white before:transition-all before:duration-200 before:ease-out before:content-[''] after:absolute after:right-0 after:bottom-[-0.35rem] after:block after:h-full after:w-full after:bg-white after:transition-all after:duration-200 after:ease-out after:content-[''] peer-checked:bg-transparent before:peer-checked:top-0 before:peer-checked:w-full before:peer-checked:rotate-45 before:peer-checked:transform after:peer-checked:bottom-0 after:peer-checked:w-full after:peer-checked:-rotate-45 after:peer-checked:transform"></div>
+        <div className="fixed inset-0 z-40 hidden h-full w-full bg-black/50 backdrop-blur-sm peer-checked:block">
+          &nbsp;
+        </div>
+        <div className="fixed top-0 right-0 z-40 h-full w-full translate-x-full overflow-y-auto overscroll-y-none transition duration-500 peer-checked:translate-x-0">
+          <div className="float-right min-h-full w-[85%] bg-white/30 px-6 pt-12 shadow-2xl">
+            <menu className="text-white flex flex-col gap-4 pt-8">
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="/#home">
+                  HOME
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#biography">
+                  BIOGRAPHY
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#events">
+                  EVENTS
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#works">
+                  WORKS
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#music">
+                  MUSIC
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#gallery">
+                  GALLERY
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#links">
+                  LINKS
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#contact">
+                  CONTACT
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#legal">
+                  LEGAL NOTICE
+                </a>
+              </li>
+            </menu>
+          </div>
+        </div>
+      </label>
       {isViewerOpen && (
         <ImageViewer
           src={images}
@@ -1784,7 +1845,7 @@ export default function Home() {
           <br />
           <b>Copyright</b>
           <br />
-          © 2023, <br />
+          © 2024, <br />
           All rights reserved
           <br />
           The content of this website is protected by international copyright
