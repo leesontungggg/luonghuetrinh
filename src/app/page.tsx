@@ -82,6 +82,9 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#works">
           WORKS
         </a>
+        <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
+          INTERVIEWS
+        </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#music">
           MUSIC
         </a>
@@ -128,6 +131,11 @@ export default function Home() {
               <li>
                 <a className="px-8 py-4 hover:bg-white/50" href="#works">
                   WORKS
+                </a>
+              </li>
+              <li>
+                <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
+                  INTERVIEWS
                 </a>
               </li>
               <li>
@@ -1445,13 +1453,13 @@ export default function Home() {
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/interview.jpg")` }}
-        id="interview"
+        id="interviews"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-4xl font-brassiere">Interviews</p>
         </div>
       </div>
-      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
+      <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
         <ul className="flex flex-col gap-8 w-full">
           <li className="list-disc">
             <a
