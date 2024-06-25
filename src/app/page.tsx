@@ -1461,13 +1461,37 @@ export default function Home() {
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
         <ul className="flex flex-col gap-8 w-full">
+        <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://www.youtube.com/watch?v=u-UdxSnnFjc"
+            >
+            Traiect Talk in TRAIECT IV VIETNAM Project at HGNM - Hanover Society for New Music, Germany
+            </a> - HGNM (Hannoversche Gesellschaft für Neue Musik e.V.) (ENG){" "}
+          </li> 
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
             >
               Composer travels the world to write music 
-            </a> - Việt Nam News{" "}
+            </a> - Việt Nam News (ENG){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://thethaovanhoa.vn/luong-hue-trinh-neu-khong-di-am-nhac-cua-toi-se-nham-chan-20210715081038238.htm"
+            >
+              Lương Huệ Trinh: Nếu không đi, âm nhạc của tôi sẽ nhàm chán!
+            </a> - Thể thao Văn hóa Newspaper (VIET){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/t%E1%BA%A1p-ch%C3%AD-v%C4%83n-h%C3%B3a/20210505-luong-hue-trinh-am-nhac-xa-xoi-gan"
+            >
+             Lương Huệ Trinh: Âm nhạc Xa Xôi - Âm nhac Gần
+            </a>- RFI - Radio France Internationale (VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1475,7 +1499,7 @@ export default function Home() {
               href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
             >
               Emerging musician goes her own way 
-            </a>- Việt Nam News{" "}
+            </a>- Việt Nam News (ENG){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1483,16 +1507,39 @@ export default function Home() {
               href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
             >
               Culture Mosaic 
-            </a>- Vietnam Television 4 - from minute 13'59{" "}
+            </a>- Vietnam Television 4 - from minute 13'59 (ENG/VIET){" "}
           </li>
-
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://tuoitre.vn/luong-hue-trinh-tieng-noi-nu-gioi-cua-nhac-dien-tu-20190707094313943.htm"
+            >
+              Lương Huệ Trinh - Tiếng nói nữ giới của nhạc điện tử 
+            </a>- Tuổi Trẻ Newspaper (VIET){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://tienphong.vn/luong-hue-trinh-thong-dong-loi-hep-post1112236.tpo"
+            >
+              Lương Huệ Trinh - Thong dong lối hẹp
+            </a>- Tiền Phong Newspaper (VIET){" "}
+          </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
             >
               The musical journey of Luong Hue Trinh / Hành trình âm nhạc của Lương Huệ Trinh 
-            </a>- Hanoi Grapevine{" "}
+            </a>- Hanoi Grapevine (ENG/VIET){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://andofotherthingsarchived.com/vi/2014/05/05/conversation-nguyen-xuan-son-luong-hue-trinh/"
+            >
+              In Conversation: Nguyễn Xuân Sơn & Lương Huệ Trinh
+            </a>- And of Other Things (VIET){" "}
           </li>
         </ul>
       </div>
