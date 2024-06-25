@@ -1587,7 +1587,7 @@ export default function Home() {
               href="https://ttdn.vn/hoi-nhap-quoc-te/am-nhac-viet-nam-gay-choang-ngop-tai-le-hoi-am-nhac-punkt-1271"
             >
               Âm nhạc Việt Nam gây choáng ngợp tại Lễ hội âm nhạc PUNKT - Na Uy
-            </a> - Trang thông tin đối ngoại (VIET){" "}
+            </a> - Trang thông tin đối ngoại/Foreign affairs information site (VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1604,6 +1604,14 @@ export default function Home() {
             >
               Nhạc sĩ trẻ Lương Huệ Trinh: Thân gái một mình độc đạo
             </a> - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="http://soi.today/?p=84183"
+            >
+              Triển lãm 'Trang sức sống' với Đinh Công Đạt, Lê Huy Hoàng & Lương Huệ Trinh
+            </a> - SOI (VIET){" "}
           </li>
         </ul>
       </div>
