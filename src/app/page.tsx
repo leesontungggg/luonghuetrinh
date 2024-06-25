@@ -1452,8 +1452,8 @@ export default function Home() {
       </div>
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
-        style={{ backgroundImage: `url("/images/interview.jpg")` }}
-        id="interviews"
+        style={{ backgroundImage: `url("/images/media.jpg")` }}
+        id="media"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-4xl font-brassiere">Media</p>
