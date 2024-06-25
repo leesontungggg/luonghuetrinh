@@ -1807,7 +1807,9 @@ export default function Home() {
             <u>Composers/Performers I've had an honor to work with:</u>
           </b>
           <br />
-          http://georghajdu.de <br />
+          <br />
+          http://georghajdu.de 
+          <br />
           http://www.dieter-mack.de
           <br />
           http://www.alexanderschubert.net
