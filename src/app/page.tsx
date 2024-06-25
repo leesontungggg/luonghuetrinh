@@ -134,8 +134,8 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#interview">
-                  INTERVIEWS
+                <a className="px-8 py-4 hover:bg-white/50" href="#media">
+                  MEDIA
                 </a>
               </li>
               <li>
@@ -1456,7 +1456,7 @@ export default function Home() {
         id="interviews"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Interviews</p>
+          <p className="text-4xl font-brassiere">Media</p>
         </div>
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
@@ -1466,8 +1466,8 @@ export default function Home() {
               className="underline cursor-pointer"
               href="https://www.youtube.com/watch?v=u-UdxSnnFjc"
             >
-            Traiect Talk in TRAIECT IV VIETNAM Project at HGNM - Hanover Society for New Music, Germany
-            </a> - HGNM (Hannoversche Gesellschaft für Neue Musik e.V.) (ENG){" "}
+            Traiect Talk in TRAIECT IV VIETNAM Project at HGNM
+            </a> - HGNM (Hannoversche Gesellschaft für Neue Musik e.V./Hanover Society for New Music) (ENG){" "}
           </li> 
           <li className="list-disc">
             <a
@@ -1480,10 +1480,18 @@ export default function Home() {
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
-              href="https://thethaovanhoa.vn/luong-hue-trinh-neu-khong-di-am-nhac-cua-toi-se-nham-chan-20210715081038238.htm"
+              href="https://baohaiduong.vn/bat-chap-khoang-cach-nu-nghe-si-tu-4-quoc-gia-cung-bay-tiec-am-thanh-185319.html"
             >
               Lương Huệ Trinh: Nếu không đi, âm nhạc của tôi sẽ nhàm chán!
-            </a> - Thể thao Văn hóa Newspaper (VIET){" "}
+            </a> - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://thethaovanhoa.vn/luong-hue-trinh-neu-khong-di-am-nhac-cua-toi-se-nham-chan-20210715081038238.htm"
+            >
+              Lương Huệ Trinh: Bất chấp khoảng cách, nữ nghệ sĩ từ 4 quốc gia cùng bày tiệc âm thanh
+            </a> - Hải Dương province Newspaper (VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1515,7 +1523,7 @@ export default function Home() {
               href="https://tuoitre.vn/luong-hue-trinh-tieng-noi-nu-gioi-cua-nhac-dien-tu-20190707094313943.htm"
             >
               Lương Huệ Trinh - Tiếng nói nữ giới của nhạc điện tử 
-            </a>- Tuổi Trẻ Newspaper (VIET){" "}
+            </a>- Tuổi Trẻ/Youth Newspaper (VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1540,6 +1548,14 @@ export default function Home() {
             >
               In Conversation: Nguyễn Xuân Sơn & Lương Huệ Trinh
             </a>- And of Other Things (VIET){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
+              href="https://thethaovanhoa.vn/nhac-si-tre-luong-hue-trinh-than-gai-mot-minh-doc-dao-20120911082721137.htm"
+            >
+              Nhạc sĩ trẻ Lương Huệ Trinh: Thân gái một mình độc đạo
+            </a>- Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
           </li>
         </ul>
       </div>
