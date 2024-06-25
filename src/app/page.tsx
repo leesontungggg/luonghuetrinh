@@ -2081,7 +2081,7 @@ export default function Home() {
       </div>
       <a
         href="#"
-        className="fixed bottom-6 right-6 bg-black/50 rounded-full z-50 w-8 md:w-10 h-8 md:h-10 p-3 flex justify-center items-center cursor-pointer"
+        className="fixed bottom-3 md:bottom-6 right-3 md:right-6 bg-black/50 rounded-full z-50 w-8 md:w-10 h-8 md:h-10 p-3 flex justify-center items-center cursor-pointer"
       >
         <svg
           className="w-full h-full"
