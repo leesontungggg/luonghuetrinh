@@ -82,8 +82,8 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#works">
           WORKS
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
-          INTERVIEWS
+        <a className="px-8 py-4 hover:bg-white/50" href="#media">
+          MEDIA
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#music">
           MUSIC
@@ -1474,7 +1474,7 @@ export default function Home() {
               className="underline cursor-pointer"
               href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
             >
-              Composer travels the world to write music 
+              Composer travels the world to write music
             </a> - Việt Nam News (ENG){" "}
           </li>
           <li className="list-disc">
@@ -1507,23 +1507,23 @@ export default function Home() {
               href="https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/t%E1%BA%A1p-ch%C3%AD-v%C4%83n-h%C3%B3a/20210505-luong-hue-trinh-am-nhac-xa-xoi-gan"
             >
              Lương Huệ Trinh: Âm nhạc Xa Xôi - Âm nhac Gần
-            </a>- RFI - Radio France Internationale (VIET){" "}
+            </a> - RFI - Radio France Internationale (VIET){" "}
           </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://www.vietnamplus.vn/lan-dau-tien-nhac-truyen-thong-viet-nam-hoa-cung-vu-dieu-ghana-post715943.vnp"
             >
-              Lần đầu tiên nhạc truyền thống Việt Nam hòa quyện cùng vũ điệu Ghana 
-            </a>- Vietnamplus (VIET/ENG){" "}
+              Lần đầu tiên nhạc truyền thống Việt Nam hòa quyện cùng vũ điệu Ghana
+            </a> - Vietnamplus (VIET/ENG){" "}
           </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
             >
-              Emerging musician goes her own way 
-            </a>- Việt Nam News (ENG){" "}
+              Emerging musician goes her own way
+            </a> - Việt Nam News (ENG){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1544,10 +1544,10 @@ export default function Home() {
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
-              href="https://laodong.vn/van-hoa-giai-tri/thu-ha-noi-goc-nhin-am-nhac-tu-cam-hung-cac-buc-thu-xua-768602.ldo"
+              href="https://thethaovanhoa.vn/hoa-nhac-thu-ha-noi-mot-cam-thuc-xuyen-khong-day-chat-tho-20191202062200414.htm"
             >
-              "Thư Hà Nội" - Góc nhìn âm nhạc từ các bức thư xưa
-            </a>- Lao động/Labor Newspaper (VIET){" "}
+              Hòa nhạc "Thư Hà Nội" - Một cảm thức 'xuyên không' đầy chất thơ 
+            </a>- Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1571,15 +1571,15 @@ export default function Home() {
               href="https://tienphong.vn/luong-hue-trinh-thong-dong-loi-hep-post1112236.tpo"
             >
               Lương Huệ Trinh - Thong dong lối hẹp
-            </a>- Tiền Phong Newspaper (VIET){" "}
+            </a> - Tiền Phong Newspaper (VIET){" "}
           </li>
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
               href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
             >
-              The musical journey of Luong Hue Trinh / Hành trình âm nhạc của Lương Huệ Trinh 
-            </a>- Hanoi Grapevine (ENG/VIET){" "}
+              The musical journey of Luong Hue Trinh / Hành trình âm nhạc của Lương Huệ Trinh
+            </a> - Hanoi Grapevine (ENG/VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1595,7 +1595,7 @@ export default function Home() {
               href="https://andofotherthingsarchived.com/vi/2014/05/05/conversation-nguyen-xuan-son-luong-hue-trinh/"
             >
               In Conversation: Nguyễn Xuân Sơn & Lương Huệ Trinh
-            </a>- And of Other Things (VIET){" "}
+            </a> - And of Other Things (VIET){" "}
           </li>
           <li className="list-disc">
             <a
@@ -1603,7 +1603,7 @@ export default function Home() {
               href="https://thethaovanhoa.vn/nhac-si-tre-luong-hue-trinh-than-gai-mot-minh-doc-dao-20120911082721137.htm"
             >
               Nhạc sĩ trẻ Lương Huệ Trinh: Thân gái một mình độc đạo
-            </a>- Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
+            </a> - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
           </li>
         </ul>
       </div>
