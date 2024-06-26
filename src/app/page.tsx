@@ -48,6 +48,18 @@ const images = [
   "/images/41.jpg",
   "/images/42.jpg",
   "/images/43.jpg",
+  "/images/44.jpg",
+  "/images/45.jpg",
+  "/images/46.jpg",
+  "/images/47.jpg",
+  "/images/48.jpg",
+  "/images/49.jpg",
+  "/images/50.jpg",
+  "/images/51.jpg",
+  "/images/52.jpg",
+  "/images/53.jpg",
+  "/images/54.jpg",
+  "/images/55.jpg",
 ];
 
 export default function Home() {
