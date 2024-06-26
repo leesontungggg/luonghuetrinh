@@ -1634,7 +1634,7 @@ export default function Home() {
             >
               Triển lãm 'Trang sức sống' với Đinh Công Đạt, Lê Huy Hoàng & Lương Huệ Trinh
             </a>{" "}
-            - SOI (VIET){" "}
+            - SOI (VIET)
           </li>
         </ul>
       </div>
@@ -1802,7 +1802,7 @@ export default function Home() {
       <div
         id="gallery"
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
-        style={{ backgroundImage: `url("/images/gallery.png")` }}
+        style={{ backgroundImage: `url("/images/gallery.jpg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <p className="text-4xl font-brassiere">Gallery</p>
