@@ -60,6 +60,13 @@ const images = [
   "/images/53.jpg",
   "/images/54.jpg",
   "/images/55.jpg",
+  "/images/56.jpg",
+  "/images/57.jpg",
+  "/images/58.jpg",
+  "/images/59.jpg",
+  "/images/60.jpg",
+  "/images/61.jpg",
+  "/images/62.jpg",
 ];
 
 export default function Home() {
