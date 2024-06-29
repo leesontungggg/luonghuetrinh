@@ -1881,22 +1881,20 @@ export default function Home() {
           <br />
           http://henrikfrisk.com
           <br />
-          https://www.audreychen.com
-          <br />
-          https://utewassermann.com
-          <br />
           https://www.severineballon.com
           <br />
-          http://www.nicholasisherwood.com/
+          https://otomoyoshihide.com
+          <br />
+          http://www.yiikahhoe.com
           <br />
           <br />
           https://www.minhtamnguyen.com
           <br />
+          http://www.nicholasisherwood.com
+          <br />
           http://www.claudiachan.ca
           <br />
           https://www.ina-ich.net
-          <br />
-          https://www.max-riefer.com
           <br />
           https://lin-chen-percussion.com
           <br />
@@ -1910,8 +1908,6 @@ export default function Home() {
           <br />
           https://www.facebook.com/martin.d.vera.3
           <br />
-          https://www.facebook.com/josete.rosales.7
-          <br />
           http://ensemble-handwerk.eu
           <br />
           https://www.facebook.com/TRAMYBAU/
@@ -1920,10 +1916,17 @@ export default function Home() {
           <br />
           http://www.eva-zoellner.de
           <br />
-          https://stefankohmann.de <br />
+          https://stefankohmann.de 
+          <br />
           https://www.ghanaweb.com/person/Botri-Dela-772
           <br />
           https://oteanankanduro.wordpress.com/
+          <br />
+          https://www.sathecollective.org/about/andy-chia-2/
+          <br />
+          https://www.audreychen.com
+          <br />
+          https://utewassermann.com
           <br />
           <br />
           <b>
@@ -1954,8 +1957,10 @@ export default function Home() {
           <br />
           http://www.muellen.de
           <br />
-          https://www.bassermann-jordan.de <br />
-          https://weingut-knipser.de <br />
+          https://www.bassermann-jordan.de 
+          <br />
+          https://weingut-knipser.de 
+          <br />
           https://www.weingut-kuenstler.de
           <br />
           https://www.weingut-robert-weil.com
