@@ -1586,6 +1586,15 @@ export default function Home() {
           <li className="list-disc">
             <a
               className="underline cursor-pointer"
+              href="https://www.youtube.com/watch?v=O8mPvTaqnLc&lhttps://hanoigrapevine.com/vi/2019/07/experimental-music-night-undecided-borders-venture-spheres-interacting-sound-visual/ist=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
+            >
+              Hòa nhạc thể nghiệm “Biên giới mờ”: Chuyến phiêu lưu trong những trường-tương-tác-âm-thanh-thị-giác
+            </a>
+            - Hanoi Grapevine (VIET/ENG){" "}
+          </li>
+          <li className="list-disc">
+            <a
+              className="underline cursor-pointer"
               href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
             >
               Culture Mosaic
