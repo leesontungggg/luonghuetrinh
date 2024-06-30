@@ -1875,10 +1875,6 @@ export default function Home() {
           <br />
           http://www.pgvim.ac.th/postgrad/faculty/dr-jean-david-caillouet
           <br />
-          https://chongkeeyong-studio-c.com
-          <br />
-          http://kentolofsson.com
-          <br />
           http://henrikfrisk.com
           <br />
           https://www.severineballon.com
@@ -1920,9 +1916,9 @@ export default function Home() {
           <br />
           https://www.ghanaweb.com/person/Botri-Dela-772
           <br />
-          https://oteanankanduro.wordpress.com/
+          https://oteanankanduro.wordpress.com
           <br />
-          https://www.sathecollective.org/about/andy-chia-2/
+          https://www.sathecollective.org/about/andy-chia-2
           <br />
           https://www.audreychen.com
           <br />
@@ -1968,12 +1964,13 @@ export default function Home() {
           <br />
           https://weingut-fritz-haag.de
           <br />
-          https://www.weingut-matthiasmueller.de <br />
-          Peter &amp; Peter Riesling
+          https://www.weingut-matthiasmueller.de 
           <br />
-          https://domdechantwerner.com/
+          Peter & Peter Riesling
           <br />
-          https://www.vino-store.com/produit/gigondas-vieux-clocher/
+          https://domdechantwerner.com
+          <br />
+          https://www.vino-store.com/produit/gigondas-vieux-clocher
           <br />
           <br />
           <b>
@@ -1999,9 +1996,9 @@ export default function Home() {
           <br />
           https://www.kisusushi.vn
           <br />
-          https://www.facebook.com/GaneyaJapaneseRestaurant/
+          https://www.facebook.com/GaneyaJapaneseRestaurant
           <br />
-          https://www.facebook.com/Ngan-Ngon-Trâm-42-Hàng-Nón-2409591725920105/
+          https://www.facebook.com/Ngan-Ngon-Trâm-42-Hàng-Nón-2409591725920105
           <br />
           https://pasgo.vn/nha-hang/hai-san-huong-lan-hai-san-nuc-tieng-ha-thanh-825
           <br />
@@ -2010,6 +2007,10 @@ export default function Home() {
           https://etoiledasielyon.wordpress.com
           <br />
           http://www.yoloxperiences.com/santoku.aspx
+          <br />
+          https://shamojirobatayaki.vn
+          <br />
+          http://nhahangquatram.vn
           <br />
           <br />
         </p>
