@@ -110,8 +110,8 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#gallery">
           GALLERY
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#links">
-          LINKS
+        <a className="px-8 py-4 hover:bg-white/50" href="#collabs">
+          COLLABS
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#contact">
           CONTACT
@@ -168,8 +168,8 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#links">
-                  LINKS
+                <a className="px-8 py-4 hover:bg-white/50" href="#collabs">
+                  COLLABS
                 </a>
               </li>
               <li>
@@ -1857,13 +1857,13 @@ export default function Home() {
         id="links"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Links</p>
+          <p className="text-4xl font-brassiere">Collabs</p>
         </div>
       </div>
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
-            <u>Composers/Performers I've had an honor to work with:</u>
+            <u>Composers & Performers I've had an honor to work with:</u>
           </b>
           <br />
           <br />
