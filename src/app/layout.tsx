@@ -34,6 +34,22 @@ export default function RootLayout({
         />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
+        <script src={`https://www.googletagmanager.com/gtag/js?id=UA-69714233-2`} />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                  window.dataLayer = window.dataLayer || [];
+                  window.gtag = function() {dataLayer.push(arguments)}
+                  
+                  window.gtag('js', new Date());
+
+                  window.gtag('config', 'UA-69714233-2');
+                  window.gtag('set', {
+                    'cookie_flags': 'SameSite=None;Secure'
+                  });
+                `,
+            }}
+          />
       </head>
       <body style={{ backgroundColor: "#ffffff" }} className={lato.className}>
         {children}
