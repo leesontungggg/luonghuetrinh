@@ -121,7 +121,6 @@ export default function Home() {
           CONTACT
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#legal">
-          LEGAL NOTICE
         </a>
       </nav>
       <label
@@ -529,7 +528,7 @@ export default function Home() {
         id="legal"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <h3 className="text-4xl font-brassiere">Legal Notice</h3>
+          <h3 className="text-4xl font-brassiere">Contact</h3>
         </div>
       </div>
       <div className="w-[100%] h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
