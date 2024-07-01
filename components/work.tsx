@@ -430,6 +430,11 @@ const Work = () => {
               <li
                 key={id}
                 className="list-disc"
+                style={{
+                  listStyleType: "disc",
+                  paddingTop: "16px",
+                  paddingBottom: "16px",
+                }}
                 dangerouslySetInnerHTML={{ __html: event }}
               ></li>
             );
@@ -448,6 +453,11 @@ const Work = () => {
               <li
                 key={id}
                 className="list-disc"
+                style={{
+                  listStyleType: "disc",
+                  paddingTop: "16px",
+                  paddingBottom: "16px",
+                }}
                 dangerouslySetInnerHTML={{ __html: event }}
               ></li>
             );
@@ -458,7 +468,7 @@ const Work = () => {
             onClick={() => {
               setIsSeeMore(false);
             }}
-            href="#events"
+            href="#compositions"
           >
             See Less...
           </a>

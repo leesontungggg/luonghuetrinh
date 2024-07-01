@@ -73,6 +73,11 @@ const Event = () => {
               <li
                 key={id}
                 className="list-disc"
+                style={{
+                  listStyleType: "disc",
+                  paddingTop: "16px",
+                  paddingBottom: "16px",
+                }}
                 dangerouslySetInnerHTML={{ __html: event }}
               ></li>
             );
@@ -91,6 +96,11 @@ const Event = () => {
               <li
                 key={id}
                 className="list-disc"
+                style={{
+                  listStyleType: "disc",
+                  paddingTop: "16px",
+                  paddingBottom: "16px",
+                }}
                 dangerouslySetInnerHTML={{ __html: event }}
               ></li>
             );

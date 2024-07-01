@@ -5,7 +5,7 @@ const Interview = () => {
   return (
     <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
       <ul className="flex flex-col gap-8 w-full">
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=u-UdxSnnFjc"
@@ -15,7 +15,7 @@ const Interview = () => {
           - HGNM (Hannoversche Gesellschaft für Neue Musik e.V./Hanover Society
           for New Music) (ENG){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
@@ -24,7 +24,7 @@ const Interview = () => {
           </a>{" "}
           - Việt Nam News (ENG){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://thethaovanhoa.vn/luong-hue-trinh-neu-khong-di-am-nhac-cua-toi-se-nham-chan-20210715081038238.htm"
@@ -33,7 +33,7 @@ const Interview = () => {
           </a>{" "}
           - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.vietnamplus.vn/bat-chap-khoang-cach-nu-nghe-sy-tu-4-quoc-gia-cung-bay-tiec-am-thanh-post727060.vnp"
@@ -43,7 +43,7 @@ const Interview = () => {
           </a>{" "}
           - Vietnamplus Newspaper (VIET/ENG){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.facebook.com/photo/?fbid=10159465697754313&set=a.10151546005599313"
@@ -52,7 +52,7 @@ const Interview = () => {
           </a>{" "}
           - Lao động/Labor Newspaper (VIET){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/t%E1%BA%A1p-ch%C3%AD-v%C4%83n-h%C3%B3a/20210505-luong-hue-trinh-am-nhac-xa-xoi-gan"
@@ -61,7 +61,7 @@ const Interview = () => {
           </a>{" "}
           - RFI - Radio France Internationale (VIET){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.vietnamplus.vn/lan-dau-tien-nhac-truyen-thong-viet-nam-hoa-cung-vu-dieu-ghana-post715943.vnp"
@@ -70,7 +70,7 @@ const Interview = () => {
           </a>{" "}
           - Vietnamplus (VIET/ENG){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://vietnamnews.vn/sunday/features/569873/emerging-musician-goes-her-own-way.html"
@@ -79,7 +79,7 @@ const Interview = () => {
           </a>{" "}
           - Việt Nam News (ENG){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://daidoanket.vn/nha-soan-nhac-luong-hue-trinh-nhac-moi-tiep-can-nguoi-nghe-theo-cach-tu-nhien-nhat-10143255.html"
@@ -89,7 +89,7 @@ const Interview = () => {
           </a>{" "}
           - Đại Đoàn Kết Newspaper (VIET){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.phapfr.vn/am-nhac-nghe-thuat-bieu-dien/2019/12/05/hoa-nhac-lettres-de-ha-noi-thuong-nho-mot-thoi-xa-xua/"
@@ -98,7 +98,7 @@ const Interview = () => {
           </a>{" "}
           - Phápfr.vn / Tạp chí Thương Gia - Luxury Inside (VIET){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://thethaovanhoa.vn/hoa-nhac-thu-ha-noi-mot-cam-thuc-xuyen-khong-day-chat-tho-20191202062200414.htm"
@@ -107,7 +107,7 @@ const Interview = () => {
           </a>
           - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=O8mPvTaqnLc&lhttps://hanoigrapevine.com/vi/2019/07/experimental-music-night-undecided-borders-venture-spheres-interacting-sound-visual/ist=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
@@ -117,7 +117,7 @@ const Interview = () => {
           </a>
           - Hanoi Grapevine (VIET/ENG){" "}
         </li>
-        <li className="list-disc">
+        <li className="list-disc py-4">
           <a
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
@@ -136,7 +136,7 @@ const Interview = () => {
         )}
         {isSeeMore && (
           <>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="https://tuoitre.vn/luong-hue-trinh-tieng-noi-nu-gioi-cua-nhac-dien-tu-20190707094313943.htm"
@@ -145,7 +145,7 @@ const Interview = () => {
               </a>
               - Tuổi Trẻ/Youth Newspaper (VIET){" "}
             </li>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="https://tienphong.vn/luong-hue-trinh-thong-dong-loi-hep-post1112236.tpo"
@@ -154,7 +154,7 @@ const Interview = () => {
               </a>{" "}
               - Tiền Phong Newspaper (VIET){" "}
             </li>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
@@ -164,7 +164,7 @@ const Interview = () => {
               </a>{" "}
               - Hanoi Grapevine (ENG/VIET){" "}
             </li>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="https://ttdn.vn/hoi-nhap-quoc-te/am-nhac-viet-nam-gay-choang-ngop-tai-le-hoi-am-nhac-punkt-1271"
@@ -175,7 +175,7 @@ const Interview = () => {
               - Trang thông tin đối ngoại/Foreign affairs information site
               (VIET){" "}
             </li>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="https://andofotherthingsarchived.com/vi/2014/05/05/conversation-nguyen-xuan-son-luong-hue-trinh/"
@@ -184,7 +184,7 @@ const Interview = () => {
               </a>{" "}
               - And of Other Things (VIET){" "}
             </li>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="https://thethaovanhoa.vn/nhac-si-tre-luong-hue-trinh-than-gai-mot-minh-doc-dao-20120911082721137.htm"
@@ -193,7 +193,7 @@ const Interview = () => {
               </a>{" "}
               - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
             </li>
-            <li className="list-disc">
+            <li className="list-disc py-4">
               <a
                 className="underline cursor-pointer"
                 href="http://soi.today/?p=84183"
