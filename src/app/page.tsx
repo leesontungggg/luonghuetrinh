@@ -120,8 +120,6 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#contact">
           CONTACT
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#legal">
-        </a>
       </nav>
       <label
         className="fixed z-40 cursor-pointer px-3 py-6 bg-black/30 md:hidden w-full"
@@ -178,11 +176,6 @@ export default function Home() {
               <li>
                 <a className="px-8 py-4 hover:bg-white/50" href="#contact">
                   CONTACT
-                </a>
-              </li>
-              <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#legal">
-                  LEGAL NOTICE
                 </a>
               </li>
             </menu>
@@ -525,7 +518,7 @@ export default function Home() {
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/p10-min.jpeg")` }}
-        id="legal"
+        id="contact"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
           <h3 className="text-4xl font-brassiere">Contact</h3>
@@ -533,11 +526,23 @@ export default function Home() {
       </div>
       <div className="w-[100%] h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
-          Luong Hue Trinh <br />
-          Hanoi, Vietnam
+          <i className=""></i>Luong Hue Trinh <br />
+          huetrinh.luong@gmail.com
+          <br />
+        </div>
+        <i id="contact" className="">
+          {" "}
+          <a className="underline" href="mailto:huetrinh.luong@gmail.com">
+            Contact me
+          </a>{" "}
+          for further information!
+        </i>
+      </div>
           <br />
           <br />
           <br />
+          <h3 className="text-center text-xl">Legal Notice</h3>
+          <div className="">
           <b>Copyright</b>
           <br />
           © 2024, <br />
@@ -569,20 +574,6 @@ export default function Home() {
           material or ideological claims caused by the use or misuse of the
           presented information or by faulty and incomplete information.
         </p>
-        <h3 className="text-center text-xl">Contact</h3>
-        <div className="">
-          <i className=""></i>Luong Hue Trinh <br />
-          huetrinh.luong@gmail.com
-          <br />
-        </div>
-        <i id="contact" className="">
-          {" "}
-          <a className="underline" href="mailto:huetrinh.luong@gmail.com">
-            Contact me
-          </a>{" "}
-          for further information!
-        </i>
-      </div>
       <div className="w-[100%] h-fit relative bg-white py-8 px-8 lg:px-72 gap-4 flex flex-row items-left justify-around md:justify-center md:gap-8 border-none">
         <a href="https://www.facebook.com/luonghuetrinh" target="_blank">
           <svg
