@@ -21,6 +21,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta
+          property="og:image"
+          content="https://luonghuetrinh.org/images/1a.jpg"
+        />
+        <meta property="og:title" content="Luong Hue Trinh" />
+        <meta
+          property="og:description"
+          content="ietnamese multimedia composer. Electroacoustic music improviser."
+        />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+      </head>
       <body style={{ backgroundColor: "#ffffff" }} className={lato.className}>
         {children}
       </body>
