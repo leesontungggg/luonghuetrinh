@@ -523,7 +523,7 @@ export default function Home() {
           <h3 className="text-4xl font-brassiere">Legal Notice</h3>
         </div>
       </div>
-      <div className="w-[100%] h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+      <div className="w-[100%] h-fit relative bg-white pt-32 pb-4 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <div className="">
           <i className=""></i>Luong Hue Trinh <br />
           huetrinh.luong@gmail.com
@@ -536,46 +536,9 @@ export default function Home() {
           </a>{" "}
           for further information!
         </i>
-        <h3 className="text-center text-xl">Legal Notice</h3>
-        <p>
-          Luong Hue Trinh <br />
-          Hanoi, Vietnam
-          <br />
-          <br />
-          <br />
-          <b>Copyright</b>
-          <br />
-          © 2024, <br />
-          All rights reserved
-          <br />
-          The content of this website is protected by international copyright
-          laws. The content of this site may not be used for reproduction in any
-          form or for transmission, multiplication and publication by electronic
-          mediums without the express written permission of{" "}
-          <b>Luong Hue Trinh</b>, unless otherwise stated.
-          <br />
-          <b>Links to external websites</b>
-          <br />
-          The website contains links to external websites. We do not accept any
-          responsibility for the contents and data copyright policies of
-          external websites, as this lies beyond our jurisdiction and influence.
-          All links have been carefully examined, and do not pose any legal or
-          ethical issues at the time of publishing.
-          <br />
-          <b>Exclusion of liability</b>
-          <br />
-          This contents of the website reflect the ongoing nature of a
-          continuous working process. I cannot guarantee the actuality, quality,
-          correctness or completeness of the information contained on our web
-          pages, although utmost care has been taken with the selection of
-          included content.
-          <br />
-          No liability claims can be made against me, relating to damages of
-          material or ideological claims caused by the use or misuse of the
-          presented information or by faulty and incomplete information.
-        </p>
       </div>
-      <div className="w-[100%] h-fit relative bg-white py-8 px-8 lg:px-72 gap-4 flex flex-row items-left justify-around md:justify-center md:gap-8 border-none">
+
+      <div className="w-[100%] h-fit relative bg-white py-2 px-8 lg:px-72 gap-4 flex flex-row items-left justify-around md:justify-center md:gap-8 border-none">
         <a href="https://www.facebook.com/luonghuetrinh" target="_blank">
           <svg
             className="w-6 h-6"
@@ -622,6 +585,48 @@ export default function Home() {
           </svg>
         </a>
       </div>
+
+      <div className="w-[100%] h-fit relative bg-white pt-12 pb-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+        <h3 className="text-center text-xl">Legal Notice</h3>
+        <p>
+          Luong Hue Trinh <br />
+          Hanoi, Vietnam
+          <br />
+          <br />
+          <br />
+          <b>Copyright</b>
+          <br />
+          © 2024, <br />
+          All rights reserved
+          <br />
+          The content of this website is protected by international copyright
+          laws. The content of this site may not be used for reproduction in any
+          form or for transmission, multiplication and publication by electronic
+          mediums without the express written permission of{" "}
+          <b>Luong Hue Trinh</b>, unless otherwise stated.
+          <br />
+          <b>Links to external websites</b>
+          <br />
+          The website contains links to external websites. We do not accept any
+          responsibility for the contents and data copyright policies of
+          external websites, as this lies beyond our jurisdiction and influence.
+          All links have been carefully examined, and do not pose any legal or
+          ethical issues at the time of publishing.
+          <br />
+          <b>Exclusion of liability</b>
+          <br />
+          This contents of the website reflect the ongoing nature of a
+          continuous working process. I cannot guarantee the actuality, quality,
+          correctness or completeness of the information contained on our web
+          pages, although utmost care has been taken with the selection of
+          included content.
+          <br />
+          No liability claims can be made against me, relating to damages of
+          material or ideological claims caused by the use or misuse of the
+          presented information or by faulty and incomplete information.
+        </p>
+      </div>
+
       <a
         href="#"
         className="fixed bottom-3 md:bottom-6 right-3 md:right-6 bg-black/50 rounded-full z-50 w-8 md:w-10 h-8 md:h-10 p-3 flex justify-center items-center cursor-pointer"
