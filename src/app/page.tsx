@@ -94,8 +94,8 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#home">
           HOME
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#biography">
-          BIOGRAPHY
+        <a className="px-8 py-4 hover:bg-white/50" href="#bio>
+          BIO
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#events">
           EVENTS
@@ -140,8 +140,8 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#biography">
-                  BIOGRAPHY
+                <a className="px-8 py-4 hover:bg-white/50" href="#bio">
+                  BIO
                 </a>
               </li>
               <li>
@@ -219,10 +219,10 @@ export default function Home() {
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/0.jpg")` }}
-        id="biography"
+        id="bio"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Biography</p>
+          <p className="text-4xl font-brassiere">Bio</p>
         </div>
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
@@ -749,7 +749,7 @@ export default function Home() {
           <br />
           http://www.dieter-mack.de
           <br />
-          http://www.pgvim.ac.th/postgrad/faculty/dr-jean-david-caillouet
+          https://jdmozaic.com
           <br />
           http://henrikfrisk.com
           <br />
@@ -799,6 +799,8 @@ export default function Home() {
           https://www.audreychen.com
           <br />
           https://utewassermann.com
+          <br />
+          https://www.hallasteinunn.com
           <br />
           ...
           <br />
