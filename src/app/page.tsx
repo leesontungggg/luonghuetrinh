@@ -94,7 +94,7 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#home">
           HOME
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#bio>
+        <a className="px-8 py-4 hover:bg-white/50" href="#bio">
           BIO
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#events">
