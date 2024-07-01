@@ -100,11 +100,11 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#events">
           EVENTS
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#works">
-          WORKS
+        <a className="px-8 py-4 hover:bg-white/50" href="#compositions">
+          COMPOSITIONS
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#media">
-          MEDIA
+        <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
+          INTERVIEWS
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#music">
           MUSIC
@@ -150,13 +150,13 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#works">
-                  WORKS
+                <a className="px-8 py-4 hover:bg-white/50" href="#compositions">
+                  COMPOSITIONS
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#media">
-                  MEDIA
+                <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
+                  INTERVIEWS
                 </a>
               </li>
               <li>
@@ -335,20 +335,20 @@ export default function Home() {
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/projects.jpeg")` }}
-        id="works"
+        id="compositions"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Works</p>
+          <p className="text-4xl font-brassiere">Compositions</p>
         </div>
       </div>
       <Work />
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/media.jpg")` }}
-        id="media"
+        id="interviews"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Media</p>
+          <p className="text-4xl font-brassiere">Interviews</p>
         </div>
       </div>
       <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
@@ -800,93 +800,7 @@ export default function Home() {
           <br />
           https://utewassermann.com
           <br />
-          <br />
-          <b>
-            <u>Favourite Wineries</u>
-          </b>
-          <br />
-          <br />
-          http://www.drloosen.de
-          <br />
-          http://www.franz-keller.de
-          <br />
-          http://www.vonschubert.com
-          <br />
-          http://www.zilliken-vdp.de
-          <br />
-          http://www.quartzreef.co.nz
-          <br />
-          https://www.matua.co.nz
-          <br />
-          https://www.champagne-gosset.com
-          <br />
-          https://www.bourgogne-wines.com
-          <br />
-          https://www.weingut-theo-enk.de
-          <br />
-          https://www.schieferkopf.com
-          <br />
-          https://maximingruenhaus.de
-          <br />
-          http://www.muellen.de
-          <br />
-          https://www.bassermann-jordan.de
-          <br />
-          https://weingut-knipser.de
-          <br />
-          https://www.weingut-kuenstler.de
-          <br />
-          https://www.weingut-robert-weil.com
-          <br />
-          https://weingut-fritz-haag.de
-          <br />
-          https://www.weingut-matthiasmueller.de
-          <br />
-          Peter & Peter Riesling
-          <br />
-          https://domdechantwerner.com
-          <br />
-          https://www.vino-store.com/produit/gigondas-vieux-clocher
-          <br />
-          <br />
-          <b>
-            <u>Favourite Restaurants</u>
-          </b>
-          <br />
-          <br />
-          http://eraora.dk
-          <br />
-          http://www.reinstoff.eu
-          <br />
-          http://www.wullenwever.de
-          <br />
-          http://restaurant-piment.de
-          <br />
-          http://www.annasgroi.de/en
-          <br />
-          http://www.cornelia-poletto.de
-          <br />
-          https://www.gallo-nero.net
-          <br />
-          https://highway4.com
-          <br />
-          https://www.kisusushi.vn
-          <br />
-          https://www.facebook.com/GaneyaJapaneseRestaurant
-          <br />
-          https://www.facebook.com/Ngan-Ngon-Trâm-42-Hàng-Nón-2409591725920105
-          <br />
-          https://pasgo.vn/nha-hang/hai-san-huong-lan-hai-san-nuc-tieng-ha-thanh-825
-          <br />
-          https://www.facebook.com/LeTandemaccraghana
-          <br />
-          https://etoiledasielyon.wordpress.com
-          <br />
-          http://www.yoloxperiences.com/santoku.aspx
-          <br />
-          https://shamojirobatayaki.vn
-          <br />
-          http://nhahangquatram.vn
+          ...
           <br />
           <br />
         </p>
