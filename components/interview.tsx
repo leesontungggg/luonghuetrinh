@@ -32,6 +32,22 @@ const Interview = () => {
         >
           <a
             className="underline cursor-pointer"
+            href="https://artsghana.net/cross-cultural-production-charm-audience-at-goethe-institut/"
+          >
+            Cross cultural production charm audience at Goethe-Institut
+          </a>{" "}
+          - Artsghana (ENG){" "}
+        </li>
+        <li
+          className="list-disc py-4"
+          style={{
+            listStyleType: "disc",
+            paddingTop: "16px",
+            paddingBottom: "16px",
+          }}
+        >
+          <a
+            className="underline cursor-pointer"
             href="https://vietnamnews.vn/life-style/995576/composer-travels-the-world-to-write-music.html"
           >
             Composer travels the world to write music
