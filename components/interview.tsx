@@ -17,7 +17,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=u-UdxSnnFjc"
           >
-            Traiect Talk in TRAIECT IV VIETNAM Project at HGNM
+            Talk in TRAIECT IV VIETNAM Project at HGNM
           </a>{" "}
           - HGNM (Hannoversche Gesellschaft für Neue Musik e.V./Hanover Society
           for New Music) (ENG){" "}
