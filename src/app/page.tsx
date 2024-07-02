@@ -202,8 +202,9 @@ export default function Home() {
             </p>
             <p className="text-md md:text-lg italic">
               Multimedia composer & music improviser 
-              <br /> 
-              <p className="text-md md:text-lg italic"></p>
+              <br />  
+              </p>
+              <p className="text-md md:text-lg italic">
               Organizer & producer
             </p>
           </div>
