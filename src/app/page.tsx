@@ -200,7 +200,7 @@ export default function Home() {
             <p className="text-4xl md:text-6xl font-brassiere -mt-12">
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
-            <p className="text-md md:text-lg italic mt-6">
+            <p className="text-md md:text-lg italic mt-7">
               Multimedia composer & music improviser
             </p>
             <p className="text-md md:text-lg italic">Organizer & producer</p>
