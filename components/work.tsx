@@ -11,10 +11,11 @@ const works = [
   `<i style="text-decoration: underline">Đốm</i> (2023)
           <br />
           for two voices (traditional Vietnamese singing Ả Đào, experimental),
-          Phách (wooden block), đàn Bầu, electronics and video. Duration: 10'
+          Phách (wooden block), đàn Bầu, electronics, video & two performers. Duration: 10'
           <br />
           Premiere at Sprengel Museum - Hanover, Overseas Museum - Bremen,
-          Academy of Arts - Berlin.
+          Academy of Arts - Berlin, Germany; 
+          MotPlus - Saigon, 22 Hàng Buồm Cuture and Arts Center - Hanoi, Ồ Ạt Oh Art Festival 2024 - Saigon, Vietnam. 
           <br />
           Commissioned for project TRAIECT IV Vietnam by Hannoversche
           Gesellschaft für Neue Musik (Hanover Society for New Music), Germany.
