@@ -70,7 +70,7 @@ const Bio = () => {
             named her the 'Finest Artist of the Year', marking her significant
             contribution to Vietnam's art and culture scene. She was also
             awarded a scholarship in the Réciprocité program of Villa
-            Saigon-Institut Français Vietnam for a 3-month residency at the Cité
+            Saigon-Institut Français du Vietnam for a 3-month residency at the Cité
             Internationale des Arts Paris in 2020. The same year, she was
             honored as one of 14 successful DAAD Vietnam alumni since 1985,
             featured in a publication commemorating 45 years of diplomatic
