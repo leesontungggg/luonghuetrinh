@@ -59,7 +59,8 @@ const Bio = () => {
             experimental elements in music and visuals, scenography, and
             creating site-specific artworks. She has received commissions for
             exhibitions, contemporary dance projects, animation, experimental
-            films, video art, installations, painting performance and more...
+            films, video art, installations, painting performance and more... 
+            Beyond composing, she demonstrates mastery in improvisation.
             <br />
             <br />
             Her debut album "Illusions" in 2016 garnered acclaim and was
