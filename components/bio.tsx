@@ -5,7 +5,7 @@ const Bio = () => {
   return (
     <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
       <p className="mt-8 text-[#777777]">
-        Short:
+        Brief:
         <br />
         Starting her musical journey at the age of 5, LUONG Hue Trinh embarked
         on a path that led her to the Vietnam National Academy of Music in 1998,
