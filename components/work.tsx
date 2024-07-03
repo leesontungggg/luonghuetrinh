@@ -25,12 +25,12 @@ const works = [
           music, spokenword poetry & acting, video & scenography. Duration: 90'
           <br />
           a multicultural, multimedia and site-specific performance designed for
-          Alliance Française Accra.
+          Alliance Française Accra with artists from Ghana, Vietnam, France, Togo,
+          Germany & Cameroon.
           <br />
           A production of Alliance Française Accra with the support from the
-          French Embassy on Ghana, Canal +, Ibis Styles Hotel Accra, Sun Trade
-          Beads, Yfm and Mx24 Tv with artists from Ghana, Vietnam, France, Togo,
-          Germany & Cameroon.
+          French Embassy to Ghana, Canal +, Ibis Styles Hotel Accra, Sun Trade
+          Beads, Yfm and Mx24 Tv.
           <br />`,
   `<i style="text-decoration: underline">NHẤP NHOÁNG</i> (2023) <br />
           for Đàn Bầu, electronics, voice, objects and poetry. Duration: 45'
@@ -62,7 +62,7 @@ const works = [
           Duration: 11'
           <br />
           Premiered at Cité Internationale des Arts, Paris. Supported by the
-          Embassy of France in Ghana, Institut français Ghana and Cité
+          Embassy of France to Ghana, Institut français du Ghana and Cité
           Internationale des Arts, Paris.
           <br />`,
   `<i style="text-decoration: underline">THE APPEAL</i> (2022)
@@ -75,10 +75,10 @@ const works = [
           intermedia and site-specific performance designed for Alliance
           Française Accra.
           <br />
-          A production of Alliance Française Accra, Ghana with support from
-          French Embassy to Ghana/ Ministry of Culture, Youth & Education in
-          Rhineland-Platinate in Germany/ IBIS Styles Hotel in Accra, MX24 TV,
-          Yfm, Wigal Ghana, and Canal+ Ghana.
+          A production of Alliance Française Accra, Ghana with support from the
+          French Embassy to Ghana; Ministry of Culture, Youth & Education in
+          Rhineland-Platinate in Germany; IBIS Styles Hotel Accra; Mx24 TV,
+          Yfm, Wigal Ghana, and Canal+.
           <br />`,
   `<i style="text-decoration: underline">Chênh chếch (a step aside)</i> (2022) in the
           concert TÍCH TỊCH TÌNH TANG...
@@ -134,9 +134,9 @@ const works = [
           Intervals" for five female artists from Vietnam, Germany, France,
           Switzerland & Ghana
           <br />
-          Commissioned by Goethe-Institut Vietnam.
+          Commissioned by Goethe Institut Vietnam.
           <br />
-          Online premiered and a live performance at Goethe-Institut Vietnam in
+          Online premiered and a live performance at Goethe Institut Vietnam in
           Hanoi.
           <br />`,
   `<i style="text-decoration: underline">Heave/Phập phồng</i> (2021)
@@ -149,10 +149,10 @@ const works = [
           performance designed for the space of Alliance Française Accra.
           <br />
           Commissioned by Alliance française d'Accra with support from Institut
-          français du Ghana.
+          français du Ghana, the French Embassy to Ghana. 
           <br />
           World premiered at the outdoor Amphitheater - Alliance Française
-          d'Accra, Ghana.
+          Accra, Ghana.
           <br />`,
   `<i style="text-decoration: underline">Transit Zone </i>(2020)
           <br />
@@ -170,19 +170,19 @@ const works = [
           <br />
           for piano, electronics and video. Duration: 8'35
           <br />
-          Commissioned by Goethe Institut Vietnam for ensemble Hand Werk,
+          Commissioned by Goethe Institut du Vietnam for ensemble Hand Werk,
           Cologne Germany.
           <br />
           World premiered "Inter Konzert intermedial und interkulturell" at Alte
           Feuerwache-Cologne, Theater in Pumpenhaus-Münster,
-          Bürgermeisterhaus-Essen in Germany.
+          Bürgermeisterhaus-Essen, Germany.
           <br />`,
   `<i style="text-decoration: underline">The Net of Imagination </i>(2019)
           <br />
           for traditional Vietnamese singing, cello, electronics and video.
           Duration: 7'00
           <br />
-          Commissioned by Institut Français de Hanoi - L'Espace for
+          Commissioned by Institut français du Vietnam - L'Espace for
           Franco-Vietnamese concert "Lettres de Hanoï" in European Music
           Festival in Vietnam.
           <br />
@@ -194,7 +194,7 @@ const works = [
           for traditional Vietnamese singing, percussions, cello, electronics
           and video. Duration: 9'00
           <br />
-          Commissioned by Institut Français de Hanoi - L'Espace for
+          Commissioned by Institut français du Vietnam - L'Espace for
           Franco-Vietnamese concert "Lettres de Hanoï" in European Music
           Festival in Vietnam.
           <br />
@@ -218,7 +218,7 @@ const works = [
           <br />
           for objects, bamboo flutes, electronics and video. Duration: 7'00
           <br />
-          Premiered at Institut Français de Hanoi - L'Espace.
+          Premiered at Institut français du Vietnam - L'Espace.
           <br />`,
   `<i style="text-decoration: underline">Scarlet Nails</i> (2019)
           <br />
@@ -234,7 +234,7 @@ const works = [
           for two percussionists, vocal, electronics and video. Duration: 12’00
           <br />
           World premiered at Hamburg University of Music & Theatre/Institut
-          Français de Hanoi - L'Espace.
+          français du Vietnam - L'Espace.
           <br />`,
   `<i style="text-decoration: underline">JiJi</i> (2018)
           <br />
@@ -242,7 +242,7 @@ const works = [
           video. Duration: 7'00
           <br />
           World premiered at Hamburg University of Music & Theatre/Institut
-          Français de Hanoi - L'Espace/Vietnam National Academy of Music, Hanoi/
+          français du Vietnam - L'Espace/Vietnam National Academy of Music, Hanoi/
           Goethe Institut Hanoi.
           <br />`,
   `<i style="text-decoration: underline">Red Moon</i> (2018)
@@ -251,7 +251,7 @@ const works = [
           Duration: 12’00
           <br />
           World premiered at Hamburg University of Music & Theatre/Institut
-          Français de Hanoi - L'Espace.
+          français du Vietnam - L'Espace.
           <br />`,
   `<i style="text-decoration: underline">Departure of a Leaf</i> (2018)
           <br />
@@ -353,7 +353,7 @@ const works = [
           <br />
           Commisioned by DomDom Center.
           <br />
-          Premiered at Institut Français de Hanoï, Vietnam.
+          Premiered at Institut français du Vietnam.
           <br />`,
   `<i style="text-decoration: underline">An Nhiên (Light-being)</i> (2014)
           <br />
