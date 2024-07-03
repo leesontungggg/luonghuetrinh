@@ -197,10 +197,10 @@ export default function Home() {
           className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-para bg-no-repeat bg-[70%] md:bg-center bg-cover"
         >
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col">
-            <p className="text-4xl md:text-6xl font-brassiere -mt-12">
+            <p className="text-4xl md:text-6xl font-brassiere -mt-13">
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
-            <p className="text-md md:text-lg italic mt-3">
+            <p className="text-md md:text-lg italic mt-2">
               Multimedia composer & music improviser
             </p>
             <p className="text-md md:text-lg italic">Organizer & producer</p>
