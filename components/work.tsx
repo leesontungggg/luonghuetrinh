@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 const works = [
-  `<i style="text-decoration: underline">How can I be tender ?</i> (2023) <br /> for
-          Grain~bau solo. Duration: 9'30" <br /> Premiere at Showcase Concert at
+  `<i style="text-decoration: underline">How can I be tender ?</i> (2023) <br /> 
+          for Grain~bau solo. Duration: 9'30" <br /> Premiere at Showcase Concert at
           the Future Art Lab - Klangtheater at University of Music and
           Performing Arts, Vienna - Austria.
           <br /> Commissioned for the artistic research project Études for
@@ -19,32 +19,35 @@ const works = [
           Commissioned for project TRAIECT IV Vietnam by Hannoversche
           Gesellschaft für Neue Musik (Hanover Society for New Music), Germany.
           <br />`,
-  `<i style="text-decoration: underline">SLANTED SILHOUETTES</i> (2023) - a
-          multicultural, multimedia and site-specific performance designed for
-          Alliance Française Accra.
-          <br />
+  `<i style="text-decoration: underline">SLANTED SILHOUETTES</i> (2023) <br />
           for traditional and contemporary music & dance, electronic & acoustic
           music, spokenword poetry & acting, video & scenography. Duration: 90'
+          <br />
+          a multicultural, multimedia and site-specific performance designed for
+          Alliance Française Accra.
           <br />
           A production of Alliance Française Accra with the support from the
           French Embassy on Ghana, Canal +, Ibis Styles Hotel Accra, Sun Trade
           Beads, Yfm and Mx24 Tv with artists from Ghana, Vietnam, France, Togo,
           Germany & Cameroon.
           <br />`,
-  `<i style="text-decoration: underline">NHẤP NHOÁNG</i> (2023) - a site-specific and
-          music performance by Luong Hue Trinh and Ngo Tra My.
-          <br />
+  `<i style="text-decoration: underline">NHẤP NHOÁNG</i> (2023) <br />
           for Đàn Bầu, electronics, voice, objects and poetry. Duration: 45'
+          <br />
+          a site-specific and
+          music performance by Luong Hue Trinh and Ngo Tra My.
           <br />
           Commissioned by the 33rd AngelicA International Music Festival in
           Bologna, Italy.
           <br />`,
-  `<i style="text-decoration: underline">The Vivid Silences</i> (2022) - a multimedia
-          and site-specific performance designed for Goethe Institut Ghana.
+  `<i style="text-decoration: underline">The Vivid Silences</i> (2022)
           <br />
           for traditional Vietnamese & Ghanaian music (acoustic, electronics),
           experimental music, traditional & contemporary African dance, spoken
           word/poetry & scenography. Duration: 70'
+          <br />
+          a multimedia
+          and site-specific performance designed for Goethe Institut Ghana.
           <br />
           A production of Goethe Institut Ghana with support from Alliance
           Française Accra
@@ -61,13 +64,15 @@ const works = [
           Embassy of France in Ghana, Institut français Ghana and Cité
           Internationale des Arts, Paris.
           <br />`,
-  `<i style="text-decoration: underline">THE APPEAL</i> (2022) - an intercultural,
-          intermedia and site-specific performance designed for Alliance
-          Française Accra.
+  `<i style="text-decoration: underline">THE APPEAL</i> (2022)
           <br />
           for traditional Vietnamese & Ghanaian music (acoustic, electronics),
           experimental music, traditional & contemporary African dance, video,
           spoken word/poetry & scenography. Duration: 70'
+          <br />
+          an intercultural,
+          intermedia and site-specific performance designed for Alliance
+          Française Accra.
           <br />
           A production of Alliance Française Accra, Ghana with support from
           French Embassy to Ghana/ Ministry of Culture, Youth & Education in
@@ -84,11 +89,13 @@ const works = [
           <br />
           Premiered at Goethe Institut Vietnam in Hanoi
           <br />`,
-  `<i style="text-decoration: underline">La lettre perdue</i> (2022) for the 6th
-          edition of Electric Voice project of Nicholas Isherwood.
+  `<i style="text-decoration: underline">La lettre perdue</i> (2022)
           <br />
           for voice, fixed media and video. Poetry by Emmanuel Labrande.
           Duration: 8'45
+          <br />
+          for the 6th
+          edition of Electric Voice project of Nicholas Isherwood.
           <br />
           Commissioned by the Franco-American bass-baritone singer Nicholas
           Isherwood
@@ -116,25 +123,29 @@ const works = [
           Stefánsdóttir with support of Ministry of Culture in Iceland.
           Releasing in New York City-USA in 2022.
           <br />`,
-  `<i style="text-decoration: underline">Ohn Warum</i> (2021) in concert "Drifting
-          Intervals" for five female artists from Vietnam, Germany, France,
-          Switzerland & Ghana
+  `<i style="text-decoration: underline">Ohn Warum</i> (2021)
           <br />
           for cello, voices in German and Vietnamese languages, accordion, đàn
           bầu (Vietnamese monochord), poetry by Angelus Silesius and
           electronics. Duration: 9'30
+          <br />
+          in concert "Drifting
+          Intervals" for five female artists from Vietnam, Germany, France,
+          Switzerland & Ghana
           <br />
           Commissioned by Goethe-Institut Vietnam.
           <br />
           Online premiered and a live performance at Goethe-Institut Vietnam in
           Hanoi.
           <br />`,
-  `<i style="text-decoration: underline">Heave/Phập phồng</i> (2021) - a multimedia
-          performance designed for the space of Alliance Française Accra.
+  `<i style="text-decoration: underline">Heave/Phập phồng</i> (2021)
           <br />
           for electronics, Ewe drums, experimental voice, Ewe traditional
           singing, poetry, traditional and African contemporary dance, video and
           scenography. Duration: 55'
+          <br />
+          a multimedia
+          performance designed for the space of Alliance Française Accra.
           <br />
           Commissioned by Alliance française d'Accra with support from Institut
           français du Ghana.
