@@ -25,7 +25,7 @@ const Bio = () => {
         site-specific artworks. Beyond composing, she is an adept improviser.
         She has received commissions for exhibitions, contemporary dance
         projects, animation, experimental films, video arts, and live
-        performances across Asia, Europe, Australia, Canada, North America, and
+        performances across Asia, Europe, Oceania, North America, and
         Africa.
         <br />
         <br />
@@ -87,7 +87,7 @@ const Bio = () => {
             Forum Foundation.
             <br />
             <br />
-            Her work has been performed across Asia, Europe, Australia, Canada,
+            Her work has been performed across Asia, Europe, Oceania,
             North America, and Africa such as Übersee museum, Berlin Academy of
             Arts, Center for Art & Media - ZKM Karlsruhe, University of Music,
             Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum
