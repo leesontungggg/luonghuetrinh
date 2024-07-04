@@ -5,6 +5,22 @@ const Interview = () => {
   return (
     <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
       <ul className="flex flex-col gap-8 w-full">
+      <li
+          className="list-disc py-4"
+          style={{
+            listStyleType: "disc",
+            paddingTop: "16px",
+            paddingBottom: "16px",
+          }}
+        >
+          <a
+            className="underline cursor-pointer"
+            href="https://thethaovanhoa.vn/cuoc-gap-go-giua-a-dao-dan-bau-va-nhac-dien-tu-20240125070333158.htm?fbclid=IwZXh0bgNhZW0CMTAAAR272FGDv-3JUwTb_vCIGuJdnlDF3IdMP556aoOaHr9lpqQMfXeCPJ89uuw_aem_IlYglqkeyxvqwGj3LYJBxg"
+          >
+            Cuộc gặp gỡ giữa Ả đào, đàn Bầu và nhạc điện tử
+          </a>{" "}
+          - Thể thao Văn hóa/Culture & Sport Newspaper (VIET) - 2024{" "}
+        </li>
         <li
           className="list-disc py-4"
           style={{
@@ -17,10 +33,10 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=u-UdxSnnFjc"
           >
-            Talk in TRAIECT IV VIETNAM Project at HGNM
+            Talk in TRAIECT IV VIETNAM Project
           </a>{" "}
           - HGNM (Hannoversche Gesellschaft für Neue Musik e.V./Hanover Society
-          for New Music) (ENG){" "}
+          for New Music) (ENG) - 2023{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -36,7 +52,7 @@ const Interview = () => {
           >
             Cross cultural production charm audience at Goethe-Institut
           </a>{" "}
-          - Artsghana (ENG){" "}
+          - Artsghana (ENG) - 2022{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -52,7 +68,7 @@ const Interview = () => {
           >
             Composer travels the world to write music
           </a>{" "}
-          - Việt Nam News (ENG){" "}
+          - Việt Nam News (ENG) - 2022{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -68,7 +84,7 @@ const Interview = () => {
           >
             Lương Huệ Trinh: Nếu không đi, âm nhạc của tôi sẽ nhàm chán!
           </a>{" "}
-          - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
+          - Thể thao Văn hóa/Culture & Sport Newspaper (VIET) - 2021{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -85,7 +101,7 @@ const Interview = () => {
             Lương Huệ Trinh: Bất chấp khoảng cách, nữ nghệ sĩ từ 4 quốc gia cùng
             bày tiệc âm thanh
           </a>{" "}
-          - Vietnamplus Newspaper (VIET/ENG){" "}
+          - Vietnamplus Newspaper (VIET/ENG) - 2021{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -101,7 +117,7 @@ const Interview = () => {
           >
             "Tôi thích kết hợp yếu tố hiện đại với nghệ thuật truyền thống"
           </a>{" "}
-          - Lao động/Labor Newspaper (VIET){" "}
+          - Lao động/Labor Newspaper (VIET) - 2021{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -117,7 +133,7 @@ const Interview = () => {
           >
             Lương Huệ Trinh: Âm nhạc Xa Xôi - Âm nhac Gần
           </a>{" "}
-          - RFI - Radio France Internationale (VIET){" "}
+          - RFI (Radio France Internationale) (VIET) - 2021{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -133,7 +149,7 @@ const Interview = () => {
           >
             Lần đầu tiên nhạc truyền thống Việt Nam hòa quyện cùng vũ điệu Ghana
           </a>{" "}
-          - Vietnamplus (VIET/ENG){" "}
+          - Vietnamplus (VIET/ENG) - 2021{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -149,7 +165,7 @@ const Interview = () => {
           >
             Emerging musician goes her own way
           </a>{" "}
-          - Việt Nam News (ENG){" "}
+          - Việt Nam News (ENG) - 2019{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -166,7 +182,7 @@ const Interview = () => {
             Nhà soạn nhạc Lương Huệ Trinh: Nhạc Mới tiếp cận người nghe theo
             cách tự nhiên nhất
           </a>{" "}
-          - Đại Đoàn Kết Newspaper (VIET){" "}
+          - Đại Đoàn Kết Newspaper (VIET) - 2019{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -182,7 +198,7 @@ const Interview = () => {
           >
             Hòa nhạc "Lettres de Hanoï", thương nhớ một thời xa xưa
           </a>{" "}
-          - Phápfr.vn / Tạp chí Thương Gia - Luxury Inside (VIET){" "}
+          - Phápfr.vn / Tạp chí Thương Gia - Luxury Inside (VIET) - 2019{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -198,7 +214,7 @@ const Interview = () => {
           >
             Hòa nhạc "Thư Hà Nội" - Một cảm thức 'xuyên không' đầy chất thơ
           </a>
-          - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
+          - Thể thao Văn hóa/Culture & Sport Newspaper (VIET) - 2019{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -215,7 +231,7 @@ const Interview = () => {
             Hòa nhạc thể nghiệm “Biên giới mờ”: Chuyến phiêu lưu trong những
             trường-tương-tác-âm-thanh-thị-giác
           </a>
-          - Hanoi Grapevine (VIET/ENG){" "}
+          - Hanoi Grapevine (VIET/ENG) - 2019{" "}
         </li>
         <li
           className="list-disc py-4"
@@ -231,7 +247,7 @@ const Interview = () => {
           >
             Culture Mosaic
           </a>
-          - Vietnam Television 4 - from minute 13'59 (ENG/VIET){" "}
+          - Vietnam Television 4 - from minute 13'59 (ENG/VIET) - 2019{" "}
         </li>
         {!isSeeMore && (
           <a
@@ -257,7 +273,7 @@ const Interview = () => {
               >
                 Lương Huệ Trinh - Tiếng nói nữ giới của nhạc điện tử
               </a>
-              - Tuổi Trẻ/Youth Newspaper (VIET){" "}
+              - Tuổi Trẻ/Youth Newspaper (VIET) - 2019{" "}
             </li>
             <li
               className="list-disc py-4"
@@ -273,7 +289,7 @@ const Interview = () => {
               >
                 Lương Huệ Trinh - Thong dong lối hẹp
               </a>{" "}
-              - Tiền Phong Newspaper (VIET){" "}
+              - Tiền Phong Newspaper (VIET) - 2019{" "}
             </li>
             <li
               className="list-disc py-4"
@@ -290,7 +306,7 @@ const Interview = () => {
                 The musical journey of Luong Hue Trinh / Hành trình âm nhạc của
                 Lương Huệ Trinh
               </a>{" "}
-              - Hanoi Grapevine (ENG/VIET){" "}
+              - Hanoi Grapevine (ENG/VIET) - 2019{" "}
             </li>
             <li
               className="list-disc py-4"
@@ -308,7 +324,7 @@ const Interview = () => {
                 Uy
               </a>{" "}
               - Trang thông tin đối ngoại/Foreign affairs information site
-              (VIET){" "}
+              (VIET) - 2015{" "}
             </li>
             <li
               className="list-disc py-4"
@@ -324,7 +340,7 @@ const Interview = () => {
               >
                 In Conversation: Nguyễn Xuân Sơn & Lương Huệ Trinh
               </a>{" "}
-              - And of Other Things (VIET){" "}
+              - And of Other Things (VIET) - 2014{" "}
             </li>
             <li
               className="list-disc py-4"
@@ -340,7 +356,7 @@ const Interview = () => {
               >
                 Nhạc sĩ trẻ Lương Huệ Trinh: Thân gái một mình độc đạo
               </a>{" "}
-              - Thể thao Văn hóa/Culture & Sport Newspaper (VIET){" "}
+              - Thể thao Văn hóa/Culture & Sport Newspaper (VIET) - 2012{" "}
             </li>
             <li
               className="list-disc py-4"
@@ -357,7 +373,7 @@ const Interview = () => {
                 Triển lãm 'Trang sức sống' với Đinh Công Đạt, Lê Huy Hoàng &
                 Lương Huệ Trinh
               </a>{" "}
-              - SOI (VIET)
+              - SOI (VIET) - 2012{" "}
             </li>
           </>
         )}
