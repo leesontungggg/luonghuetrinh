@@ -33,7 +33,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=u-UdxSnnFjc"
           >
-            Talk in TRAIECT IV VIETNAM Project
+            Video: Talk in TRAIECT IV VIETNAM Project
           </a>{" "}
           - HGNM (Hannoversche Gesellschaft für Neue Musik e.V./Hanover Society
           for New Music) (ENG) - 2023{" "}
@@ -245,7 +245,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=O8mPvTaqnLc&list=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
           >
-            Culture Mosaic
+            Video: Culture Mosaic
           </a>
           - Vietnam Television 4 - from minute 13'59 (ENG/VIET) - 2019{" "}
         </li>
