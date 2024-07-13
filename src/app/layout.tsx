@@ -34,10 +34,13 @@ export default function RootLayout({
         />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
-        <script src={`https://www.googletagmanager.com/gtag/js?id=UA-69714233-2`} />
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
+        <link rel="canonical" href="https://www.luonghuetrinh.org/" />
+        <script
+          src={`https://www.googletagmanager.com/gtag/js?id=UA-69714233-2`}
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
                   window.dataLayer = window.dataLayer || [];
                   window.gtag = function() {dataLayer.push(arguments)}
                   
@@ -48,8 +51,8 @@ export default function RootLayout({
                     'cookie_flags': 'SameSite=None;Secure'
                   });
                 `,
-            }}
-          />
+          }}
+        />
       </head>
       <body style={{ backgroundColor: "#ffffff" }} className={lato.className}>
         {children}
