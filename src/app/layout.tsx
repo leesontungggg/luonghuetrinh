@@ -28,6 +28,8 @@ export default function RootLayout({
           content="https://www.luonghuetrinh.org/_next/image?url=%2Fimages%2F1a.jpg&w=256&q=75"
         />
         <meta property="og:title" content="Luong Hue Trinh" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.luonghuetrinh.org/" />
         <meta
           property="og:description"
           content="Vietnamese multimedia composer. Electroacoustic music improviser."
