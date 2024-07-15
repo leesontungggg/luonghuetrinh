@@ -25,7 +25,7 @@ export default function RootLayout({
       <head>
         <meta
           property="og:image"
-          content="https://luonghuetrinh.org/images/1a.jpg"
+          content="https://www.luonghuetrinh.org/_next/image?url=%2Fimages%2F1a.jpg&w=256&q=75"
         />
         <meta property="og:title" content="Luong Hue Trinh" />
         <meta
