@@ -458,6 +458,8 @@ export default function Home() {
           <br />
           http://www.dieter-mack.de
           <br />
+          http://syrphe.com/c-drik.html
+          <br />
           https://jdmozaic.com
           <br />
           http://henrikfrisk.com
@@ -468,6 +470,9 @@ export default function Home() {
           <br />
           http://www.yiikahhoe.com
           <br />
+          http://www.djsniff.com
+          <br />
+          https://www.bjorncharlesdreyer.com
           <br />
           https://www.minhtamnguyen.com
           <br />
