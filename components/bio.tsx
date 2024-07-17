@@ -36,9 +36,9 @@ const Bio = () => {
         Beginning her musical journey at the age of 5, LUONG Hue Trinh entered
         the Vietnam National Academy of Music in 1998 at the age of 13. Over the
         next 12 years of dedicated study, she earned her Bachelor’s degree in
-        Jazz Keyboard in 2010, guided by Vietnamese composer Nguyen Xuan Son
-        (SonX). Since then, her focus has shifted to electroacoustic music. From
-        2015 to 2018, LUONG was awarded a full German Academic Exchange Service
+        Jazz Keyboard in 2010. Since then, her focus has shifted to electroacoustic music, 
+        and studied with Vietnamese composer Nguyen Xuan Son (SonX). 
+        From 2015 to 2018, LUONG was awarded a full German Academic Exchange Service
         (DAAD) scholarship for the New Techniques in Composition program,
         followed by her Master's in Multimedia Composition under the tutelage of
         Prof. Dr. Georg Hajdu, Prof. Elmar Lampson, and Alexander Schubert at
