@@ -12,7 +12,7 @@ const lato = Lato({
 export const metadata: Metadata = {
   title: "Luong Hue Trinh",
   description:
-    "Vietnamese multimedia composer. Electroacoustic music improviser.",
+    "Vietnamese electroacoustic/multimedia composer & improviser",
 };
 
 export default function RootLayout({
