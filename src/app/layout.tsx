@@ -32,7 +32,7 @@ export default function RootLayout({
         <meta property="og:url" content="https://www.luonghuetrinh.org/" />
         <meta
           property="og:description"
-          content="Vietnamese multimedia composer. Electroacoustic music improviser."
+          content="Vietnamese electroacoustic/multimedia composer & improviser"
         />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
