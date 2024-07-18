@@ -209,7 +209,7 @@ export default function Home() {
               <span className="font-brassiere_solid">Luong</span> Hue Trinh
             </p>
             <p className="text-md md:text-lg italic mt-3">
-              multimedia/electroacoustic composer & improviser
+              electroacoustic/multimedia composer & improviser
             </p>
             <p className="text-md md:text-lg italic">organizer & producer</p>
           </div>
