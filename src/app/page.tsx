@@ -8,8 +8,7 @@ import Bio from "../../components/bio";
 import Interview from "../../components/interview";
 
 const images = [
-  "/images/1a.jpg",
-  "/images/1b.jpg",
+  "/images/1.jpg",
   "/images/2.jpg",
   "/images/3.jpg",
   "/images/4.jpg",
@@ -79,6 +78,7 @@ const images = [
   "/images/68.jpg",
   "/images/69.jpg",
   "/images/70.jpg",
+  "/images/71.jpg",
 ];
 
 export default function Home() {
