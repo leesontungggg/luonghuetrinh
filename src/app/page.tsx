@@ -454,13 +454,13 @@ export default function Home() {
         </div>
       </div>
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
-        {/* <p>
+
           <b>
             <u>Composers & Performers I've had an honor to work with:</u>
           </b>
           <br />
           <br />
-          http://georghajdu.de
+          <a style="text-decoration: underline" href="http://georghajdu.de">Georg Hajdu</a>
           <br />
           http://www.alexanderschubert.net
           <br />
@@ -527,7 +527,7 @@ export default function Home() {
           ...
           <br />
           <br />
-        </p> */}
+       
       </div>
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
