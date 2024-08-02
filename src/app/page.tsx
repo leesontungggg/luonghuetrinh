@@ -453,13 +453,14 @@ export default function Home() {
           <p className="text-4xl font-brassiere">Collabs</p>
         </div>
       </div>
-      <div className="w-[50%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+        {/* <p>
           <b>
             <u>Composers & Performers I've had an honor to work with:</u>
           </b>
           <br />
           <br />
-          <a style="text-decoration: underline" href="http://georghajdu.de">Georg Hajdu</a>
+          http://georghajdu.de
           <br />
           http://www.alexanderschubert.net
           <br />
@@ -526,7 +527,7 @@ export default function Home() {
           ...
           <br />
           <br />
-       
+        </p> */}
       </div>
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
