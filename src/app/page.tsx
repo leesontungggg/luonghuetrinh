@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useCallback, useState } from "react";
 import ImageViewer from "react-simple-image-viewer";
 import Event from "../../components/event";
-import Compositions from "../../components/Compositions";
+import Compositions from "../../components/compositions";
 import Bio from "../../components/bio";
 import Interview from "../../components/interview";
 
