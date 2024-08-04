@@ -500,7 +500,7 @@ export default function Home() {
           <br />
           <a href="https://www.orso.co/solisten/holger-roese"> <u>Holger Röse</u></a>
           <br />
-          <a href="https://www.facebook.com/martin.d.vera.3"> <u>Martín Donoso Vera </u></a>
+          <a href="https://www.donosovera.de/en-gb"> <u>Martín Donoso Vera </u></a>
           <br />
           <a href="https://playingforchange.org/mohammed-alidu/"> <u>Mohammed Alidu</u></a>
           <br />
