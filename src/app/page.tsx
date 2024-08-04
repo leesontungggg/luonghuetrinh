@@ -460,7 +460,7 @@ export default function Home() {
           </b>
           <br />
           <br />
-          <a style="text-decoration: underline" href="http://www.georghajdu.de">Georg Hajdu</a>
+          <a href="http://www.georghajdu.de"> <u>Georg Hajdu</u></a>
           <br />
           http://www.alexanderschubert.net
           <br />
