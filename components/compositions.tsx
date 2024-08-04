@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const works = [
+const compositions = [
   `<i style="text-decoration: underline">How can I be tender ?</i> (2023) <br /> 
           for Grain~bau solo. Duration: 9'30" <br /> Premiere at Showcase Concert at
           the Future Art Lab - Klangtheater at University of Music and
@@ -431,13 +431,13 @@ const works = [
           <br />`,
 ];
 
-const Work = () => {
+const Compositions = () => {
   const [isSeeMore, setIsSeeMore] = useState(false);
   return (
     <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
       <ul className="text-[#777777] flex flex-col gap-8">
         {!isSeeMore &&
-          works.slice(0, 5).map((event: any, id: number) => {
+          compositions.slice(0, 5).map((event: any, id: number) => {
             return (
               <li
                 key={id}
@@ -460,7 +460,7 @@ const Work = () => {
           </a>
         )}
         {isSeeMore &&
-          works.map((event: any, id: number) => {
+          compositions.map((event: any, id: number) => {
             return (
               <li
                 key={id}
@@ -490,4 +490,4 @@ const Work = () => {
   );
 };
 
-export default Work;
+export default Compositions;

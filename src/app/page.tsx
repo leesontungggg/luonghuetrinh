@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useCallback, useState } from "react";
 import ImageViewer from "react-simple-image-viewer";
 import Event from "../../components/event";
-import Work from "../../components/work";
+import Compositions from "../../components/Compositions";
 import Bio from "../../components/bio";
 import Interview from "../../components/interview";
 
@@ -248,7 +248,7 @@ export default function Home() {
           <p className="text-4xl font-brassiere">Compositions</p>
         </div>
       </div>
-      <Work />
+      <Compositions />
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/media.jpg")` }}
