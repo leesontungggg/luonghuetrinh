@@ -18,7 +18,7 @@ const Bio = () => {
         <br />
         <br />
         She has collaborated with artists from diverse fields, including contemporary dance, 
-        animation, experimental film, video art, and installation ...
+        animation, experimental film, video art, poetry, painting performance and installation ...
         <br />
         <br />
         ------------------
