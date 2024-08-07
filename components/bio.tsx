@@ -17,8 +17,8 @@ const Bio = () => {
         She has showcased her work across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
-        She has received commissions for exhibitions, contemporary dance
-        projects, animation, experimental films, video arts, installations ...
+        She has collaborated with artists from diverse fields, including contemporary dance, 
+        animation, experimental film, video art, and installation ...
         <br />
         <br />
         ------------------
