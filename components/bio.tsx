@@ -7,33 +7,25 @@ const Bio = () => {
       <p className="mt-8 text-[#777777]">
         Brief:
         <br />
-        Starting her musical journey at the age of 5, LUONG Hue Trinh embarked
-        on a path that led her to the Vietnam National Academy of Music in 1998,
-        at the age of 13. Over the next 12 years of intensive study, she earned
-        her Bachelor’s degree in Jazz Keyboard in 2010. Since then, her focus
-        has shifted towards electroacoustic music.
+        LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. 
+        She initially studied Jazz Keyboard at the Vietnam National Academy of Music, and later, has focused on electroacoustic music. 
+        LUONG received a prestigious full scholarship from the German Academic Exchange Service (DAAD) to study New Techniques in Composition, 
+        followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg.
         <br />
         <br />
-        From 2015 to 2018, LUONG was awarded a prestigious full scholarship from
-        the German Academic Exchange Service (DAAD) to pursue the program in New
-        Techniques in Composition, followed by her Master's in Multimedia
-        Composition at Hochschule für Musik & Theater Hamburg.
+        Her artistic pursuits blend traditional and experimental music, visuals, scenography, and creating site-specific performances. 
+        She has showcased her work across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
-        LUONG's artistic interests span traditional and experimental music
-        elements, alongside visual arts and scenography, often creating
-        site-specific artworks. Beyond composing, she is an adept improviser.
         She has received commissions for exhibitions, contemporary dance
-        projects, animation, experimental films, video arts, and live
-        performances across Asia, Europe, Oceania, North America, and
-        Africa.
+        projects, animation, experimental films, video arts, installations ...
         <br />
         <br />
         ------------------
         <br />
         Full:
         <br />
-        Beginning her musical journey at the age of 5, LUONG Hue Trinh entered
+        Starting her musical journey at the age of 5, LUONG Hue Trinh entered
         the Vietnam National Academy of Music in 1998 at the age of 13. Over the
         next 12 years of dedicated study, she earned her Bachelor’s degree in
         Jazz Keyboard in 2010. Since then, her focus has shifted to electroacoustic music, 
@@ -59,7 +51,7 @@ const Bio = () => {
             experimental elements in music and visuals, scenography, and
             creating site-specific artworks. She has received commissions for
             exhibitions, contemporary dance projects, animation, experimental
-            films, video art, installations, painting performance and more... 
+            films, video art, installations, painting performance ... 
             Beyond composing, she demonstrates mastery in improvisation.
             <br />
             <br />
@@ -82,7 +74,7 @@ const Bio = () => {
             Angeles - USA (2013), London sound art collective Gwaith Sŵn (UK),
             interviews and presentations by the Norwegian Broadcasting
             Corporation (NRK) in 2014 and 2015, Yfm and Mx24TV in Ghana in 2022
-            and 2023 etc... She had a performance at the Mikromusik Festival
+            and 2023 etc... She performed at the Mikromusik Festival
             (2018) broadcasted on radio Deutschlandfunk Kultur, Germany,
             organized by Berliner Künstlerprogramm des DAAD and the Humboldt
             Forum Foundation.
