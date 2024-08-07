@@ -106,7 +106,7 @@ const compositions = [
           Washington-SeattleUSA)/ California State University at Fullerton(USA)/
           La Scène Numérique-Montbéliard(France).
           <br />`,
-  `<i style="text-decoration: underline">Ether (Thinh không)</i> (2021) in album
+  `<i style="text-decoration: underline">Thinh không (Ether)</i> (2021) in album
           "Strengur"
           <br />
           for electronics. Duration: 9'39
@@ -213,7 +213,7 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline">
             How many skies and seas will have disappeared...?
-          </i>{" "}
+          </i>
           (2019)
           <br />
           for objects, bamboo flutes, electronics and video. Duration: 7'00
@@ -262,7 +262,7 @@ const compositions = [
           World premiered at Skálholt church in Iceland/ in Transistor Meetings
           Festival, Copenhagen Denmark/ in Interference #7 - A laboratory for
           Artistic Research in Music at Inter Arts Center - Lund University,
-          Sibelius Múeum - Finland; and releasing in New York City-USA in 2022
+          Sibelius Museum - Finland; and releasing in New York City-USA in 2022
           <br />`,
   `<i style="text-decoration: underline">Mater Materia</i> (2017)
           <br />
