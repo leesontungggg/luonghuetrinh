@@ -11,14 +11,10 @@ const Bio = () => {
         She initially studied Jazz Keyboard at the Vietnam National Academy of Music, and later, has focused on electroacoustic music. 
         LUONG received a prestigious full scholarship from the German Academic Exchange Service (DAAD) to study New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg.
-        <br />
-        <br />
-        Her artistic pursuits blend traditional and experimental music, visuals, scenography, and creating site-specific performances. 
+        Her artistic pursuits blend traditional and experimental music, visuals, scenography, and site-specific performances. 
         She has showcased her work across Asia, Europe, Oceania, North America, and Africa.
-        <br />
-        <br />
         She has collaborated with artists from diverse fields, including contemporary dance, 
-        animation, experimental film, video art, poetry, painting performance and installation ...
+        animation, experimental film, video art, poetry, drama, painting performance and installation ...
         <br />
         <br />
         ------------------
@@ -45,7 +41,7 @@ const Bio = () => {
             LUONG's artistic pursuits extend to exploring traditional and
             experimental elements in music and visuals, scenography, and
             creating site-specific artworks. She has collaborated with artists from diverse fields, including contemporary dance, 
-            animation, experimental film, video art, poetry, painting performance and installation ...
+            animation, experimental film, video art, poetry, drama, painting performance and installation ...
             <br />
             <br />
             Her debut album "Illusions" (2016) received acclaim, named one of Avant Music News' Best Albums of 2016. 
@@ -76,7 +72,7 @@ const Bio = () => {
             Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta
             (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok
             (Thailand); Goethe Institut Ghana, Alliance Française d'Accra
-            (Ghana); etc...
+            (Ghana); ...
             <br />
             <br />
           </>
