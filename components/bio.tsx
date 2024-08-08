@@ -11,7 +11,7 @@ const Bio = () => {
         She initially studied Jazz Keyboard at the Vietnam National Academy of Music, and later, has focused on electroacoustic music. 
         LUONG received a prestigious full scholarship from the German Academic Exchange Service (DAAD) to study New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg.
-        Her artistic pursuits blend traditional and experimental music, visuals, scenography, and site-specific performances. 
+        Her artistic profile blends traditional and experimental music, visuals, scenography, and site-specific performances. 
         She has showcased her work across Asia, Europe, Oceania, North America, and Africa.
         She has collaborated with artists from diverse fields, including contemporary dance, 
         animation, experimental film, video art, poetry, drama, painting performance and installation ...
@@ -21,9 +21,9 @@ const Bio = () => {
         <br />
         Full:
         <br />
-        Starting her musical journey at age 5, LUONG Hue Trinh joined the Vietnam National Academy of Music at 13. 
+        LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. Starting her musical journey at age 5, she joined the Vietnam National Academy of Music at 13. 
         She earned a Bachelor’s in Jazz Keyboard in 2010. She then focused on electroacoustic music, studying with Nguyen Xuan Son (SonX). 
-        From 2015 to 2018, LUONG received a DAAD scholarship for New Techniques in Composition, 
+        From 2015 to 2018, LUONG received a full DAAD scholarship for New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg 
         under Prof. Dr. Georg Hajdu, Prof. Elmar Lampson, and Alexander Schubert.
         <br />
