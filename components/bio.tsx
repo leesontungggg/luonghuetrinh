@@ -44,14 +44,14 @@ const Bio = () => {
             animation, experimental film, video art, poetry, drama, painting performance and installation ...
             <br />
             <br />
-            Her debut album "Illusions" (2016) received acclaim, named one of Avant Music News' Best Albums of 2016. 
-            In 2019, Hanoi Grapevine, the only bi-lingual site for art and cultural events in Vietnam honored her as the 'Finest Artist of the Year.' 
-            She was awarded a Réciprocité scholarship by Institut français du Vietnam for a 3-month residency at Cité Internationale des Arts Paris in 2020 
-            and was featured as one of 14 notable DAAD Vietnam alumni between 1985 - 2020 in a publication celebrating 45 years of German-Vietnamese relations.
+            Her debut album "Illusions" (USA, 2016) received acclaim, named one of Avant Music News' Best of 2016 - Albums of the Year. 
+            Hanoi Grapevine, the only bi-lingual site for art and cultural events in Vietnam honored her as the 'Finest Artist of the Year' in Hanoi Grapevine Finest 2019.  
+            In 2020, she was awarded a Réciprocité scholarship by Institut français du Vietnam for a 3-month residency at Cité Internationale des Arts Paris 
+            and was highlighted as one of 14 notable DAAD Vietnam alumni (1985 - 2020) in a publication celebrating 45 years of German-Vietnamese relations.
             <br />
             <br />
             LUONG's music has been featured internationally, including Artist of the Month on StillStream Radio (USA, 2013), London’s Gwaith Sŵn (UK), and NRK (Norway, 2014-2015), Yfm and Mx24TV (Ghana, 2022-2023). 
-            She performed at the Mikromusik Festival (2018), broadcast on Deutschlandfunk Kultur, Germany, organized by DAAD and Humboldt Forum Foundation.
+            She performed at the Mikromusik Festival (2018) organized by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, and broadcast on Deutschlandfunk Kultur, Germany.
             <br />
             <br />
             Her work has been performed across Asia, Europe, Oceania,
