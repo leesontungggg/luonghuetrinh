@@ -54,18 +54,20 @@ const Bio = () => {
             She performed at the Mikromusik Festival (2018) organized by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, and broadcast on Deutschlandfunk Kultur, Germany.
             <br />
             <br />
-            Her work has been performed across Asia, Europe, Oceania,
+            Her work has been presented across Asia, Europe, Oceania,
             North America, and Africa such as Übersee museum, Berlin Academy of
             Arts, Center for Art & Media - ZKM Karlsruhe, University of Music,
             Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum
             - Turku (Findland); Navarre museum - Pamploma (Spain); Intonal
             Festival at Inter Arts Center - Malmö (Sweden); University of
-            Washington-Seattle, California State University-Fullerton (USA);
+            Washington-Seattle, California State University-Fullerton (USA); 
+            The National Network for Equitable Library Service (NNELS) - Toronto (Canada);
             Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna
             (Italy); University of Music & Performing Arts Vienna (Austria);
             Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde University (Denmark);
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
-            the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto (Japan), 
+            the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto, 
+            OUA Electroacoustic Music Festival (2017) - Osaka University of Art (Japan); 
             Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine
             Arts museum - Hanoi (Vietnam); Shanghai Rockbund Art museum (China);
             Metropolitan museum - Manila, Taylor's University, University of
