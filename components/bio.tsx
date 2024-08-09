@@ -62,12 +62,12 @@ const Bio = () => {
             Festival at Inter Arts Center - Malmö (Sweden); University of
             Washington-Seattle, California State University-Fullerton (USA); 
             The National Network for Equitable Library Service (NNELS) - Toronto (Canada);
-            Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna
+            Murate Art District (MAD) - Florence, AngelicA festival - Bologna
             (Italy); University of Music & Performing Arts Vienna (Austria);
             Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde University (Denmark);
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
             the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto, 
-            OUA Electroacoustic Music Festival (2017) - Osaka University of Art (Japan); 
+            OUA Electroacoustic Music Festival - Osaka University of Art (Japan); 
             Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine
             Arts museum - Hanoi (Vietnam); Shanghai Rockbund Art museum (China);
             Metropolitan museum - Manila, Taylor's University, University of
