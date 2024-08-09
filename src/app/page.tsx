@@ -526,7 +526,9 @@ export default function Home() {
           <br />
           <a href="http://ensemble-handwerk.eu"> <u>Ensemble Handwerk (Germany)</u></a>
           <br />
-          <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a>
+          <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a> 
+          <br />
+          <a href="https://www.youtube.com/watch?v=Qx6GH9grw0Q"> <u>Abdoulaye Nderguet & the Bex'Tet (Chad, France)</u></a> 
           <br />
           ...
           <br />

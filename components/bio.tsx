@@ -50,7 +50,7 @@ const Bio = () => {
             and was highlighted as one of 14 notable DAAD Vietnam alumni (1985 - 2020) in a publication celebrating 45 years of German-Vietnamese relations.
             <br />
             <br />
-            LUONG's music has been featured internationally, including Artist of the Month on StillStream Radio (USA, 2013), London’s Gwaith Sŵn (UK), and NRK (Norway, 2014-2015), Yfm and Mx24TV (Ghana, 2022-2023). 
+            LUONG's music has been featured internationally, including Artist of the Month on StillStream Radio (USA, 2013), London’s Gwaith Sŵn (UK), and NRK (Norway, 2014, 2015), Yfm and Mx24TV (Ghana, 2022, 2023). 
             She performed at the Mikromusik Festival (2018) organized by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, and broadcast on Deutschlandfunk Kultur, Germany.
             <br />
             <br />
@@ -63,10 +63,10 @@ const Bio = () => {
             Washington-Seattle, California State University-Fullerton (USA);
             Murate Art District (MAD) - Florence, Theatre San Leonardo - Bologna
             (Italy); University of Music & Performing Arts Vienna (Austria);
-            Copenhagen Jazz festival, Gong festival - Copenhagen (Denmark);
+            Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde University (Denmark);
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
-            the ARTER/Space for Art - Istanbul (Turkey); Youth Theater - Hanoi,
-            Goethe Institut Vietnam, Institut français du Vietnam, National Fine
+            the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto (Japan), 
+            Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine
             Arts museum - Hanoi (Vietnam); Shanghai Rockbund Art museum (China);
             Metropolitan museum - Manila, Taylor's University, University of
             Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta
