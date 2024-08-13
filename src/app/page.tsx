@@ -464,6 +464,8 @@ export default function Home() {
           <br />
           <a href="http://www.alexanderschubert.net"> <u>Alexander Schubert</u></a>
           <br />
+          <a href="https://iwk.mdw.ac.at/hofmann/"> <u>Alex Hofmann</u></a>
+          <br />
           <a href="http://syrphe.com/c-drik.html"> <u>Cedrik Fermont</u></a>
           <br />
           <a href="https://jdmozaic.com"> <u>Jean-David Caillouët</u></a>
@@ -483,6 +485,8 @@ export default function Home() {
           <a href="https://www.minhtamnguyen.com"> <u>Minh-Tâm Nguyen</u></a>
           <br />
           <a href="http://www.nicholasisherwood.com"> <u>Nicholas Isherwood</u></a>
+          <br />
+          <a href="https://jeffvonderschmidt.com/"> <u>Jeff von der Schmidt</u></a>
           <br />
           <a href="http://www.claudiachan.ca"> <u>Claudia Chan</u></a>
           <br />
