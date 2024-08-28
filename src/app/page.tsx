@@ -502,11 +502,11 @@ export default function Home() {
           <br />
           <a href="https://www.donosovera.de/en-gb"> <u>Martín Donoso Vera </u></a>
           <br />
-          <a href="https://playingforchange.org/mohammed-alidu/"> <u>Mohammed Alidu</u></a>
-          <br />
           <a href="http://www.eva-zoellner.de"> <u>Eva Zöllner</u></a>
           <br />
           <a href="https://stefankohmann.de"> <u>Stefan Kohmann</u></a>
+          <br />
+          <a href="https://playingforchange.org/mohammed-alidu/"> <u>Mohammed Alidu</u></a>
           <br />
           <a href="https://www.ghanaweb.com/person/Botri-Dela-772"> <u>Dela Botri</u></a>
           <br />
