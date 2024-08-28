@@ -456,9 +456,11 @@ export default function Home() {
           <br />
           <a href="https://iwk.mdw.ac.at/hofmann/"> <u>Alex Hofmann</u></a>
           <br />
-          <a href="http://syrphe.com/c-drik.html"> <u>Cedrik Fermont</u></a>
+          <a href="http://www.dieter-mack.de"> <u>Dieter Mack</u></a>
           <br />
           <a href="https://jdmozaic.com"> <u>Jean-David Caillouët</u></a>
+          <br />
+          <a href="http://syrphe.com/c-drik.html"> <u>Cedrik Fermont</u></a>
           <br />
           <a href="https://otomoyoshihide.com"> <u>Otomo Yoshihide</u></a>
           <br />
@@ -467,6 +469,8 @@ export default function Home() {
           <a href="http://http://henrikfrisk.com"> <u>Henrik Frisk</u></a>
           <br />
           <a href="http://www.yiikahhoe.com"> <u>Yii Kah Hoe</u></a>
+          <br />
+          <a href="https://www.timodwyer.com/"> <u>Tim O'Dwyer</u></a>
           <br />
           <a href="https://www.severineballon.com"> <u>Séverine Ballon</u></a> 
           <br />
@@ -484,6 +488,8 @@ export default function Home() {
           <br />
           <a href="https://lin-chen-percussion.com"> <u>Lin chen</u></a>
           <br />
+          <a href="https://doubtful-sounds.bandcamp.com/album/disillusion"> <u>Yong Yansend</u></a> 
+          <br />
           <a href="https://koksiewwai.wordpress.com"> <u>Kok Siew Wai</u></a>
           <br />
           <a href="https://www.youtube.com/@tramyngo2403"> <u>Ngô Trà My</u></a>
@@ -492,7 +498,7 @@ export default function Home() {
           <br />
           <a href="https://nguyenthanhthuy.weebly.com"> <u>Nguyễn Thanhh Thủy</u></a>
           <br />
-          <a href="https://www.orso.co/solisten/holger-roese"> <u>Holger Röse</u></a>
+          <a href="https://www.lotteanker.com/"> <u>Lotte Anker</u></a>
           <br />
           <a href="https://www.donosovera.de/en-gb"> <u>Martín Donoso Vera </u></a>
           <br />
@@ -506,7 +512,11 @@ export default function Home() {
           <br />
           <a href="https://oteanankanduro.wordpress.com"> <u>Oteanankanduro</u></a>
           <br />
-          <a href="https://www.sathecollective.org/about/andy-chia-2"> <u>Andy Chia</u></a>
+          <a href="https://www.instagram.com/steloolive/"> <u>Steloolive</u></a>
+          <br />
+          <a href="https://www.sathecollective.org/about/andy-chia-2"> <u>Andy Chia</u></a> 
+          <br />
+          <a href="https://www.sathecollective.org/about/natalie-alexandra-2/"> <u>Natalie Alexandra Tse</u></a>
           <br />
           <a href="https://www.audreychen.com"> <u>Audrey Chen</u></a>
           <br />
