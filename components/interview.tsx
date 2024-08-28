@@ -50,7 +50,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/embed/9YcZX-LJrPI"
           >
-            Video: Slanted Silhouettes - a site-specific multimedia project - Interview
+            Video: Slanted Silhouettes - a site-specific multimedia project 
           </a>{" "}
           - Alliance Française d'Accra, Ghana (ENG) - 2023{" "}
         </li>
@@ -82,7 +82,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/embed/uBvfoYRm8Eg"
           >
-            Video: The vivid Silences - a site-specific multimedia project - Interview
+            Video: The Vivid Silences -a site-specific multimedia project 
           </a>{" "}
           - Goethe Institut Ghana (ENG) - 2022{" "}
         </li>
