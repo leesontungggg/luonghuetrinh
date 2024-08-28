@@ -36,7 +36,7 @@ const Interview = () => {
             Video: Talk in TRAIECT IV VIETNAM Project
           </a>{" "}
           - HGNM (Hannoversche Gesellschaft für Neue Musik e.V./Hanover Society
-          for New Music) (ENG) - 2023{" "}
+          for New Music, Germany) (ENG) - 2023{" "}
         </li>
         <li
           className="list-disc py-4"
