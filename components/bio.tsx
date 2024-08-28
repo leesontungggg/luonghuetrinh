@@ -9,12 +9,12 @@ const Bio = () => {
         <br />
         LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. 
         She initially studied Jazz Keyboard at the Vietnam National Academy of Music, and later, has focused on electroacoustic music. 
-        LUONG received a prestigious full scholarship from the German Academic Exchange Service (DAAD) to study New Techniques in Composition, 
+        She received a prestigious full scholarship from the German Academic Exchange Service (DAAD) to study New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg.
         Her artistic profile blends traditional and experimental music, visuals, scenography, and site-specific performances. 
+        LUONG has collaborated with artists from diverse fields, including contemporary dance, 
+        animation, experimental film, video art, poetry, drama, painting performance and installation etc. 
         She has showcased her work across Asia, Europe, Oceania, North America, and Africa.
-        She has collaborated with artists from diverse fields, including contemporary dance, 
-        animation, experimental film, video art, poetry, drama, painting performance and installation ...
         <br />
         <br />
         ------------------
@@ -25,7 +25,8 @@ const Bio = () => {
         She earned a Bachelor’s in Jazz Keyboard in 2010. She then focused on electroacoustic music, studying with Nguyen Xuan Son (SonX). 
         From 2015 to 2018, LUONG received a full DAAD scholarship for New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg 
-        under Prof. Dr. Georg Hajdu, Prof. Elmar Lampson, and Alexander Schubert.
+        under <a href="http://www.georghajdu.de"> <u>Prof. Dr. Georg Hajdu</u></a>, <a href="http://www.elmar-lampson.de/"> <u>Prof. Elmar Lampson</u></a>, 
+        and <a href="http://www.alexanderschubert.net"> <u>Alexander Schubert</u></a>.
         <br />
         {!isSeeMore && (
           <a
