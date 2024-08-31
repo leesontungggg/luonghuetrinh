@@ -464,8 +464,6 @@ export default function Home() {
           <br />
           <a href="https://www.bjorncharlesdreyer.com"> <u>Bjorn Charles Dreyer</u></a>
           <br />
-          <a href="http://http://henrikfrisk.com"> <u>Henrik Frisk</u></a>
-          <br />
           <a href="http://www.yiikahhoe.com"> <u>Yii Kah Hoe</u></a>
           <br />
           <a href="https://www.timodwyer.com/"> <u>Tim O'Dwyer</u></a>
