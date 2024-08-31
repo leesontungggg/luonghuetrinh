@@ -458,14 +458,13 @@ export default function Home() {
           <a href="https://jdmozaic.com"> <u>Jean-David Caillouët</u></a>  /  
           <a href="http://syrphe.com/c-drik.html"> <u>Cedrik Fermont</u></a>  /  
           <a href="https://otomoyoshihide.com"> <u>Otomo Yoshihide</u></a>  /  
-          <a href="https://www.bjorncharlesdreyer.com"> <u>Bjørn Charles Dreyer</u></a>  /  
+          <a href="https://www.minhtamnguyen.com"> <u>Minh-Tâm Nguyen</u></a>  /  
+          <a href="http://www.nicholasisherwood.com"> <u>Nicholas Isherwood</u></a>  /  
+          <a href="https://jeffvonderschmidt.com/"> <u>Jeff von der Schmidt</u></a>  /  
           <a href="http://www.yiikahhoe.com"> <u>Yii Kah Hoe</u></a>  /  
           <a href="https://www.timodwyer.com/"> <u>Tim O'Dwyer</u></a>  /  
           <a href="https://www.severineballon.com"> <u>Séverine Ballon</u></a>  /  
           <a href="http://www.djsniff.com"> <u>Dj Sniff</u></a>  /  
-          <a href="https://www.minhtamnguyen.com"> <u>Minh-Tâm Nguyen</u></a>  /  
-          <a href="http://www.nicholasisherwood.com"> <u>Nicholas Isherwood</u></a>  /  
-          <a href="https://jeffvonderschmidt.com/"> <u>Jeff von der Schmidt</u></a>  /  
           <a href="http://www.claudiachan.ca"> <u>Claudia Chan</u></a>  /  
           <a href="https://www.ina-ich.net"> <u>INA-ICH</u></a>  /  
           <a href="https://lin-chen-percussion.com"> <u>Lin chen</u></a>  /  
@@ -488,6 +487,7 @@ export default function Home() {
           <a href="https://music.youtube.com/channel/UCC1t8mZhR0mA_PjPYtOAvnQ"> <u>Andrea Neumann</u></a>  /  
           <a href="https://www.hallasteinunn.com"> <u>Halla Steinunn Stefánsdóttir </u></a>  /  
           <a href="https://www.burkhardbeins.de"> <u>Burkhard Beins</u></a>  /  
+          <a href="https://www.bjorncharlesdreyer.com"> <u>Bjørn Charles Dreyer</u></a>  /  
           <a href="https://nedlandkultur.com"> <u>Sigbjorn Nedland</u></a>  /  
           <a href="http://ensemble-handwerk.eu"> <u>Ensemble Handwerk (Germany)</u></a>  /  
           <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a>  /  
