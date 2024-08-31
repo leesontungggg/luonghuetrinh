@@ -446,7 +446,7 @@ export default function Home() {
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
-          Composers & Performers I've had a pleasure to work with:
+          <i>Composers & Performers I've had a pleasure to work with:</i>
           </b>
           <br />
           <br />
@@ -477,10 +477,6 @@ export default function Home() {
           <a href="https://www.donosovera.de/en-gb"> <u>Martín Donoso Vera </u></a>  /  
           <a href="http://www.eva-zoellner.de"> <u>Eva Zöllner</u></a>  /  
           <a href="https://stefankohmann.de"> <u>Stefan Kohmann</u></a>  /  
-          <a href="https://playingforchange.org/mohammed-alidu/"> <u>Mohammed Alidu</u></a>  /  
-          <a href="https://www.ghanaweb.com/person/Botri-Dela-772"> <u>Dela Botri</u></a>  /  
-          <a href="https://oteanankanduro.wordpress.com"> <u>Oteanankanduro</u></a>  /  
-          <a href="https://www.instagram.com/steloolive/"> <u>Steloolive</u></a>  /  
           <a href="https://www.sathecollective.org/about/andy-chia-2"> <u>Andy Chia</u></a>  /  
           <a href="https://www.sathecollective.org/about/natalie-alexandra-2/"> <u>Natalie Alexandra Tse</u></a>  /  
           <a href="https://www.audreychen.com"> <u>Audrey Chen</u></a>  /  
@@ -488,6 +484,11 @@ export default function Home() {
           <a href="https://www.hallasteinunn.com"> <u>Halla Steinunn Stefánsdóttir </u></a>  /  
           <a href="https://www.burkhardbeins.de"> <u>Burkhard Beins</u></a>  /  
           <a href="https://www.bjorncharlesdreyer.com"> <u>Bjørn Charles Dreyer</u></a>  /  
+          <a href="https://playingforchange.org/mohammed-alidu/"> <u>Mohammed Alidu</u></a>  /  
+          <a href="https://www.ghanaweb.com/person/Botri-Dela-772"> <u>Dela Botri</u></a>  /  
+          <a href="https://oteanankanduro.wordpress.com"> <u>Oteanankanduro</u></a>  /  
+          <a href="https://www.instagram.com/steloolive/"> <u>Steloolive</u></a>  /  
+          <a href="https://www.instagram.com/griot_barasuno/"> <u>Seidou Barassounon</u></a>  /  
           <a href="https://nedlandkultur.com"> <u>Sigbjorn Nedland</u></a>  /  
           <a href="http://ensemble-handwerk.eu"> <u>Ensemble Handwerk (Germany)</u></a>  /  
           <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a>  /  
