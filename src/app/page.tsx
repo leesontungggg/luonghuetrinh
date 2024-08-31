@@ -446,14 +446,12 @@ export default function Home() {
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
-            <u>Composers & Performers I've had a pleasure to work with:</u>
+            <italic>Composers & Performers I've had a pleasure to work with:</italic>
           </b>
           <br />
           <br />
-          <a href="http://www.georghajdu.de"> <u>Georg Hajdu</u></a>
-          <br />
-          <a href="http://www.alexanderschubert.net"> <u>Alexander Schubert</u></a>
-          <br />
+          <a href="http://www.georghajdu.de"> <u>Georg Hajdu</u></a>  /  
+          <a href="http://www.alexanderschubert.net"> <u>Alexander Schubert</u></a>  /  
           <a href="https://iwk.mdw.ac.at/hofmann/"> <u>Alex Hofmann</u></a>
           <br />
           <a href="http://www.dieter-mack.de"> <u>Dieter Mack</u></a>
