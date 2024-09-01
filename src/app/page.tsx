@@ -446,7 +446,7 @@ export default function Home() {
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
-          <i>Composers & Performers I've had a pleasure to work with:</i>
+          <i>Composers & Performers I've had pleasure to work with:</i>
           </b>
           <br />
           <br />
