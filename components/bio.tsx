@@ -71,8 +71,9 @@ const Bio = () => {
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
             the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto, 
             OUA Electroacoustic Music festival - Osaka University of Art (Japan); 
-            Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine
-            Arts museum - Hanoi, Hanoi New Music festival (Vietnam); Shanghai Rockbund Art museum (China);
+            Youth Theater - Hanoi, National Academy of Music - Hanoi, Ho Chi Minh Conservatory of Music - HCM city, 
+            Goethe Institut Vietnam, Institut français du Vietnam, National Fine
+            Arts museum - Hanoi, Hanoi New Music festival (Vietnam); Shanghai Rockbund Art museum, Hangzhou Art Hotel (China);
             Metropolitan museum - Manila, Taylor's University, University of
             Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta
             (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok
