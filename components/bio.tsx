@@ -61,13 +61,13 @@ const Bio = () => {
             North America, and Africa such as Übersee museum - Bremen, Sprengel museum - Hannover, Berlin Academy of
             Arts, Center for Art & Media - ZKM Karlsruhe, University of Music,
             Theater & Media Hanover (Germany); Sibelius museum
-            - Turku (Findland); Navarre museum - Pamploma (Spain); Intonal
-            Festival, Inter Arts Center - Malmö (Sweden); University of
-            Washington - Seattle, California State University - Fullerton (USA); 
+            - Turku (Findland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique - Montbéliard (France);
+            Intonal festival, Inter Arts Center - Malmö (Sweden); university of
+            Washington - Seattle, California State university - Fullerton (USA); 
             The National Network for Equitable Library Service (NNELS) - Toronto (Canada);
             Murate Art District (MAD) - Florence, 33th AngelicA festival - Bologna
-            (Italy); University of Music & Performing Arts Vienna (Austria);
-            Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde University (Denmark);
+            (Italy); university of Music & Performing Arts Vienna (Austria);
+            Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde university (Denmark);
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
             the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto, 
             OUA Electroacoustic Music festival - Osaka University of Art (Japan); 
