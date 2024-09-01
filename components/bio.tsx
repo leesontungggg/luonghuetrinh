@@ -21,7 +21,7 @@ const Bio = () => {
         <br />
         Full:
         <br />
-        LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. Starting her musical journey at age 5, she joined the Vietnam National Academy of Music at 13. 
+        LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. Starting her musical journey at age 5, she entered the Vietnam National Academy of Music at 13. 
         She earned a Bachelor’s in Jazz Keyboard in 2010. She then focused on electroacoustic music, studying with Nguyen Xuan Son (SonX). 
         From 2015 to 2018, LUONG received a full DAAD scholarship for New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg 
@@ -51,17 +51,19 @@ const Bio = () => {
             and was highlighted as one of 14 notable DAAD Vietnam alumni (1985 - 2020) in a publication celebrating 45 years of German-Vietnamese relations.
             <br />
             <br />
-            LUONG's music has been featured internationally, including Artist of the Month on StillStream Radio (USA, 2013), London’s Gwaith Sŵn (UK), and NRK (Norway, 2014, 2015), Yfm and Mx24TV (Ghana, 2022, 2023). 
-            She performed at the Mikromusik Festival (2018) organized by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, and broadcast on Deutschlandfunk Kultur, Germany.
+            LUONG's music has been featured internationally, including Artist of the Month on StillStream Radio (USA, 2013), 
+            London’s Gwaith Sŵn (UK), and NRK (Norway, 2014, 2015), Yfm and Mx24TV (Ghana, 2022, 2023). 
+            She performed at the Mikromusik Festival (2018) organized by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
+            and broadcast on Deutschlandfunk Kultur, Germany.
             <br />
             <br />
             Her work has been presented across Asia, Europe, Oceania,
-            North America, and Africa such as Übersee museum, Berlin Academy of
+            North America, and Africa such as Übersee museum - Bremen, Sprengel museum - Hannover, Berlin Academy of
             Arts, Center for Art & Media - ZKM Karlsruhe, University of Music,
-            Theater & Media Hanover, Sprengel museum (Germany); Sibelius museum
+            Theater & Media Hanover (Germany); Sibelius museum
             - Turku (Findland); Navarre museum - Pamploma (Spain); Intonal
-            Festival at Inter Arts Center - Malmö (Sweden); University of
-            Washington-Seattle, California State University-Fullerton (USA); 
+            Festival, Inter Arts Center - Malmö (Sweden); University of
+            Washington - Seattle, California State University - Fullerton (USA); 
             The National Network for Equitable Library Service (NNELS) - Toronto (Canada);
             Murate Art District (MAD) - Florence, AngelicA festival - Bologna
             (Italy); University of Music & Performing Arts Vienna (Austria);
