@@ -65,7 +65,7 @@ const Bio = () => {
             Festival, Inter Arts Center - Malmö (Sweden); University of
             Washington - Seattle, California State University - Fullerton (USA); 
             The National Network for Equitable Library Service (NNELS) - Toronto (Canada);
-            Murate Art District (MAD) - Florence, AngelicA festival - Bologna
+            Murate Art District (MAD) - Florence, 33th AngelicA festival - Bologna
             (Italy); University of Music & Performing Arts Vienna (Austria);
             Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde University (Denmark);
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
