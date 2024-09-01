@@ -70,9 +70,9 @@ const Bio = () => {
             Copenhagen Jazz festival, Gong festival - Copenhagen, Roskilde University (Denmark);
             Punkt festival - Kristiansand (Norway); Skálholt church (Iceland);
             the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto, 
-            OUA Electroacoustic Music Festival - Osaka University of Art (Japan); 
+            OUA Electroacoustic Music festival - Osaka University of Art (Japan); 
             Youth Theater - Hanoi, Goethe Institut Vietnam, Institut français du Vietnam, National Fine
-            Arts museum - Hanoi (Vietnam); Shanghai Rockbund Art museum (China);
+            Arts museum - Hanoi, Hanoi New Music festival (Vietnam); Shanghai Rockbund Art museum (China);
             Metropolitan museum - Manila, Taylor's University, University of
             Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta
             (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok
