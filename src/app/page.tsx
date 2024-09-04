@@ -446,7 +446,7 @@ export default function Home() {
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
-          <i>Composers & Performers I've had pleasure to work with:</i>
+          <i>Composers, Performers & Conductors I've had pleasure to work with:</i>
           </b>
           <br />
           <br />
@@ -459,11 +459,12 @@ export default function Home() {
           <a href="http://syrphe.com/c-drik.html"> <u>Cedrik Fermont</u></a>  /  
           <a href="https://otomoyoshihide.com"> <u>Otomo Yoshihide</u></a>  /   
           <a href="https://www.minhtamnguyen.com"> <u>Minh-Tâm Nguyen</u></a>  /  
+          <a href="https://www.musikfabrik.eu/en/ensemble/members/peter-veale/"> <u>Peter Veale</u></a>  /
           <a href="hhttps://www.youtube.com/watch?v=thaADIlL3zg"> <u>Doan Thanh Binh</u></a>  /
           <a href="http://www.nicholasisherwood.com"> <u>Nicholas Isherwood</u></a>  /  
-          <a href="https://jeffvonderschmidt.com/"> <u>Jeff von der Schmidt</u></a>  /  
+          <a href="https://jeffvonderschmidt.com"> <u>Jeff von der Schmidt</u></a>  /  
           <a href="http://www.yiikahhoe.com"> <u>Yii Kah Hoe</u></a>  /  
-          <a href="https://www.timodwyer.com/"> <u>Tim O'Dwyer</u></a>  /  
+          <a href="https://www.timodwyer.com"> <u>Tim O'Dwyer</u></a>  /  
           <a href="https://www.severineballon.com"> <u>Séverine Ballon</u></a>  /  
           <a href="http://www.djsniff.com"> <u>Dj Sniff</u></a>  /  
           <a href="http://www.claudiachan.ca"> <u>Claudia Chan</u></a>  /  
@@ -472,11 +473,13 @@ export default function Home() {
           <a href="https://doubtful-sounds.bandcamp.com/album/disillusion"> <u>Yong Yansend</u></a>  /  
           <a href="https://koksiewwai.wordpress.com"> <u>Kok Siew Wai</u></a>  /   
           <a href="https://www.youtube.com/@ostersjo"> <u>Stefan Östersjö</u></a>  /  
+          <a href="https://henrikfrisk.com"> <u>Henrik Frisk</u></a>  / 
           <a href="https://www.youtube.com/@tramyngo2403"> <u>Ngô Trà My</u></a>  / 
           <a href="https://nguyenthanhthuy.weebly.com"> <u>Nguyễn Thanhh Thủy</u></a>  /  
           <a href="https://www.lotteanker.com/"> <u>Lotte Anker</u></a>  /  
           <a href="https://www.donosovera.de/en-gb"> <u>Martín Donoso Vera </u></a>  /  
           <a href="http://www.eva-zoellner.de"> <u>Eva Zöllner</u></a>  /  
+          <a href="https://stefankohmann.de"> <u>Stefan Kohmann</u></a>  /  
           <a href="https://www.sathecollective.org/about/andy-chia-2"> <u>Andy Chia</u></a>  /  
           <a href="https://www.sathecollective.org/about/natalie-alexandra-2/"> <u>Natalie Alexandra Tse</u></a>  /  
           <a href="https://www.audreychen.com"> <u>Audrey Chen</u></a>  /  
