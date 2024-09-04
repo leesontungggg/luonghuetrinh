@@ -493,8 +493,11 @@ export default function Home() {
           <a href="https://www.instagram.com/griot_barasuno/"> <u>Seidou Barassounon</u></a>  / 
           <a href="https://nedlandkultur.com"> <u>Sigbjørn Nedland</u></a>  / 
           <a href="https://www.timodwyer.com"> <u>Tim O'Dwyer</u></a>  / 
+          <a href="https://www.youtube.com/@grundtongrundton"> <u>Tim Tarek-Grund</u></a>  / 
+          <a href="https://ntu.ccasingapore.org/residency/yuen-chee-wai/"> <u>Yuen Chee Wai</u></a>  /  
           <a href="http://www.yiikahhoe.com"> <u>Yii Kah Hoe</u></a>  /  
           <a href="https://doubtful-sounds.bandcamp.com/album/disillusion"> <u>Yong Yansend</u></a>  /  
+          
           ...
           <br />
           <br />
