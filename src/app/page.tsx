@@ -491,6 +491,7 @@ export default function Home() {
           <a href="https://www.instagram.com/griot_barasuno/"> <u>Seidou Barassounon</u></a>  / 
           <a href="https://en.wikipedia.org/wiki/Mohamed_Issa_Haji_%27Matona%27"> <u>Mohamed Issa Haji 'Matona</u></a>  / 
           <a href="https://nedlandkultur.com"> <u>Sigbjørn Nedland</u></a>  /  
+          <br />
           <a href="http://ensemble-handwerk.eu"> <u>Ensemble Hand werk (Germany)</u></a>  /  
           <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a>  /  
           <a href="https://hanoinewmusicensemble.org"> <u>Hanoi New Music Ensemble (Vietnam)</u></a>  /  
