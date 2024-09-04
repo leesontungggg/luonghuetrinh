@@ -493,8 +493,9 @@ export default function Home() {
           <a href="https://nedlandkultur.com"> <u>Sigbjørn Nedland</u></a>  /  
           <a href="http://ensemble-handwerk.eu"> <u>Ensemble Hand werk (Germany)</u></a>  /  
           <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a>  /  
-          <a href="https://hanoinewmusicensemble.org"> <u>Hanoi New Music Ensemble (Korea)</u></a>  /  
-          <a href="https://www.youtube.com/watch?v=Qx6GH9grw0Q"> <u>Abdoulaye Nderguet & the Bex'Tet (Chad, France)</u></a> 
+          <a href="https://hanoinewmusicensemble.org"> <u>Hanoi New Music Ensemble (Vietnam)</u></a>  /  
+          <a href="https://www.youtube.com/watch?v=Qx6GH9grw0Q"> <u>Abdoulaye Nderguet & the Bex'Tet (Chad, France)</u></a>  /  
+          <a href="https://www.percussionsdestrasbourg.com/en/"> <u>Les Percussions de Strasbourg (France)</u></a>  
           <br />
           ...
           <br />

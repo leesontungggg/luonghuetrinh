@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 const events = [
+  `06.03.2025 at 20:00: <a style="text-decoration: underline" href="https://www.facebook.com/events/500249499630392?ref=newsfeed">#Camatithu - Nguyễn Thiện Đạo, Tôn Thất Tiết, Lương Huệ Trinh</a> at Theatre de Hautepierre, 13 place André Maurois, 67200 Strasbourg, France.`,
   `09.06.2024 at 21:00: <a style="text-decoration: underline" href="https://www.facebook.com/photo/?fbid=464322732923807&set=a.325553506800731">#Gió chướng/Headwind</a> - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon, Vietnam.`,
   `04.06.2024 at 19:30: <a style="text-decoration: underline" href="https://www.facebook.com/photo/?fbid=464316002924480&set=a.325553506800731">#Ớiii À! - a night of music & dance</a> - Ồ Ạt Oh Art Festival 2024 at Amanaki Thảo Điền, fl. 2, 10 Nguyễn Đăng Giai, district 2, Saigon, Vietnam.`,
   `01.06.2024 at 19:30: <a style="text-decoration: underline" href="https://www.facebook.com/photo/?fbid=464316919591055&set=a.325553506800731">#Những thanh âm chưng cất/Distilled Sounds - a night of multimedia compositions</a> - Ồ Ạt Oh Art Festival 2024 at S.Pace - Sun Life, 102c Nguyễn Văn Cừ, district 1, Saigon, Vietnam.`,
