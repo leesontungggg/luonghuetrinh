@@ -69,7 +69,7 @@ const Event = () => {
     <div className="w-full h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-center text-[#777777]">
       <ul className="flex flex-col gap-8">
         {!isSeeMore &&
-          events.slice(0, 5).map((event: any, id: number) => {
+          events.slice(0, 6).map((event: any, id: number) => {
             return (
               <li
                 key={id}
