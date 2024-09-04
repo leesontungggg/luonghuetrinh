@@ -493,6 +493,8 @@ export default function Home() {
           <a href="https://nedlandkultur.com"> <u>Sigbjørn Nedland</u></a>  / 
           ...
           <br />
+          <br />
+          <br />
           <a href="http://ensemble-handwerk.eu"> <u>Ensemble Hand werk (Germany)</u></a>  /  
           <a href="http://www.ensembletimf.org"> <u>Ensemble TIMF (Korea)</u></a>  /  
           <a href="https://hanoinewmusicensemble.org"> <u>Hanoi New Music Ensemble (Vietnam)</u></a>  /  
