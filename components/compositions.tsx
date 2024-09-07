@@ -255,9 +255,10 @@ const compositions = [
           <br />
           Commissioned by Icelandic violinist Halla Steinunn Stefánsdóttir.
           <br />
-          World premiered at Skálholt church - Iceland, Transistor Meetings
-          Festival - Copenhagen Denmark; Newcastle Summer Festival - the UK, Interference #7 - A laboratory for
-          Artistic Research in Music at Inter Arts Center - Lund University,
+          World premiered at Skálholt church - Iceland; Transistor Meetings
+          Festival - Copenhagen, SONIC Festival Copenhagen - Denmark; Newcastle Summer Festival - the UK; 
+          Interference #7 - A laboratory for
+          Artistic Research in Music at Inter Arts Center - Lund University - Malmö Sweden;
           Sibelius Museum - Finland; and releasing in New York City-USA in 2022
           <br />`,
   `<i style="text-decoration: underline">Mater Materia</i> (2017)
