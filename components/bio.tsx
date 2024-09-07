@@ -73,7 +73,7 @@ const Bio = () => {
             OUA Electroacoustic Music festival - Osaka University of Art (Japan); 
             Youth Theater - Hanoi, National Academy of Music - Hanoi, Ho Chi Minh Conservatory of Music - HCM city, 
             Goethe Institut Vietnam, Institut français du Vietnam, National Fine
-            Arts museum - Hanoi, Hanoi New Music festival (Vietnam); Shanghai Rockbund Art museum, Hangzhou Art Hotel (China);
+            Arts museum - Hanoi, Hanoi New Music festival (Vietnam); Shanghai Rockbund Art museum, Banye Art Hotel Hangzhou (China);
             Metropolitan museum - Manila, Taylor's University, University of
             Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta
             (Indonesia); Princess Galyani Vadhana Institute of Music - Bangkok

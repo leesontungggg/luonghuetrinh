@@ -15,7 +15,7 @@ const compositions = [
           <br />
           Premiere at Sprengel Museum - Hanover, Overseas Museum - Bremen,
           Academy of Arts - Berlin, Germany; 
-          MotPlus - Saigon, 22 Hàng Buồm Cuture and Arts Center - Hanoi, Ồ Ạt Oh Art Festival 2024 - Saigon, Vietnam. 
+          MotPlus - Saigon, 22 Hàng Buồm Cuture and Arts Center - Hanoi, Ồ Ạt Oh Art festival 2024 - Saigon, Vietnam. 
           <br />
           Commissioned for project TRAIECT IV Vietnam by Hannoversche
           Gesellschaft für Neue Musik (Hanover Society for New Music) - Germany.
@@ -38,7 +38,7 @@ const compositions = [
           a site-specific and
           music performance by Luong Hue Trinh and Ngo Tra My.
           <br />
-          Commissioned by the 33rd AngelicA International Music Festival, 
+          Commissioned by the 33rd AngelicA International Music festival, 
           Bologna - Italy.
           <br />`,
   `<i style="text-decoration: underline">The Vivid Silences</i> (2022)
@@ -84,7 +84,7 @@ const compositions = [
           concert TÍCH TỊCH TÌNH TANG...
           <br />
           for traditional Vietnamese singing & wooden block, experimental
-          singing, đàn bầu, đàn tranh, objects and electronics.
+          voice, đàn bầu, đàn tranh, objects and electronics.
           <br />
           Poem "The Tales of Kiều" by Nguyễn Du. Duration: 15'
           <br />
@@ -101,9 +101,9 @@ const compositions = [
           Commissioned by the Franco-American bass-baritone singer Nicholas
           Isherwood
           <br />
-          World premieres at Conservatorio Luigi Cherubini, Florence - Italy),
-          Theatre of University of Navarre Museum, Pamploma - Spain, University of
-          Washington, Seattle - USA, California State University, Fullerton - USA,
+          World premieres at Theatre of University of Navarre Museum, Pamploma - Spain; 
+          Conservatorio Luigi Cherubini, Florence - Italy; University of
+          Washington - Seattle, California State University, Fullerton - USA;
           La Scène Numérique, Montbéliard - France.
           <br />`,
   `<i style="text-decoration: underline">Thinh không (Ether)</i> (2021) in album
@@ -144,7 +144,7 @@ const compositions = [
           <br />
           a multimedia performance designed for the space of Alliance Française Accra.
           <br />
-          Commissioned by Alliance française d'Accra with support from Institut
+          Commissioned by Alliance française Accra with support from Institut
           français du Ghana, the French Embassy to Ghana. 
           <br />
           World premiered at the outdoor Amphitheater - Alliance Française
@@ -179,11 +179,11 @@ const compositions = [
           Duration: 7'00
           <br />
           Commissioned by Institut français du Vietnam - L'Espace for
-          Franco-Vietnamese concert "Lettres de Hanoï" in European Music
-          Festival in Vietnam.
+          Franco-Vietnamese concert "Lettres de Hanoï" in the European Music
+          festival in Vietnam.
           <br />
           Premiered at Ho Chi Minh Conservatory of Music, Youth Theater of
-          Vietnam in Hanoi.
+          Vietnam - Hanoi.
           <br />`,
   `<i style="text-decoration: underline">Oblique Light</i> (2019)
           <br />
@@ -191,20 +191,20 @@ const compositions = [
           and video. Duration: 9'00
           <br />
           Commissioned by Institut français du Vietnam - L'Espace for
-          Franco-Vietnamese concert "Lettres de Hanoï" in European Music
-          Festival in Vietnam.
+          Franco-Vietnamese concert "Lettres de Hanoï" in the European Music
+          festival in Vietnam.
           <br />
           Premiered at Ho Chi Minh Conservatory of Music, Youth Theater of
-          Vietnam in Hanoi.
+          Vietnam - Hanoi.
           <br />`,
   `<i style="text-decoration: underline">iel</i> (2019)
           <br />
           for pipa, sheng, zhong ruan, guzheng, clarinet, drumset and
           electronics. Duration: 7'00
           <br />
-          Commissioned by SoundBridge IV Contemporary Music Festival Malaysia.
+          Commissioned by the SoundBridge IV Contemporary Music festival Malaysia.
           <br />
-          World premiered in SoundBridge IV Contemporary Music Festival at
+          World premiered in the SoundBridge IV Contemporary Music festival at
           Taylor University - Malaysia.
           <br />`,
   `<i style="text-decoration: underline">
@@ -218,18 +218,18 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline">Scarlet Nails</i> (2019)
           <br />
-          for dan Tranh, rice and electronics. Duration: 11'00
+          for dan Tranh, rice and fixed media. Duration: 11'00
           <br />
           Commissioned by dan Tranh player Nguyen Thanh Thuy.
           <br />
-          Premiered in Intonal Festival Malmö - Sweden,  Manzi Art Space Hanoi -
+          Premiered in Intonal festival Malmö - Sweden,  Manzi Art Space Hanoi -
           Vietnam.
           <br />`,
   `<i style="text-decoration: underline">Traces</i> (2018)
           <br />
           for two percussionists, vocal, electronics and video. Duration: 12’00
           <br />
-          World premiered at Hamburg University of Music & Theatre/Institut
+          World premiered at Hamburg University of Music & Drama/Institut
           français du Vietnam - L'Espace.
           <br />`,
   `<i style="text-decoration: underline">JiJi</i> (2018)
@@ -237,8 +237,8 @@ const compositions = [
           for dan Tranh, violin, cello, flute, bass clarinet, electronics and
           video. Duration: 7'00
           <br />
-          World premiered at Hamburg University of Music & Theatre, Institut
-          français du Vietnam - L'Espace, Vietnam National Academy of Music - Hanoi,
+          World premiered at Hamburg University of Music & Drama - Germany; Institut
+          français du Vietnam - L'Espace, Vietnam National Academy of Music,
           Goethe Institut Hanoi.
           <br />`,
   `<i style="text-decoration: underline">Red Moon</i> (2018)
@@ -246,8 +246,8 @@ const compositions = [
           for a solo performer on Tam-Tam with various tools & live electronics.
           Duration: 12’00
           <br />
-          World premiered at Hamburg University of Music & Theatre, Institut
-          français du Vietnam - L'Espace.
+          World premiered at Hamburg University of Music & Drama - Germany, Institut
+          français du Vietnam - L'Espace, Hanoi - Vietnam.
           <br />`,
   `<i style="text-decoration: underline">Departure of a Leaf</i> (2018)
           <br />
@@ -256,7 +256,7 @@ const compositions = [
           Commissioned by Icelandic violinist Halla Steinunn Stefánsdóttir.
           <br />
           World premiered at Skálholt church - Iceland; Transistor Meetings
-          Festival - Copenhagen, SONIC Festival Copenhagen - Denmark; Newcastle Summer Festival - the UK; 
+          festival - Copenhagen, SONIC festival Copenhagen - Denmark; Newcastle Summer festival - the UK; 
           Interference #7 - A laboratory for
           Artistic Research in Music at Inter Arts Center - Lund University - Malmö Sweden;
           Sibelius Museum - Finland; and releasing in New York City-USA in 2022
@@ -292,34 +292,34 @@ const compositions = [
           Commissioned by theatre director Martin Mutschler.
           <br />
           World premiere at the Opera Stabile-Staatsoper Hamburg and Theater im
-          Bauturm, Cologne-Germany.
+          Bauturm, Cologne - Germany.
           <br />`,
   `<i style="text-decoration: underline">Behind The Mirror</i> (2016)
           <br />
           for fretless e-guitar, fixed media and video. Duration: 9’00
           <br />
-          World premiered at Hamburg University of Music & Theatre, Portrait
-          Concert: Luong Hue Trinh in the 43th Neue Musik Festival Lüneburg,
-          Festival Next Generation 7.0:SENSORIK - Internationales Treffen
+          World premiered at Hamburg University of Music & Drama, the 42th Neue Musik festival Lüneburg, Portrait
+          Concert: Luong Hue Trinh in the 43th Neue Musik festival Lüneburg,
+          festival Next Generation 7.0:SENSORIK - Internationales Treffen
           Elektronischer Hochschulstudios 2017 at ZKM - Center for New Art &
           Media - Karlsruhe, Connecting Northen Dots Concert at Musikhochschule
-          Bremen - Germany, Vietnamese Words and Music Concert at Inter Arts
-          Center, Malmö - Sweden, the 42th Neue Musik Festival Lüneburg, Germany.
+          Bremen - Germany; Vietnamese Words and Music Concert at Inter Arts
+          Center, Malmö - Sweden.
           <br />`,
   `<i style="text-decoration: underline">Return II </i> (2016)
           <br />
           Fixed Media for the album “Illusions”. Duration: 15’00
           <br />
-          Published by label Pan y Rosas, Chicago, USA/ in audio book “Wenjack”
+          Published by label Pan y Rosas, Chicago - USA; in audio book “Wenjack”
           for people with disabilities, published by The National Network for
-          Equitable Library Service (NNELS), Toronto, Canada.
+          Equitable Library Service (NNELS), Toronto - Canada.
           <br />`,
   `<i style="text-decoration: underline"> The Bridge 3 </i> (2016) Soundtrack for a
           three-channel video “The Bridge 3” by Le Brothers. Duration: 12’22
           <br />
           Commissioned by Le Brothers.
           <br />
-          Exhibited at Goethe Institut Hanoi, Vietnam.
+          Exhibited at Goethe Institut Hanoi - Vietnam.
           <br />`,
   `<i style="text-decoration: underline">Illusions</i> (2016)
           <br />
@@ -328,12 +328,12 @@ const compositions = [
           Commissioned by JSC Film I; Vietnam Ministry of Culture, Sport and
           Tourism.
           <br />
-          World premiered at Vietnam Universiy of Fine Art - Hanoi, Hamburg
-          University of Music & Theatre, Portrait Concert: Luong, Hue Trinh in
-          the 43th Neue Musik Festival Lüneburg - Germany, Vietnamese Words and
-          Music Concert at Inter Arts Center, Malmö - Sweden, Blurred Edges
-          Festival at the Hamburg University of Applied Sciences, the 13th SMC
-          Conference 2016 - Sound & Music Computing Hamburg.
+          World premiered at Vietnam Universiy of Fine Art - Hanoi; Hamburg
+          University of Music & Drama, Portrait Concert: Luong, Hue Trinh in
+          the 43th Neue Musik festival Lüneburg - Germany; Vietnamese Words and
+          Music Concert at Inter Arts Center, Malmö - Sweden; Blurred Edges
+          festival at the Hamburg University of Applied Sciences, the 13th SMC
+          Conference 2016 - Sound & Music Computing Hamburg - Germany.
           <br />`,
   `<i style="text-decoration: underline">Broken Legend </i> (2015) in collaboration
           with composer SonX.
@@ -342,11 +342,11 @@ const compositions = [
           <br />
           Commissioned by Punkt Festival.
           <br />
-          World premiered in the Punkt Festival at Kristiansand Kino, Norway.
+          World premiered in the Punkt festival at Kristiansand Kino, Kristiansand - Norway.
           <br />`,
   `<i style="text-decoration: underline">Reflection</i> (2015)
           <br />
-          for live electronics, dan Tranh and guitar. Duration: 11'00
+          for live electronics, dan tranh and guitar. Duration: 11'00
           <br />
           Commisioned by DomDom Center.
           <br />
@@ -359,8 +359,7 @@ const compositions = [
           <br />
           Commissioned by film-maker Nguyen Hoang Giang.
           <br />
-          Presented in Mini DOCFEST 2014 at Goethe Institut Hanoi, Vietnam. Also
-          used as the soundtrack of the trailer of the Festival.
+          Presented in the Mini DOCFEST 2014 at Goethe Institut Vietnam - Hanoi. Used as the soundtrack of the trailer of the festival.
           <br />`,
   `<i style="text-decoration: underline">Porous Borders</i> (2014) in collaboration
           with composer SonX.
@@ -406,25 +405,25 @@ const compositions = [
           Fixed media & installation for exhibition “Riverscapes IN FLUX”.
           Duration: 16’00
           <br />
-          Commissioned by Goethe Institut Hanoi - Vietnam.
+          Commissioned by Goethe Institut Vietnam - Hanoi. 
           <br />
-          Exhibitions in Vietnam Fine Arts Museum in Hanoi, Cactus Contemporary
-          Art Center in Ho Chi Minh City - Vietnam, The Langgeng Art Foundation in
-          Yogyakarta - Indonesia, The G23 Art Gallery in Bangkok - Thailand, The Sa
-          Sa Bassac Gallery in Phnom Penh - Cambodia, The Metropolitan Museum in
+          Exhibitions in Vietnam Fine Arts Museum - Hanoi, Cactus Contemporary
+          Art Center - Ho Chi Minh City - Vietnam; The Langgeng Art Foundation in
+          Yogyakarta - Indonesia; The G23 Art Gallery in Bangkok - Thailand; The Sa
+          Sa Bassac Gallery in Phnom Penh - Cambodia; The Metropolitan Museum in
           Manila - Philippines from 2011 to 2013.
           <br />`,
   `<i style="text-decoration: underline">Love of a little girl </i> (2011)
           <br />
           for live Electronics. Duration: 15’20
           <br />
-          Premiered at Hanoi Soundstuff Festival.
+          Premiered at Hanoi Soundstuff festival.
           <br />`,
   `<i style="text-decoration: underline">Sleep-walking</i> (2010)
           <br />
           for live Electronics. Duration: 21’20
           <br />
-          Premiered in Hanoi Soundstuff Festival.
+          Premiered in Hanoi Soundstuff festival.
           <br />`,
 ];
 
