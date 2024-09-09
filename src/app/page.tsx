@@ -462,17 +462,18 @@ export default function Home() {
           <a href="hhttps://www.youtube.com/watch?v=thaADIlL3zg"> <u>Đoàn Thanh Bình</u></a>  /
           <a href="https://www.ghanaweb.com/person/Botri-Dela-772"> <u>Dela Botri</u></a>  /  
           <a href="http://www.dieter-mack.de"> <u>Dieter Mack</u></a>  /  
-          <a href="http://www.djsniff.com"> <u>Dj Sniff</u></a>  /  
+          <a href="http://www.djsniff.com"> <u>DJ Sniff</u></a>  /  
           <a href="http://www.eva-zoellner.de"> <u>Eva Zöllner</u></a>  / 
           <a href="http://www.georghajdu.de"> <u>Georg Hajdu</u></a>  /  
           <a href="https://www.hallasteinunn.com"> <u>Halla Steinunn Stefánsdóttir </u></a>  /  
           <a href="https://henrikfrisk.com"> <u>Henrik Frisk</u></a>  / 
-          <a href="https://sites.google.com/site/katthernandez/?fbclid=IwY2xjawFFDvJleHRuA2FlbQIxMAABHZdWUGhNGo5a72hITZ5DCoa_vQwNqOZEHh9x-eZi_mbklnmBKoCNw6skpg_aem_aLnmDEJ70MYEoqhZ-ga78Q"> <u>Katt Hernandez</u></a>  / 
+          <a href="https://zangimusic.wordpress.com/ignaz-schick/"> <u>Ignaz Schick</u></a>  / 
           <a href="https://www.ina-ich.net"> <u>INA-ICH</u></a>  /  
           <a href="https://jdmozaic.com"> <u>Jean-David Caillouët</u></a>  /  
           <a href="https://joachimheintz.net"> <u>Joachim Heintz</u></a>  /  
           <a href="https://jeffvonderschmidt.com"> <u>Jeff von der Schmidt</u></a>  / 
           <a href="https://koksiewwai.wordpress.com"> <u>Kok Siew Wai</u></a>  / 
+          <a href="https://sites.google.com/site/katthernandez/?fbclid=IwY2xjawFFDvJleHRuA2FlbQIxMAABHZdWUGhNGo5a72hITZ5DCoa_vQwNqOZEHh9x-eZi_mbklnmBKoCNw6skpg_aem_aLnmDEJ70MYEoqhZ-ga78Q"> <u>Katt Hernandez</u></a>  / 
           <a href="https://lin-chen-percussion.com"> <u>Lin chen</u></a>  / 
           <a href="https://www.lotteanker.com/"> <u>Lotte Anker</u></a>  /  
           <a href="http://www.nicholasisherwood.com"> <u>Nicholas Isherwood</u></a>  /  
