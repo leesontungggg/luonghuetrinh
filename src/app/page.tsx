@@ -216,8 +216,8 @@ export default function Home() {
         </div>
       </div>
       <div className="h-[150px] w-full flex justify-center items-center bg-white italic text-[#777777] text-sm lg:text-lg px-8">
-        "Music is the voice from my inner self,
-        <br /> the sincerity of my emotions and thoughts."
+        "Music is the voice of my soul,
+        <br /> expressing deep emotions and thoughts beyond words."
       </div>
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
