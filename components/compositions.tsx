@@ -317,9 +317,9 @@ const compositions = [
   `<i style="text-decoration: underline"> The Bridge 3 </i> (2016) Soundtrack for a
           three-channel video “The Bridge 3” by Le Brothers. Duration: 12’22
           <br />
-          Commissioned by Le Brothers.
+          Commissioned by Le Brothers and Goethe Instut Vietnam
           <br />
-          Exhibited at Goethe Institut Hanoi - Vietnam.
+          Exhibited at Goethe Institut Vietnam; the Art Gallery of the College of Staten Island, New York - USA.
           <br />`,
   `<i style="text-decoration: underline">Illusions</i> (2016)
           <br />

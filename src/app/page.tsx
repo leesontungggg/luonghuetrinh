@@ -454,6 +454,7 @@ export default function Home() {
           <a href="https://iwk.mdw.ac.at/hofmann/"> <u>Alex Hofmann</u></a>  /  
           <a href="https://music.youtube.com/channel/UCC1t8mZhR0mA_PjPYtOAvnQ"> <u>Andrea Neumann</u></a>  /  
           <a href="https://www.audreychen.com"> <u>Audrey Chen</u></a>  / 
+          <a href="https://antyegreie.com"> <u>AGF aka Poemproducer</u></a>  /  
           <a href="https://www.sathecollective.org/about/andy-chia-2"> <u>Andy Chia</u></a>  /  
           <a href="https://www.burkhardbeins.de"> <u>Burkhard Beins</u></a>  /  
           <a href="https://www.bjorncharlesdreyer.com"> <u>Bjørn Charles Dreyer</u></a>  /  
@@ -464,14 +465,17 @@ export default function Home() {
           <a href="http://www.dieter-mack.de"> <u>Dieter Mack</u></a>  /  
           <a href="http://www.djsniff.com"> <u>DJ Sniff</u></a>  /  
           <a href="http://www.eva-zoellner.de"> <u>Eva Zöllner</u></a>  / 
+          <a href="https://www.miasmah.com/eks/index.html"> <u>Erik K Skodvin aka Miasmah</u></a>  / 
           <a href="http://www.georghajdu.de"> <u>Georg Hajdu</u></a>  /  
           <a href="https://www.hallasteinunn.com"> <u>Halla Steinunn Stefánsdóttir </u></a>  /  
           <a href="https://henrikfrisk.com"> <u>Henrik Frisk</u></a>  / 
+          <a href="https://indramenus.bandcamp.com/track/jalmo-angkoro-mati-murko-live-at-sumonar-fest-2020"> <u>Indra Menus aka To Die</u></a>  / 
           <a href="https://zangimusic.wordpress.com/ignaz-schick/"> <u>Ignaz Schick</u></a>  / 
           <a href="https://www.ina-ich.net"> <u>INA-ICH</u></a>  /  
           <a href="https://jdmozaic.com"> <u>Jean-David Caillouët</u></a>  /  
           <a href="https://joachimheintz.net"> <u>Joachim Heintz</u></a>  /  
           <a href="https://jeffvonderschmidt.com"> <u>Jeff von der Schmidt</u></a>  / 
+          <a href="https://juliusholtz.de"> <u>Julius Holtz</u></a>  / 
           <a href="https://koksiewwai.wordpress.com"> <u>Kok Siew Wai</u></a>  / 
           <a href="https://sites.google.com/site/katthernandez/?fbclid=IwY2xjawFFDvJleHRuA2FlbQIxMAABHZdWUGhNGo5a72hITZ5DCoa_vQwNqOZEHh9x-eZi_mbklnmBKoCNw6skpg_aem_aLnmDEJ70MYEoqhZ-ga78Q"> <u>Katt Hernandez</u></a>  / 
           <a href="https://lin-chen-percussion.com"> <u>Lin chen</u></a>  / 
@@ -487,6 +491,8 @@ export default function Home() {
           <a href="https://otomoyoshihide.com"> <u>Otomo Yoshihide</u></a>  /   
           <a href="https://oteanankanduro.wordpress.com"> <u>Oteanankanduro</u></a>  /  
           <a href="https://www.musikfabrik.eu/en/ensemble/members/peter-veale/"> <u>Peter Veale</u></a>  /
+          <a href="https://teamsachikom.wixsite.com/sachiko-m"> <u>Sachiko M</u></a>  / 
+          <a href="https://sabineercklentz.com"> <u>Sabine Ercklentz</u></a>  / 
           <a href="https://www.severineballon.com"> <u>Séverine Ballon</u></a>  / 
           <a href="https://www.youtube.com/@ostersjo"> <u>Stefan Östersjö</u></a>  /  
           <a href="https://stefankohmann.de"> <u>Stefan Kohmann</u></a>  / 
