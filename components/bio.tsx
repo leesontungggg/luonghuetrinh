@@ -7,7 +7,7 @@ const Bio = () => {
       <p className="mt-8 text-[#777777]">
         Brief:
         <br />
-        LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. 
+        <b>LUONG Hue Trinh</b> is a dynamic electroacoustic and multimedia composer and performer. 
         She initially studied Jazz Keyboard at the Vietnam National Academy of Music, and later, has focused on electroacoustic music. 
         She received a prestigious full scholarship from the German Academic Exchange Service (DAAD) to study New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg.
@@ -21,7 +21,7 @@ const Bio = () => {
         <br />
         Full:
         <br />
-        LUONG Hue Trinh is a dynamic electroacoustic and multimedia composer and performer. Starting her musical journey at age 5, she entered the Vietnam National Academy of Music at 13. 
+        </b>LUONG Hue Trinh</b> is a dynamic electroacoustic and multimedia composer and performer. Starting her musical journey at age 5, she entered the Vietnam National Academy of Music at 13. 
         She earned a Bachelor’s in Jazz Keyboard in 2010. She then focused on electroacoustic music, studying with Nguyen Xuan Son (SonX). 
         From 2015 to 2018, LUONG received a full DAAD scholarship for New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg 

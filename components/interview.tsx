@@ -100,7 +100,7 @@ const Interview = () => {
           >
             Composer travels the world to write music
           </a>{" "}
-          - Việt Nam News (ENG) - 2022{" "}
+          - Việt Nam News (ENG) - 2021{" "}
         </li>
         <li
           className="list-disc py-4"
