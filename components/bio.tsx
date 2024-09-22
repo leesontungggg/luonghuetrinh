@@ -25,7 +25,7 @@ const Bio = () => {
         She earned a Bachelor’s in Jazz Keyboard in 2010. She then focused on electroacoustic music, studying with Nguyễn Xuân Sơn (SonX). 
         From 2015 to 2018, LƯƠNG received a full DAAD scholarship for New Techniques in Composition, 
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg 
-        under <a href="http://www.georghajdu.de"> <u>Prof. Dr. Georg Hajdu</u></a>, <a href="http://www.elmar-lampson.de/"> <u>Prof. Elmar Lampson</u></a>, 
+        under <a href="http://www.georghajdu.de"> <u>Prof. Dr. Georg Hajdu</u></a>, <a href="http://www.elmar-lampson.de"> <u>Prof. Elmar Lampson</u></a>, <a href="https://jacobsello.de"> <u>Jacob Sello</u></a>,
         and <a href="http://www.alexanderschubert.net"> <u>Alexander Schubert</u></a>.
         <br />
         {!isSeeMore && (
