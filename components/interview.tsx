@@ -17,7 +17,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://thethaovanhoa.vn/cuoc-gap-go-giua-a-dao-dan-bau-va-nhac-dien-tu-20240125070333158.htm?fbclid=IwZXh0bgNhZW0CMTAAAR272FGDv-3JUwTb_vCIGuJdnlDF3IdMP556aoOaHr9lpqQMfXeCPJ89uuw_aem_IlYglqkeyxvqwGj3LYJBxg"
           >
-            <b>Cuộc gặp gỡ giữa Ả đào, đàn Bầu và nhạc điện tử</b>
+            <b>Cuộc gặp gỡ giữa Ả Đào, đàn Bầu và nhạc điện tử</b>
           </a>{" "}
           - Thể thao Văn hóa/Culture & Sport Newspaper (VIET) - 2024{" "}
         </li>
@@ -162,7 +162,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/t%E1%BA%A1p-ch%C3%AD-v%C4%83n-h%C3%B3a/20210505-luong-hue-trinh-am-nhac-xa-xoi-gan"
           >
-            <b>Lương Huệ Trinh: Âm nhạc Xa Xôi - Âm nhac Gần </b>
+            <b>Lương Huệ Trinh: Âm nhạc Xa Xôi - Âm nhạc Gần </b>
           </a>{" "}
           - RFI (Radio France Internationale) (VIET) - 2021{" "}
         </li>
@@ -210,8 +210,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://daidoanket.vn/nha-soan-nhac-luong-hue-trinh-nhac-moi-tiep-can-nguoi-nghe-theo-cach-tu-nhien-nhat-10143255.html"
           >
-            <b>Nhà soạn nhạc Lương Huệ Trinh: Nhạc Mới tiếp cận người nghe theo </b>
-            cách tự nhiên nhất
+            <b>Nhà soạn nhạc Lương Huệ Trinh: Nhạc Mới tiếp cận người nghe theo cách tự nhiên nhất</b>
           </a>{" "}
           - Đại Đoàn Kết Newspaper (VIET) - 2019{" "}
         </li>
@@ -259,8 +258,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/watch?v=O8mPvTaqnLc&lhttps://hanoigrapevine.com/vi/2019/07/experimental-music-night-undecided-borders-venture-spheres-interacting-sound-visual/ist=PLQ9ujV_whCP1FX5tUMgrj5g_d0BxfdNgm&t=839s"
           >
-            <b>Hòa nhạc thể nghiệm “Biên giới mờ”: Chuyến phiêu lưu trong những 
-            trường-tương-tác-âm-thanh-thị-giác </b>
+            <b>Hòa nhạc thể nghiệm “Biên giới mờ”: Chuyến phiêu lưu trong những trường-tương-tác-âm-thanh-thị-giác </b>
           </a>
           - Hanoi Grapevine (VIET/ENG) - 2019{" "}
         </li>
@@ -334,8 +332,7 @@ const Interview = () => {
                 className="underline cursor-pointer"
                 href="https://hanoigrapevine.com/vi/2019/03/musical-journey-luong-hue-trinh/"
               >
-                <b>The musical journey of Luong Hue Trinh / Hành trình âm nhạc của
-                Lương Huệ Trinh </b>
+                <b>The musical journey of Luong Hue Trinh / Hành trình âm nhạc của Lương Huệ Trinh </b>
               </a>{" "}
               - Hanoi Grapevine (ENG/VIET) - 2019{" "}
             </li>
@@ -400,8 +397,7 @@ const Interview = () => {
                 className="underline cursor-pointer"
                 href="http://soi.today/?p=84183"
               >
-                <b>Triển lãm 'Trang sức sống' với Đinh Công Đạt, Lê Huy Hoàng &
-                Lương Huệ Trinh </b>
+                <b>Triển lãm 'Trang sức sống' với Đinh Công Đạt, Lê Huy Hoàng & Lương Huệ Trinh </b>
               </a>{" "}
               - SOI (VIET) - 2012{" "}
             </li>
