@@ -1,14 +1,14 @@
 import { useState } from "react";
 
 const compositions = [
-  `<i style="text-decoration: underline">How can I be tender ?</i> (2023) <br /> 
+  `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
           for Grain~bau solo. Duration: 9'30" <br /> Premiere at Showcase Concert at
           the Future Art Lab - Klangtheater at University of Music and
           Performing Arts, Vienna - Austria.
           <br /> Commissioned for the artistic research project Études for
           Live-Electronics 2023 - 2025 by Alex Hofmann - Institut für
           Musikalische Akustik Wienner Kangstil.`,
-  `<i style="text-decoration: underline">Đốm</i> (2023)
+  `<i style="text-decoration: underline"><b>Đốm</i></b> (2023)
           <br />
           for two voices (traditional Vietnamese singing Ả Đào, experimental),
           Phách (wooden block), đàn Bầu, electronics, video & two performers. Duration: 10'
@@ -20,7 +20,7 @@ const compositions = [
           Commissioned for project TRAIECT IV Vietnam by Hannoversche
           Gesellschaft für Neue Musik (Hanover Society for New Music) - Germany.
           <br />`,
-  `<i style="text-decoration: underline">SLANTED SILHOUETTES</i> (2023) <br />
+  `<i style="text-decoration: underline"><b>SLANTED SILHOUETTES</i></b> (2023) <br />
           for traditional and contemporary music & dance, electronic & acoustic
           music, spokenword poetry & acting, video & scenography. Duration: 90'
           <br />
@@ -32,7 +32,7 @@ const compositions = [
           French Embassy to Ghana, Canal +, Ibis Styles Hotel Accra, Sun Trade
           Beads, Yfm and Mx24 Tv.
           <br />`,
-  `<i style="text-decoration: underline">NHẤP NHOÁNG</i> (2023) <br />
+  `<i style="text-decoration: underline"><b>NHẤP NHOÁNG</i></b> (2023) <br />
           for Đàn Bầu, electronics, voice, objects and poetry. Duration: 45'
           <br />
           a site-specific and
@@ -41,7 +41,7 @@ const compositions = [
           Commissioned by the 33rd AngelicA International Music festival, 
           Bologna - Italy.
           <br />`,
-  `<i style="text-decoration: underline">The Vivid Silences</i> (2022)
+  `<i style="text-decoration: underline"><b>The Vivid Silences</i></b> (2022)
           <br />
           for traditional Vietnamese & Ghanaian music (acoustic, electronics),
           experimental music, traditional & contemporary African dance, spoken
@@ -54,9 +54,9 @@ const compositions = [
           Française Accra - Ghana.
           <br />`,
   `<i style="text-decoration: underline">
-            Music for a short film 'Yellow My Window' by Ghanaian artist Ato
+            <b>Music for a short film 'Yellow My Window'</i></b> by Ghanaian artist Ato
             Kwamina Hasford - Oteanankanduro
-          </i>{" "}
+          {" "}
           (2022)
           <br />
           Duration: 11'
@@ -65,7 +65,7 @@ const compositions = [
           Supported by the Embassy of France to Ghana, Institut français du Ghana and Cité
           Internationale des Arts Paris.
           <br />`,
-  `<i style="text-decoration: underline">THE APPEAL</i> (2022)
+  `<i style="text-decoration: underline"><b>THE APPEAL</i></b> (2022)
           <br />
           for traditional Vietnamese & Ghanaian music (acoustic, electronics),
           experimental music, traditional & contemporary African dance, video,
@@ -80,7 +80,7 @@ const compositions = [
           Rhineland-Platinate in Germany; IBIS Styles Hotel Accra; Mx24 TV,
           Yfm, Wigal Ghana, and Canal+
           <br />`,
-  `<i style="text-decoration: underline">Chênh chếch (a step aside)</i> (2022) in the
+  `<i style="text-decoration: underline"><b>Chênh chếch (a step aside)</i></b> (2022) in the
           concert TÍCH TỊCH TÌNH TANG...
           <br />
           for traditional Vietnamese singing & wooden block, experimental
@@ -90,7 +90,7 @@ const compositions = [
           <br />
           Premiered at Goethe Institut Vietnam in Hanoi.
           <br />`,
-  `<i style="text-decoration: underline">La lettre perdue</i> (2022)
+  `<i style="text-decoration: underline"><b>La lettre perdue</i></b> (2022)
           <br />
           for voice, fixed media and video. Poetry by Emmanuel Labrande.
           Duration: 8'45
@@ -106,7 +106,7 @@ const compositions = [
           Washington - Seattle, California State University, Fullerton - USA;
           La Scène Numérique, Montbéliard - France.
           <br />`,
-  `<i style="text-decoration: underline">Thinh không (Ether)</i> (2021) in album
+  `<i style="text-decoration: underline"><b>Thinh không (Ether)</i></b> (2021) in album
           "Strengur"
           <br />
           for electronics. Duration: 9'39
@@ -115,7 +115,7 @@ const compositions = [
           Stefánsdóttir in Sweden with support of Ministry of Culture in
           Iceland. Releasing in New York City - USA in 2022.
           <br />`,
-  `<i style="text-decoration: underline">Strengur</i> (2021) in album "Strengur"
+  `<i style="text-decoration: underline"><b>Strengur</i></b> (2021) in album "Strengur"
           <br />
           Performed electronics on the score by Halla Steinunn Stefánsdóttir
           with live video "Packed Memories" by Luong Hue Trinh. Duration: 8'16
@@ -124,7 +124,7 @@ const compositions = [
           Stefánsdóttir with support of Ministry of Culture in Iceland.
           Releasing in New York City - USA in 2022.
           <br />`,
-  `<i style="text-decoration: underline">Ohn Warum</i> (2021)
+  `<i style="text-decoration: underline"><b>Ohn Warum</i></b> (2021)
           <br />
           for cello, voices in German and Vietnamese languages, accordion, đàn
           bầu (Vietnamese monochord), poetry by Angelus Silesius and electronics. Duration: 9'30
@@ -136,7 +136,7 @@ const compositions = [
           <br />
           Online premiered and a live performance at Goethe Institut Vietnam in Hanoi.
           <br />`,
-  `<i style="text-decoration: underline">Heave/Phập phồng</i> (2021)
+  `<i style="text-decoration: underline"><b>Heave/Phập phồng</i></b> (2021)
           <br />
           for electronics, Ewe drums, experimental voice, Ewe traditional
           singing, poetry, traditional and African contemporary dance, video and
@@ -150,7 +150,7 @@ const compositions = [
           World premiered at the outdoor Amphitheater - Alliance Française
           Accra, Ghana.
           <br />`,
-  `<i style="text-decoration: underline">Transit Zone </i>(2020)
+  `<i style="text-decoration: underline"><b>Transit Zone</i></b> (2020)
           <br />
           for flute, clarinet, violin, cello, piano, đàn Tranh, electronics and
           video. Duration: 17'17
@@ -162,7 +162,7 @@ const compositions = [
           Feuerwache - Cologne, Theater in Pumpenhaus - Münster,
           Bürgermeisterhaus - Essen, Germany.
           <br />`,
-  `<i style="text-decoration: underline">It is not raining, it is misting</i> (2020)
+  `<i style="text-decoration: underline"><b>It is not raining, it is misting</i></b> (2020)
           <br />
           for piano, electronics and video. Duration: 8'35
           <br />
@@ -173,7 +173,7 @@ const compositions = [
           Feuerwache - Cologne, Theater in Pumpenhaus - Münster,
           Bürgermeisterhaus - Essen, Germany.
           <br />`,
-  `<i style="text-decoration: underline">The Net of Imagination </i>(2019)
+  `<i style="text-decoration: underline"><b>The Net of Imagination</i></b> (2019)
           <br />
           for traditional Vietnamese singing, cello, electronics and video.
           Duration: 7'00
@@ -185,7 +185,7 @@ const compositions = [
           Premiered at Ho Chi Minh Conservatory of Music, Youth Theater of
           Vietnam - Hanoi.
           <br />`,
-  `<i style="text-decoration: underline">Oblique Light</i> (2019)
+  `<i style="text-decoration: underline"><b>Oblique Light</i></b> (2019)
           <br />
           for traditional Vietnamese singing, percussions, cello, electronics
           and video. Duration: 9'00
@@ -197,7 +197,7 @@ const compositions = [
           Premiered at Ho Chi Minh Conservatory of Music, Youth Theater of
           Vietnam - Hanoi.
           <br />`,
-  `<i style="text-decoration: underline">iel</i> (2019)
+  `<i style="text-decoration: underline"><b>iel</i></b> (2019)
           <br />
           for pipa, sheng, zhong ruan, guzheng, clarinet, drumset and
           electronics. Duration: 7'00
@@ -208,31 +208,30 @@ const compositions = [
           Taylor University - Malaysia.
           <br />`,
   `<i style="text-decoration: underline">
-            How many skies and seas will have disappeared...?
-          </i>
+            <b>How many skies and seas will have disappeared...?</i></b>
           (2019)
           <br />
           for objects, bamboo flutes, electronics and video. Duration: 7'00
           <br />
           Premiered at Institut français du Vietnam - L'Espace.
           <br />`,
-  `<i style="text-decoration: underline">Scarlet Nails</i> (2019)
+  `<i style="text-decoration: underline"><b>Scarlet Nails</i></b> (2019)
           <br />
           for dan Tranh, rice and fixed media. Duration: 11'00
           <br />
-          Commissioned by dan Tranh player Nguyen Thanh Thuy.
+          Commissioned by dan Tranh player Nguyễn Thanh Thủy.
           <br />
           Premiered in Intonal festival Malmö - Sweden,  Manzi Art Space Hanoi -
           Vietnam.
           <br />`,
-  `<i style="text-decoration: underline">Traces</i> (2018)
+  `<i style="text-decoration: underline"><b>Traces</i></b> (2018)
           <br />
           for two percussionists, vocal, electronics and video. Duration: 12’00
           <br />
           World premiered at Hamburg University of Music & Drama/Institut
           français du Vietnam - L'Espace.
           <br />`,
-  `<i style="text-decoration: underline">JiJi</i> (2018)
+  `<i style="text-decoration: underline"><b>JiJi</i></b> (2018)
           <br />
           for dan Tranh, violin, cello, flute, bass clarinet, electronics and
           video. Duration: 7'00
@@ -241,7 +240,7 @@ const compositions = [
           français du Vietnam - L'Espace, Vietnam National Academy of Music,
           Goethe Institut Hanoi.
           <br />`,
-  `<i style="text-decoration: underline">Red Moon</i> (2018)
+  `<i style="text-decoration: underline"><b>Red Moon</i></b> (2018)
           <br />
           for a solo performer on Tam-Tam with various tools & live electronics.
           Duration: 12’00
@@ -249,7 +248,7 @@ const compositions = [
           World premiered at Hamburg University of Music & Drama - Germany, Institut
           français du Vietnam - L'Espace, Hanoi - Vietnam.
           <br />`,
-  `<i style="text-decoration: underline">Departure of a Leaf</i> (2018)
+  `<i style="text-decoration: underline"><b>Departure of a Leaf</i></b> (2018)
           <br />
           for violin and electronics. Duration: 8'00
           <br />
@@ -261,7 +260,7 @@ const compositions = [
           Artistic Research in Music at Inter Arts Center - Lund University - Malmö Sweden;
           Sibelius Museum - Finland; and releasing in New York City-USA in 2022
           <br />`,
-  `<i style="text-decoration: underline">Mater Materia</i> (2017)
+  `<i style="text-decoration: underline"><b>Mater Materia</i></b> (2017)
           <br />
           for fixed Media for the opera “Mater Materia” by Maurice Lenhard.
           Duration: 16’00
@@ -271,7 +270,7 @@ const compositions = [
           World premiered at Theater Quartier – Theaterakademie Hamburg,
           Germany.
           <br />`,
-  `<i style="text-decoration: underline">wESTAMAN PROJECT</i> (2017) by Bjorn Charles
+  `<i style="text-decoration: underline"><b>wESTAMAN PROJECT</i></b> (2017) by Bjorn Charles
           Dreyer
           <br />
           Improvised with electronics, e-guitar/electronics, drums/electronics,
@@ -285,7 +284,7 @@ const compositions = [
           Folkehøyskole (folk university college), Tangen videregående skole
           (college); in Flekkefjord: Flekkefjord videregående skole (college) - Norway.
           <br />`,
-  `<i style="text-decoration: underline">Echoes - 3 parts</i> (2016)
+  `<i style="text-decoration: underline"><b>Echoes - 3 scenes</i></b> (2016)
           <br />
           Fixed Media for the opera DIDO & AENEAS by Henry Purcell.
           <br />
@@ -294,7 +293,7 @@ const compositions = [
           World premiere at the Opera Stabile-Staatsoper Hamburg and Theater im
           Bauturm, Cologne - Germany.
           <br />`,
-  `<i style="text-decoration: underline">Behind The Mirror</i> (2016)
+  `<i style="text-decoration: underline"><b>Behind The Mirror</i></b> (2016)
           <br />
           for fretless e-guitar, fixed media and video. Duration: 9’00
           <br />
@@ -306,7 +305,7 @@ const compositions = [
           Bremen - Germany; Vietnamese Words and Music Concert at Inter Arts
           Center, Malmö - Sweden.
           <br />`,
-  `<i style="text-decoration: underline">Return II </i> (2016)
+  `<i style="text-decoration: underline"><b>Return II</i></b> (2016)
           <br />
           Fixed Media for the album “Illusions”. Duration: 15’00
           <br />
@@ -314,14 +313,14 @@ const compositions = [
           for people with disabilities, published by The National Network for
           Equitable Library Service (NNELS), Toronto - Canada.
           <br />`,
-  `<i style="text-decoration: underline"> The Bridge 3 </i> (2016) Soundtrack for a
+  `<i style="text-decoration: underline"><b>The Bridge 3</i></b> (2016) Soundtrack for a
           three-channel video “The Bridge 3” by Le Brothers. Duration: 12’22
           <br />
           Commissioned by Le Brothers and Goethe Instut Vietnam
           <br />
           Exhibited at Goethe Institut Vietnam; the Art Gallery of the College of Staten Island, New York - USA.
           <br />`,
-  `<i style="text-decoration: underline">Illusions</i> (2016)
+  `<i style="text-decoration: underline"><b>Illusions</i></b> (2016)
           <br />
           Fixed Media & video. Duration: 13’31
           <br />
@@ -335,7 +334,7 @@ const compositions = [
           festival at the Hamburg University of Applied Sciences, the 13th SMC
           Conference 2016 - Sound & Music Computing Hamburg - Germany.
           <br />`,
-  `<i style="text-decoration: underline">Broken Legend </i> (2015) in collaboration
+  `<i style="text-decoration: underline"><b>Broken Legend</i></b> (2015) in collaboration
           with composer SonX.
           <br />
           Fixed media, live electronics and one percussionist. Duration: 15’52
@@ -344,7 +343,7 @@ const compositions = [
           <br />
           World premiered in the Punkt festival at Kristiansand Kino, Kristiansand - Norway.
           <br />`,
-  `<i style="text-decoration: underline">Reflection</i> (2015)
+  `<i style="text-decoration: underline"><b>Reflection</i></b> (2015)
           <br />
           for live electronics, dan tranh and guitar. Duration: 11'00
           <br />
@@ -352,7 +351,7 @@ const compositions = [
           <br />
           Premiered at Institut français du Vietnam.
           <br />`,
-  `<i style="text-decoration: underline">An Nhiên (Light-being)</i> (2014)
+  `<i style="text-decoration: underline"><b>An Nhiên (Light-being)</i></b> (2014)
           <br />
           Soundtrack for a hand drawn animation by Nguyen Hoang Giang. Duration:
           3’22
@@ -361,7 +360,7 @@ const compositions = [
           <br />
           Presented in the Mini DOCFEST 2014 at Goethe Institut Vietnam - Hanoi. Used as the soundtrack of the trailer of the festival.
           <br />`,
-  `<i style="text-decoration: underline">Porous Borders</i> (2014) in collaboration
+  `<i style="text-decoration: underline"><b>Porous Borders</i></b> (2014) in collaboration
           with composer SonX.
           <br />
           Sound installation for “The Rolving Eye Exhibition – Contemporary Art
@@ -371,7 +370,7 @@ const compositions = [
           <br />
           Exhibited at the ARTER/Space for Art, Istanbul, Turkey.
           <br />`,
-  `<i style="text-decoration: underline">Black Moon</i> (2014)
+  `<i style="text-decoration: underline"><b>Black Moon</i></b> (2014)
           <br />
           Fixed Media for the “Asia Experimental Music Current Project - Artist of
           the Month, July”. Duration: 18'00
@@ -381,7 +380,7 @@ const compositions = [
           World premiered at Shanghai Rockbund Art Museum, Banye Art Hotel Hang
           zhou - China.
           <br />`,
-  `<i style="text-decoration: underline">Tò Vò</i> (2013)
+  `<i style="text-decoration: underline"><b>Tò Vò</i></b> (2013)
           <br />
           Fixed Media. Duration: 10’00
           <br />
@@ -389,7 +388,7 @@ const compositions = [
           (2014) – a compilation of sound works by female composers in the
           world, published by Urban Arts Berlin - Germany.
           <br />`,
-  `<i style="text-decoration: underline">Return</i> (2012)
+  `<i style="text-decoration: underline"><b>Return</i></b> (2012)
           <br />
           Fixed media for exhibition “Living Jewels”, alongside with the
           installation “The Rain” by Bopha Xarigia Le Huy Hoang. Duration: 14’40
@@ -399,7 +398,7 @@ const compositions = [
           Premiered at Hanoi University of Science – Vietnam National
           University.
           <br />`,
-  `<i style="text-decoration: underline">Black Circle </i>(2011) in collaboration with
+  `<i style="text-decoration: underline"><b>Black Circle </i></b>(2011) in collaboration with
           composer SonX.
           <br />
           Fixed media & installation for exhibition “Riverscapes IN FLUX”.
@@ -413,13 +412,13 @@ const compositions = [
           Sa Bassac Gallery in Phnom Penh - Cambodia; The Metropolitan Museum in
           Manila - Philippines from 2011 to 2013.
           <br />`,
-  `<i style="text-decoration: underline">Love of a little girl </i> (2011)
+  `<i style="text-decoration: underline"><b>Love of a little girl </i></b>(2011)
           <br />
           for live Electronics. Duration: 15’20
           <br />
           Premiered at Hanoi Soundstuff festival.
           <br />`,
-  `<i style="text-decoration: underline">Sleep-walking</i> (2010)
+  `<i style="text-decoration: underline"><b>Sleep-walking </i></b>(2010)
           <br />
           for live Electronics. Duration: 21’20
           <br />
