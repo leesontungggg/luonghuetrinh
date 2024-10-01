@@ -130,8 +130,7 @@ const Interview = () => {
             className="underline cursor-pointer"
             href="https://www.vietnamplus.vn/bat-chap-khoang-cach-nu-nghe-sy-tu-4-quoc-gia-cung-bay-tiec-am-thanh-post727060.vnp"
           >
-            <b>Lương Huệ Trinh: Bất chấp khoảng cách, nữ nghệ sĩ từ 4 quốc gia cùng</b>
-            bày tiệc âm thanh
+            <b>Lương Huệ Trinh: Bất chấp khoảng cách, nữ nghệ sĩ từ 4 quốc gia cùng bày tiệc âm thanh</b>
           </a>{" "}
           - Vietnamplus Newspaper (VIET/ENG) - 2021{" "}
         </li>
