@@ -534,7 +534,7 @@ export default function Home() {
       </div>
       <div className="w-[100%] h-fit relative bg-white pt-32 pb-4 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <div className="">
-          <i className=""></i>Lương Huệ Trinh <br />
+          <i className=""></i><b>Lương Huệ Trinh </b><br />
           huetrinh.luong@gmail.com
           <br />
         </div>
@@ -598,7 +598,7 @@ export default function Home() {
       <div className="w-[100%] h-fit relative bg-white pt-12 pb-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <h3 className="text-center text-xl">Legal Notice</h3>
         <p>
-          Lương Huệ Trinh <br />
+          <b>Lương Huệ Trinh </b> <br />
           Paris - France and Hanoi - Vietnam
           <br />
           <br />
