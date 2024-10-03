@@ -13,7 +13,7 @@ const Bio = () => {
         followed by a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg.
         Her artistic profile blends traditional and experimental music, visuals, scenography, and site-specific performances. 
         LƯƠNG has collaborated with artists from diverse fields, including contemporary dance, 
-        animation, experimental film, video art, poetry, drama, painting performance and installation etc. 
+        animation, experimental film, video art, poetry, drama, painting performance and installation. 
         Her work has been broadcast on radios and performed at various museums, festivals etc across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
