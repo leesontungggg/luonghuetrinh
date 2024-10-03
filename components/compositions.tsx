@@ -32,7 +32,7 @@ const compositions = [
           French Embassy to Ghana, Canal +, Ibis Styles Hotel Accra, Sun Trade
           Beads, Yfm and Mx24 Tv.
           <br />`,
-  `<i style="text-decoration: underline"><b>NHẤP NHOÁNG</i></b> (2023) <br />
+  `<i style="text-decoration: underline"><b>Nhấp nhoáng</i></b> (2023) <br />
           for Đàn Bầu, electronics, voice, objects and poetry. Duration: 45'
           <br />
           a site-specific and
@@ -258,7 +258,7 @@ const compositions = [
           festival - Copenhagen, SONIC festival Copenhagen - Denmark; Newcastle Summer festival - the UK; 
           Interference #7 - A laboratory for
           Artistic Research in Music at Inter Arts Center - Lund University - Malmö Sweden;
-          Sibelius Museum - Finland; and releasing in New York City-USA in 2022
+          Sibelius Museum - Finland; and releasing in New York City - USA in 2022
           <br />`,
   `<i style="text-decoration: underline"><b>Mater Materia</i></b> (2017)
           <br />
@@ -267,8 +267,7 @@ const compositions = [
           <br />
           Commissioned by theatre director Maurice Lenhard.
           <br />
-          World premiered at Theater Quartier – Theaterakademie Hamburg,
-          Germany.
+          World premiered at Theater Quartier – Theaterakademie Hamburg - Germany.
           <br />`,
   `<i style="text-decoration: underline"><b>wESTAMAN PROJECT</i></b> (2017) by Bjorn Charles
           Dreyer
@@ -368,7 +367,7 @@ const compositions = [
           <br />
           commissioned by curator Iola Lenzi.
           <br />
-          Exhibited at the ARTER/Space for Art, Istanbul, Turkey.
+          Exhibited at the ARTER/Space for Art, Istanbul - Turkey.
           <br />`,
   `<i style="text-decoration: underline"><b>Black Moon</i></b> (2014)
           <br />
@@ -416,13 +415,13 @@ const compositions = [
           <br />
           for live Electronics. Duration: 15’20
           <br />
-          Premiered at Hanoi Soundstuff festival.
+          Premiered at Hanoi Soundstuff festival - Vietnam.
           <br />`,
   `<i style="text-decoration: underline"><b>Sleep-walking </i></b>(2010)
           <br />
           for live Electronics. Duration: 21’20
           <br />
-          Premiered in Hanoi Soundstuff festival.
+          Premiered in Hanoi Soundstuff festival - Vietnam.
           <br />`,
 ];
 

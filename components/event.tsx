@@ -63,6 +63,7 @@ const events = [
   `<b>16.03.2019</b> at 8:00 PM: <a style="text-decoration: underline" href="https://www.facebook.com/events/1208841429291813/"><b>#Concert VỆT/ STREAKS - Hòa nhạc đa phương tiện/Concert Multimédia</a></b>, supported by Goethe-Institut Hanoi and Institut Français de Hanoi - L'Espace at L'Espace, 24 Trang Tien, Hanoi.`,
   `<b>03.03.2019</b> at 8:00 PM: <a style="text-decoration: underline" href="https://www.facebook.com/events/553010875186595/"><b>#Concert Berlin-Hanoi Meeting</a></b> - Electroacoustic music from Berlin & Hanoi at Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc.`,
   `<b>23.02.2019</b> at 9:00 PM: <a style="text-decoration: underline" href="https://www.facebook.com/events/2215605261825328/"><b>#Concert Music from shy & sophisticated souls/Những âm thanh bẽn lẽn và tinh tế,</a></b> organised by Hanoi Grapevine at Hanoi Rock City 27/52 Tô Ngọc Vân, Hanoi.`,
+  `<b>16-18-20.12.2018</b> at 8:00 PM: <a style="text-decoration: underline" href=""><b>#Hanoi New Music Festival</a></b>.`,
 ];
 
 const Event = () => {

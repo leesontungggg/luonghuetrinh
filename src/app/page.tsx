@@ -446,13 +446,14 @@ export default function Home() {
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
-          <i>Composers, Performers & Conductors I've had pleasure to work with:</i>
+          <i>Composers, Performers & Conductors I have had pleasure to work with:</i>
           </b>
           <br />
           <br />
           <a href="http://www.alexanderschubert.net"> <u>Alexander Schubert</u></a>  /  
           <a href="https://iwk.mdw.ac.at/hofmann/"> <u>Alex Hofmann</u></a>  /  
           <a href="https://music.youtube.com/channel/UCC1t8mZhR0mA_PjPYtOAvnQ"> <u>Andrea Neumann</u></a>  /  
+          <a href="http://www.arnontnongyao.com"> <u>Arnont Nongyao</u></a>  / 
           <a href="https://www.audreychen.com"> <u>Audrey Chen</u></a>  / 
           <a href="https://antyegreie.com"> <u>AGF aka Poemproducer</u></a>  /  
           <a href="https://www.sathecollective.org/about/andy-chia-2"> <u>Andy Chia</u></a>  /  
@@ -472,14 +473,19 @@ export default function Home() {
           <a href="https://indramenus.bandcamp.com/track/jalmo-angkoro-mati-murko-live-at-sumonar-fest-2020"> <u>Indra Menus aka To Die</u></a>  / 
           <a href="https://zangimusic.wordpress.com/ignaz-schick/"> <u>Ignaz Schick</u></a>  / 
           <a href="https://www.ina-ich.net"> <u>INA-ICH</u></a>  /  
+          <a href="https://www.instagram.com/indramenus/"> <u>Indra Menus</u></a>  / 
+          <a href="https://www.iac.lu.se/calendar/jakob-riis-inhabitants-intonal-2024"> <u>Jakob Riis</u></a>  / 
           <a href="https://jdmozaic.com"> <u>Jean-David Caillouët</u></a>  /  
           <a href="https://joachimheintz.net"> <u>Joachim Heintz</u></a>  /  
           <a href="https://jeffvonderschmidt.com"> <u>Jeff von der Schmidt</u></a>  / 
           <a href="https://juliusholtz.de"> <u>Julius Holtz</u></a>  / 
-          <a href="https://koksiewwai.wordpress.com"> <u>Kok Siew Wai</u></a>  / 
           <a href="https://sites.google.com/site/katthernandez/?fbclid=IwY2xjawFFDvJleHRuA2FlbQIxMAABHZdWUGhNGo5a72hITZ5DCoa_vQwNqOZEHh9x-eZi_mbklnmBKoCNw6skpg_aem_aLnmDEJ70MYEoqhZ-ga78Q"> <u>Katt Hernandez</u></a>  / 
+          <a href="https://chongkeeyong-studio-c.com"> <u>Kee-Yong Chong</u></a>  / 
+          <a href="https://koksiewwai.wordpress.com"> <u>Kok Siew Wai</u></a>  / 
+          <a href="https://siedlcao.com"> <u>Lan Cao & Gregor Siedl</u></a>  / 
           <a href="https://lin-chen-percussion.com"> <u>Lin chen</u></a>  / 
-          <a href="https://www.lotteanker.com/"> <u>Lotte Anker</u></a>  /  
+          <a href="https://www.lotteanker.com"> <u>Lotte Anker</u></a>  /  
+          <a href="https://www.lukasligeti.com"> <u>Lukas Ligeti</u></a>  /
           <a href="http://www.nicholasisherwood.com"> <u>Nicholas Isherwood</u></a>  /  
           <a href="https://www.youtube.com/@tramyngo2403"> <u>Ngô Trà My</u></a>  / 
           <a href="https://nguyenthanhthuy.weebly.com"> <u>Nguyễn Thanhh Thủy</u></a>  /  
@@ -528,7 +534,7 @@ export default function Home() {
       </div>
       <div className="w-[100%] h-fit relative bg-white pt-32 pb-4 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <div className="">
-          <i className=""></i>Luong Hue Trinh <br />
+          <i className=""></i>Lương Huệ Trinh <br />
           huetrinh.luong@gmail.com
           <br />
         </div>
@@ -592,8 +598,8 @@ export default function Home() {
       <div className="w-[100%] h-fit relative bg-white pt-12 pb-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <h3 className="text-center text-xl">Legal Notice</h3>
         <p>
-          Luong Hue Trinh <br />
-          Hanoi, Vietnam
+          Lương Huệ Trinh <br />
+          Paris - France and Hanoi - Vietnam
           <br />
           <br />
           <br />
@@ -606,7 +612,7 @@ export default function Home() {
           laws. The content of this site may not be used for reproduction in any
           form or for transmission, multiplication and publication by electronic
           mediums without the express written permission of{" "}
-          <b>Luong Hue Trinh</b>, unless otherwise stated.
+          <b>Lương Huệ Trinh</b>, unless otherwise stated.
           <br />
           <b>Links to external websites</b>
           <br />
