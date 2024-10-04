@@ -14,7 +14,7 @@ const Bio = () => {
         Her artistic profile blends traditional and experimental music, visuals, scenography, and site-specific performances. 
         LƯƠNG has collaborated with artists from diverse fields, including contemporary dance, 
         animation, experimental film, video art, poetry, drama, painting performance and installation. 
-        Her work has been featured on radio broadcasts and showcased in museums, festivals, and other venues across Asia, Europe, Oceania, North America, and Africa.
+        Her work has been featured on radio broadcasts and showcased in museums, festivals, universities and others across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
         ------------------
