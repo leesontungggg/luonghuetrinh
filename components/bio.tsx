@@ -14,7 +14,7 @@ const Bio = () => {
         Her artistic profile blends traditional and experimental music, visuals, scenography, and site-specific performances. 
         LƯƠNG has collaborated with artists from diverse fields, including contemporary dance, 
         animation, experimental film, video art, poetry, drama, painting performance and installation. 
-        Her work has been broadcast on radios and performed at various museums, festivals etc across Asia, Europe, Oceania, North America, and Africa.
+        Her work has been featured on radio broadcasts and showcased in museums, festivals, and other venues across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
         ------------------
@@ -52,12 +52,12 @@ const Bio = () => {
             <br />
             <br />
             LƯƠNG's music has been featured internationally, including Artist of the Month on StillStream Radio (USA, 2013), 
-            London’s Gwaith Sŵn (UK), and NRK (Norway, 2014, 2015), Yfm and Mx24TV (Ghana, 2022, 2023). 
+            London’s Gwaith Sŵn (UK), and NRK (Norway, 2014, 2015), Yfm and Mx24TV (Ghana, 2022, 2023), Italian Public radio - RAI radio 3 - Battiti (2024). 
             She performed at the Mikromusik Festival (2018) organized by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
             and broadcast on Deutschlandfunk Kultur, Germany.
             <br />
             <br />
-            Her work has been presented across Asia, Europe, Oceania,
+            Her work has been showcased across Asia, Europe, Oceania,
             North America, and Africa such as Übersee museum - Bremen, Sprengel museum - Hannover, Berlin Academy of
             Arts, Center for Art & Media - ZKM Karlsruhe, University of Music,
             Theater & Media Hanover (Germany); Sibelius museum
