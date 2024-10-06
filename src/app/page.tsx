@@ -79,6 +79,7 @@ const images = [
   "/images/69.jpg",
   "/images/70.jpg",
   "/images/71.jpg",
+  "/images/72.jpg",
 ];
 
 export default function Home() {
@@ -610,7 +611,7 @@ export default function Home() {
           /
           <a href="https://koksiewwai.wordpress.com">
             {" "}
-            <u>Kok Siew Wai</u>
+            <u>Kok Siew-Wai</u>
           </a>{" "}
           /
           <a href="https://siedlcao.com">
@@ -620,7 +621,7 @@ export default function Home() {
           /
           <a href="https://lin-chen-percussion.com">
             {" "}
-            <u>Lin chen</u>
+            <u>Lin Chen</u>
           </a>{" "}
           /
           <a href="https://www.lotteanker.com">
@@ -645,7 +646,7 @@ export default function Home() {
           /
           <a href="https://nguyenthanhthuy.weebly.com">
             {" "}
-            <u>Nguyễn Thanhh Thủy</u>
+            <u>Nguyễn Thanh Thủy</u>
           </a>{" "}
           /
           <a href="https://www.sathecollective.org/about/natalie-alexandra-2/">
@@ -736,6 +737,11 @@ export default function Home() {
           <a href="https://www.youtube.com/@grundtongrundton">
             {" "}
             <u>Tim Tarek-Grund</u>
+          </a>{" "}
+          /
+          <a href="https://utewassermann.com">
+            {" "}
+            <u>Ute Wassermann</u>
           </a>{" "}
           /
           <a href="https://ntu.ccasingapore.org/residency/yuen-chee-wai/">
