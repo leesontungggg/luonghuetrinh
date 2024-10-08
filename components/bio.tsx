@@ -35,19 +35,19 @@ const Bio = () => {
         is a dynamic electroacoustic and multimedia composer and performer.
         Starting her musical journey at age 5, she entered the Vietnam National
         Academy of Music at 13. She earned a Bachelor’s in Jazz Keyboard in
-        2010. She then focused on electroacoustic music, studying with Nguyễn
+        2010. She then focused on electroacoustic music, studying with Vietnamese composer Nguyễn
         Xuân Sơn (SonX). From 2015 to 2018, LƯƠNG received a full scholarship
-        from the German Academic Exchange Service (DAAD) for New Techniques in
+        from the German Academic Exchange Service (DAAD) for program New Techniques in
         Composition, followed by a Master's in Multimedia Composition at
-        Hochschule für Musik & Theater Hamburg under{" "}
+        Hochschule für Musik & Theater Hamburg under teachings of{" "}
         <a href="http://www.georghajdu.de">
           {" "}
-          <u>Prof. Dr. Georg Hajdu</u>
+          <u>Georg Hajdu</u>
         </a>
         ,{" "}
         <a href="http://www.elmar-lampson.de">
           {" "}
-          <u>Prof. Elmar Lampson</u>
+          <u>Elmar Lampson</u>
         </a>
         ,{" "}
         <a href="https://jacobsello.de">
@@ -91,31 +91,29 @@ const Bio = () => {
             celebrating 45 years of German-Vietnamese relations.
             <br />
             <br />
-            LƯƠNG's music has been featured internationally, including Artist of
+            LƯƠNG's music has been featured internationally on radio broadcasts, including Artist of
             the Month on StillStream Radio (USA, 2013), London’s Gwaith Sŵn
-            (UK), and NRK (Norway, 2014, 2015), Yfm and Mx24TV (Ghana, 2022,
-            2023), Italian Public radio - RAI radio 3 - Battiti (2024). She
-            performed at the Mikromusik Festival (2018) organized by Berliner
-            Künstlerprogramm des DAAD and Humboldt Forum Foundation, and
-            broadcast on Deutschlandfunk Kultur, Germany.
+            (UK), and NRK (Norway, 2014 & 2015), Deutschlandfunk Kultur (Germany, 2018), Yfm and Mx24TV (Ghana, 2022,
+            2023), Italian Public radio - RAI radio 3 - Battiti (Italia, 2024).
             <br />
             <br />
             Her work has been showcased across Asia, Europe, Oceania, North
             America, and Africa such as Übersee museum - Bremen, Sprengel museum
-            - Hannover, Berlin Academy of Arts, Center for Art & Media - ZKM
-            Karlsruhe, University of Music, Theater & Media Hanover (Germany);
+            - Hannover, Mikromusik Festival 2018 by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
+            Berlin Academy of Arts, Center for Art & Media - ZKM
+            Karlsruhe, university of Music, Theater & Media Hanover (Germany);
             Sibelius museum - Turku (Findland); Navarre museum - Pamploma
             (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
             Montbéliard (France); Intonal festival, Inter Arts Center - Malmö
             (Sweden); university of Washington - Seattle, California State
             university - Fullerton (USA); The National Network for Equitable
             Library Service (NNELS) - Toronto (Canada); Murate Art District
-            (MAD) - Florence, 33th AngelicA festival - Bologna (Italy);
+            (MAD) - Florence, 33th AngelicA festival 2023 - Bologna (Italy);
             university of Music & Performing Arts Vienna (Austria); Copenhagen
             Jazz festival, Gong festival - Copenhagen, Roskilde university
-            (Denmark); Punkt festival - Kristiansand (Norway); Skálholt church
+            (Denmark); Punkt festival 2015 - Kristiansand (Norway); Skálholt church
             (Iceland); the ARTER/Space for Art - Istanbul (Turkey); ASIAN
-            Meeting festival - Tokyo & Kyoto, OUA Electroacoustic Music festival
+            Meeting festival 2015- Tokyo & Kyoto, OUA Electroacoustic Music festival
             - Osaka University of Art (Japan); Youth Theater - Hanoi, National
             Academy of Music - Hanoi, Ho Chi Minh Conservatory of Music - HCM
             city, Goethe Institut Vietnam, Institut français du Vietnam,
@@ -125,7 +123,7 @@ const Bio = () => {
             University of Philippines (Philippines); The Langgeng Art Foundation
             - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of
             Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance
-            Française d'Accra (Ghana); ...
+            française d'Accra (Ghana); ...
             <br />
             <br />
           </>
