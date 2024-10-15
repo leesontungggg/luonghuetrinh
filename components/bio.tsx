@@ -54,6 +54,11 @@ const Bio = () => {
           {" "}
           <u>Jacob Sello</u>
         </a>
+        ,{" "}
+        <a href="https://www.saschalinolemke.de">
+          {" "}
+          <u>Sascha Lino Lemke</u>
+        </a>
         , and{" "}
         <a href="http://www.alexanderschubert.net">
           {" "}
