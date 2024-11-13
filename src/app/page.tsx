@@ -564,11 +564,6 @@ export default function Home() {
             <u>Henrik Frisk</u>
           </a>{" "}
           /
-          <a href="https://indramenus.bandcamp.com/track/jalmo-angkoro-mati-murko-live-at-sumonar-fest-2020">
-            {" "}
-            <u>Indra Menus aka To Die</u>
-          </a>{" "}
-          /
           <a href="https://zangimusic.wordpress.com/ignaz-schick/">
             {" "}
             <u>Ignaz Schick</u>
@@ -581,7 +576,7 @@ export default function Home() {
           /
           <a href="https://www.instagram.com/indramenus/">
             {" "}
-            <u>Indra Menus</u>
+            <u>Indra Menus aka To Die</u>
           </a>{" "}
           /
           <a href="https://www.iac.lu.se/calendar/jakob-riis-inhabitants-intonal-2024">
