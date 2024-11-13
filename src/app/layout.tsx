@@ -12,7 +12,7 @@ const lato = Lato({
 export const metadata: Metadata = {
   title: "Luong Hue Trinh",
   description:
-    "Vietnamese electroacoustic/multimedia composer & improviser",
+    "Vietnamese multimedia/electroacoustic composer & improviser",
 };
 
 export default function RootLayout({
@@ -32,7 +32,7 @@ export default function RootLayout({
         <meta property="og:url" content="https://www.luonghuetrinh.org/" />
         <meta
           property="og:description"
-          content="Vietnamese electroacoustic/multimedia composer, improviser"
+          content="Vietnamese multimedia/electroacoustic composer & improviser"
         />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />

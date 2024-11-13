@@ -270,6 +270,16 @@ export default function Home() {
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
+      <iframe
+          width="320"
+          height="240"
+          src="https://youtu.be/fxzuH8gyW0k?si=X-7URrP01pLJwB3Z"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen={true}
+          className="w-full h-auto min-h-[240px]"
+        ></iframe>
         <iframe
           width="320"
           height="240"
