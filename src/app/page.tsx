@@ -511,7 +511,7 @@ export default function Home() {
           /
           <a href="http://syrphe.com/c-drik.html">
             {" "}
-            <u>Cedrik Fermont</u>
+            <u>Cedrik Fermont aka Kirdec aka C-drík</u>
           </a>{" "}
           /
           <a href="http://www.claudiachan.ca">
@@ -726,7 +726,7 @@ export default function Home() {
           /
           <a href="https://www.instagram.com/griot_barasuno/">
             {" "}
-            <u>Seidou Barassounon</u>
+            <u>Séidou Barassounon</u>
           </a>{" "}
           /
           <a href="https://nedlandkultur.com">
@@ -736,7 +736,7 @@ export default function Home() {
           /
           <a href="https://www.timodwyer.com">
             {" "}
-            <u>Tim O'Dwyer</u>
+            <u>Timothy O'Dwyer</u>
           </a>{" "}
           /
           <a href="https://www.youtube.com/@grundtongrundton">
