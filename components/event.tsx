@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const events = [
-  `<b>06.03.2025</b> at 20:00: <a style="text-decoration: underline" href="https://www.facebook.com/events/500249499630392?ref=newsfeed"><b>#Camatithu - Nguyễn Thiện Đạo, Tôn Thất Tiết, Lương Huệ Trinh</a></b> at Theatre de Hautepierre, 13 place André Maurois, 67200 Strasbourg, France.`,
+  `<b>06.03.2025</b> at 20:00: <a style="text-decoration: underline" href="https://www.percussionsdestrasbourg.com/date-agenda/camatithu-nguyen-thien-dao-ton-that-tiet-luong-hue-trinh/"><b>#Camatithu - Nguyễn Thiện Đạo, Tôn Thất Tiết, Lương Huệ Trinh</a></b> at Theatre de Hautepierre, 13 place André Maurois, 67200 Strasbourg, France.`,
   `<b>17.12.2024</b> at 19:00: <a style="text-decoration: underline" href="https://www.facebook.com/ateliersixpointcinq"><b>#Nice NICE</a></b> at Atelier 6.5, n°. 6 rue Fontaine de la Ville, 06000 Nice, France.`,
   `<b>13.12.2024</b> at 20:00: <a style="text-decoration: underline" href="https://www.compagnie-antipodes.com"><b>#LES TRANSVERSALES</a></b> at [STUDIO ANTIPODES] - Le 109, Pôle des Cultures Contemporaines, 89 route de Turin, 06300 Nice, France.`,
   `<b>13.10.2024</b> at 19:00: <a style="text-decoration: underline" href=""><b>#Concert-Surprise</a></b> - 50th Festival Neue Musik at Orchesterstudio, Hochschule für Musik und Theater Hamburg (HfMT), Harvestehuder Weg 12, 20148 Hamburg, Germany.`,
