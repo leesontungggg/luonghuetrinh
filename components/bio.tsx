@@ -10,19 +10,14 @@ const Bio = () => {
         <b>
           <i>LƯƠNG Huệ Trinh</i>
         </b>{" "}
-        is a dynamic electroacoustic and multimedia composer and performer. She
-        initially studied Jazz Keyboard at the Vietnam National Academy of
-        Music, and later, has focused on electroacoustic music. She received a
-        prestigious full scholarship from the German Academic Exchange Service
-        (DAAD) to study New Techniques in Composition, followed by a Master's in
-        Multimedia Composition at Hochschule für Musik & Theater Hamburg. Her
-        artistic profile blends traditional and experimental music, visuals,
-        scenography, and site-specific performances. LƯƠNG has collaborated with
-        artists from diverse fields, including contemporary dance, animation,
-        experimental film, video art, poetry, drama, painting performance and
-        installation. Her work has been featured on radio broadcasts and
-        showcased in museums, festivals, universities and others across Asia,
-        Europe, Oceania, North America, and Africa.
+        is a versatile electroacoustic and multimedia composer who masterfully blends traditional and experimental music through composition and improvisation. 
+        Beginning with Jazz Keyboard at the Vietnam National Academy of Music, she expanded into electroacoustic composition and received a prestigious DAAD scholarship, 
+        completing her Master's in Multimedia Composition at Hamburg's Hochschule für Musik & Theater. Her work creates immersive sonic landscapes that transport audiences into unique sound worlds, 
+        enriched by field recordings from her global travels and collaborations with local artists. <br />
+        Dedicated to multi-sensory experiences, she combines music with visual art, scenography, and site-specific performances, expanding the boundaries of sound-space interaction. 
+        LƯƠNG's cross-disciplinary collaborations and innovative approach have garnered international recognition, with her work featured on radio networks and presented at prestigious museums, 
+        festival and universities throughout Asia, Europe, Oceania, North America, and Africa.
+
         <br />
         <br />
         ------------------
