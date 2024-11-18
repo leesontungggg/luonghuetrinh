@@ -10,7 +10,7 @@ const Bio = () => {
         <b>
           <i>LƯƠNG Huệ Trinh </i>
         </b>{" "}
-        is a versatile electroacoustic and multimedia composer who masterfully blends traditional and experimental music 
+        is a versatile electroacoustic and multimedia composer who deftly intergrates traditional and experimental music 
         through composition and improvisation. 
         Beginning with Jazz Keyboard at the Vietnam National Academy of Music, 
         she expanded into electroacoustic composition and received a prestigious DAAD scholarship, 
