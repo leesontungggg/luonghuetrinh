@@ -22,7 +22,7 @@ const Bio = () => {
         Dedicated to multi-sensory experiences, she combines music with visual art, scenography, and site-specific performances, 
         expanding the boundaries of sound-space interaction. 
         LƯƠNG's cross-disciplinary collaborations and innovative approach have garnered international recognition, 
-        with her work featured on radio networks and presented at prestigious museums, 
+        with her work featured on radio networks and presented at renowned museums, 
         festival and universities throughout Asia, Europe, Oceania, North America, and Africa.
 
         <br />
