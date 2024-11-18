@@ -39,7 +39,7 @@ const Bio = () => {
         Her focus then shifted to electroacoustic music under the mentorship of Vietnamese composer Nguyễn Xuân Sơn (SonX). 
         <br />
         <br />
-        From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious DAAD (German Academic Exchange Service) scholarship, 
+        From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious German Academic Exchange Service (DAAD) scholarship, 
         completing New Techniques in Composition and a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg. 
         There, she studied under renowned composers{" "}
         <a href="http://www.georghajdu.de">
