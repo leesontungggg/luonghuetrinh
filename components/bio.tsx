@@ -34,7 +34,7 @@ const Bio = () => {
         <b>
           <i>LƯƠNG Huệ Trinh</i>
         </b>{" "}
-        LƯƠNG Huệ Trinh is a dynamic electroacoustic and multimedia composer and improviser whose musical journey began at age 5. 
+        is a dynamic electroacoustic and multimedia composer and improviser whose musical journey began at age 5. 
         After entering the Vietnam National Academy of Music at 13 in 1998, she earned her Bachelor's in Jazz Keyboard in 2010. 
         Her focus then shifted to electroacoustic music under the mentorship of Vietnamese composer Nguyễn Xuân Sơn (SonX). 
         <br />
