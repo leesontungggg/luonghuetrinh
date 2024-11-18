@@ -13,7 +13,7 @@ const Bio = () => {
         is a versatile electroacoustic and multimedia composer who masterfully blends traditional and experimental music 
         through composition and improvisation. 
         Beginning with Jazz Keyboard at the Vietnam National Academy of Music, 
-        she expanded into electroacoustic music and received a prestigious DAAD scholarship, 
+        she expanded into electroacoustic composition and received a prestigious DAAD scholarship, 
         completing her Master's in Multimedia Composition at Hochschule für Musik und Theater Hamburg. 
         Her work creates immersive sonic landscapes that draw audiences into unique sound worlds, 
         enriched by field recordings from her global travels and collaborations with local artists. 
