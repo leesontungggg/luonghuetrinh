@@ -12,15 +12,15 @@ const Bio = () => {
         </b>{" "}
         is a versatile electroacoustic and multimedia composer who deftly intergrates traditional and experimental music 
         through composition and improvisation. 
-        Beginning with Jazz Keyboard at the Vietnam National Academy of Music, 
-        she expanded into electroacoustic composition and received a prestigious DAAD scholarship, 
-        completing her Master's in Multimedia Composition at Hochschule für Musik und Theater Hamburg. 
+        Beginning with jazz keyboard at the Vietnam National Academy of Music, 
+        she later shifted her focus to electroacoustic composition and received a prestigious DAAD scholarship to
+        complete her Master's in Multimedia Composition at Hochschule für Musik und Theater Hamburg. 
         Her work creates immersive sonic landscapes that draw audiences into unique sound worlds, 
         enriched by field recordings from her global travels and collaborations with local artists. 
         <br />
         <br />
-        Dedicated to multi-sensory experiences, she combines music with visual art, scenography, and site-specific performances, 
-        expanding the boundaries of sound-space interaction. 
+        Interested in multi-sensory experiences, she also combines music with images, scenography, and site-specific performances, 
+        expanding the boundaries of sound-visual-space interaction. 
         LƯƠNG's cross-disciplinary collaborations and innovative approach have garnered international recognition, 
         with her work featured on radio networks worldwide and presented at renowned museums, 
         festivals and universities throughout Asia, Europe, Oceania, North America, and Africa.
