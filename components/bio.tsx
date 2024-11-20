@@ -10,11 +10,11 @@ const Bio = () => {
         <b>
           <i>LƯƠNG Huệ Trinh </i>
         </b>{" "}
-        is a versatile electroacoustic and multimedia composer who deftly intergrates traditional and experimental music 
+        is a versatile electroacoustic and multimedia composer who deftly integrates traditional and experimental music 
         through composition and improvisation. 
         Beginning with jazz keyboard at the Vietnam National Academy of Music, 
         she later shifted her focus to electroacoustic composition and received a prestigious DAAD scholarship to
-        complete her Master's in Multimedia Composition at Hochschule für Musik und Theater Hamburg. 
+        complete her Master's in Multimedia Composition at the Hochschule für Musik und Theater Hamburg. 
         Her work creates immersive sonic landscapes that draw audiences into unique sound worlds, 
         enriched by field recordings from her global travels and collaborations with local artists. 
         <br />
@@ -23,7 +23,7 @@ const Bio = () => {
         expanding the boundaries of sound-visual-space interaction. 
         LƯƠNG's cross-disciplinary collaborations and innovative approach have garnered international recognition, 
         with her work featured on radio networks worldwide and presented at renowned museums, 
-        festivals and universities throughout Asia, Europe, Oceania, North America, and Africa.
+        festivals, and universities throughout Asia, Europe, Oceania, North America, and Africa.
 
         <br />
         <br />
