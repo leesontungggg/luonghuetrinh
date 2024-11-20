@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Interview = () => {
+const Media = () => {
   const [isSeeMore, setIsSeeMore] = useState(false);
   return (
     <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
@@ -409,7 +409,7 @@ const Interview = () => {
             onClick={() => {
               setIsSeeMore(false);
             }}
-            href="#interviews"
+            href="#media"
           >
             See Less...
           </a>
@@ -419,4 +419,4 @@ const Interview = () => {
   );
 };
 
-export default Interview;
+export default Media;

@@ -5,7 +5,7 @@ import ImageViewer from "react-simple-image-viewer";
 import Event from "../../components/event";
 import Compositions from "../../components/compositions";
 import Bio from "../../components/bio";
-import Interview from "../../components/interview";
+import Media from "../../components/media";
 
 const images = [
   "/images/1.jpg",
@@ -114,8 +114,8 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#compositions">
           COMPOSITIONS
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
-          INTERVIEWS
+        <a className="px-8 py-4 hover:bg-white/50" href="#media">
+          MEDIA
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#music">
           MUSIC
@@ -163,8 +163,8 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#interviews">
-                  INTERVIEWS
+                <a className="px-8 py-4 hover:bg-white/50" href="#media">
+                  MEDIA
                 </a>
               </li>
               <li>
@@ -253,13 +253,13 @@ export default function Home() {
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
         style={{ backgroundImage: `url("/images/media.jpg")` }}
-        id="interviews"
+        id="media"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Interviews</p>
+          <p className="text-4xl font-brassiere">Media</p>
         </div>
       </div>
-      <Interview />
+      <Media />
       <div
         id="music"
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
