@@ -10,21 +10,17 @@ const Bio = () => {
         <b>
           <i>LƯƠNG Huệ Trinh </i>
         </b>{" "}
-        is a versatile electroacoustic and multimedia composer who deftly integrates traditional and experimental music 
-        through composition and improvisation. 
-        Beginning with jazz keyboard at the Vietnam National Academy of Music, 
-        she later shifted her focus to electroacoustic composition and received a prestigious DAAD scholarship to
-        complete her Master's in Multimedia Composition at the Hochschule für Musik und Theater Hamburg. 
-        Her work creates immersive sonic landscapes that draw audiences into unique sound worlds, 
-        enriched by field recordings from her global travels and collaborations with local artists. 
+        is a dynamic multimedia Vietnamese composer and improviser who deftly integrates traditional and experimental music. 
+        Initially trained in jazz keyboard in Hanoi, she transitioned to a sophisticated electroacoustic practice, 
+        completing her Master's in Multimedia Composition in Hamburg. Her artistic approach is characterized by cross-cultural artistic exploration, 
+        creating immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels 
+        and collaborations with local artists. Her work extends beyond music, embracing multi-sensory performances that interweave sound with 
+        images, scenography, and site-specific interventions. 
         <br />
         <br />
-        Interested in multi-sensory experiences, she also combines music with images, scenography, and site-specific performances, 
-        expanding the boundaries of sound-visual-space interaction. 
-        LƯƠNG's cross-disciplinary collaborations and innovative approach have garnered international recognition, 
-        with her work featured on radio networks worldwide and presented at renowned museums, 
-        festivals, and universities throughout Asia, Europe, Oceania, North America, and Africa.
-
+        She has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
+        LƯƠNG’s practice has garnered international recognition, with her work featured on global radio networks and presented at 
+        renowned museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
         ------------------
@@ -34,7 +30,7 @@ const Bio = () => {
         <b>
           <i>LƯƠNG Huệ Trinh</i>
         </b>{" "}
-        is a dynamic electroacoustic and multimedia composer and improviser whose musical journey began at age 5. 
+        is a dynamic multimedia Vietnamese composer and electroacoustic improviser whose musical journey began at age 5. 
         After entering the Vietnam National Academy of Music at 13 in 1998, she earned her Bachelor's in Jazz Keyboard in 2010. 
         Her focus then shifted to electroacoustic music under the mentorship of Vietnamese composer Nguyễn Xuân Sơn (SonX). 
         <br />
@@ -69,10 +65,10 @@ const Bio = () => {
         {isSeeMore && (
           <>
             <br />
-            Her artistic approach fuses traditional and experimental music, crafting immersive soundscapes 
+            Her artistic approach intergrates traditional and experimental music, crafting immersive soundscapes 
             that invite audiences to drift through her sonic world. Passionate about collaboration, 
             she frequently partners with local artists wherever she travels, capturing field recordings 
-            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with visual art, 
+            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with images, 
             scenography, and site-specific performances, creating rich multisensory experiences.
             LƯƠNG has forged collaborations across artistic disciplines, including contemporary dance, animation,
             experimental film, video art, poetry, drama, painting performance
