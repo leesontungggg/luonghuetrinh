@@ -8,14 +8,14 @@ const Bio = () => {
         Brief:
         <br />
         <b>
-          <i>LƯƠNG Huệ Trinh </i>
+          <i>LƯƠNG Huệ Trinh  </i>
         </b>{" "}
-        is a dynamic multimedia Vietnamese composer and improviser who deftly integrates traditional and experimental music. 
-        Initially trained in jazz keyboard in Hanoi, she transitioned to a sophisticated electroacoustic practice, 
-        completing her Master's in Multimedia Composition in Hamburg. Her artistic approach is characterized by cross-cultural artistic exploration, 
+        is a dynamic Vietnamese multimedia composer and electroacoustic improviser who deftly integrates traditional and experimental music. 
+        Initially trained in jazz keyboard in Hanoi, she transitioned to electroacoustic composition, 
+        completing her Master's in Multimedia Composition in Hamburg. Her artistic approach is characterized by cross-cultural exploration, 
         creating immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels 
         and collaborations with local artists. Her work extends beyond music, embracing multi-sensory performances that interweave sound with 
-        images, scenography, and site-specific interventions. 
+        images, scenography, and site-specific interventions.
         <br />
         <br />
         She has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
@@ -28,7 +28,7 @@ const Bio = () => {
         Full:
         <br />
         <b>
-          <i>LƯƠNG Huệ Trinh</i>
+          <i>LƯƠNG Huệ Trinh  </i>
         </b>{" "}
         is a dynamic multimedia Vietnamese composer and electroacoustic improviser whose musical journey began at age 5. 
         After entering the Vietnam National Academy of Music at 13 in 1998, she earned her Bachelor's in Jazz Keyboard in 2010. 
@@ -36,7 +36,7 @@ const Bio = () => {
         <br />
         <br />
         From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious German Academic Exchange Service (DAAD) scholarship, 
-        completing New Techniques in Composition and a Master's in Multimedia Composition at Hochschule für Musik & Theater Hamburg. 
+        completing New Techniques in Composition and a Master's in Multimedia Composition at the Hochschule für Musik & Theater Hamburg. 
         There, she studied under renowned composers{" "}
         <a href="http://www.georghajdu.de">
           {" "}
