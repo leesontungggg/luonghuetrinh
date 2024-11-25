@@ -85,7 +85,7 @@ const Bio = () => {
             <br />
             LƯƠNG's music has been featured internationally on broadcasts, including Artist of
             the Month on StillStream radio (USA, 2013); London’s Gwaith Sŵn radio, London Resonance FM 104.4FM 
-            (UK); NRK - The Norwegian Broadcasting Corporation (Norway, 2014 & 2015); 
+            (UK, 2020); NRK - The Norwegian Broadcasting Corporation (Norway, 2014 & 2015); 
             Urban Arts Berlin radio (2016), Deutschlandfunk Kultur (Germany, 2018); Yfm, Mx24TV (Ghana, 2022,
             2023); Italian Public radio - RAI radio 3 - Battiti (Italia, 2024).
             <br />
