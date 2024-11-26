@@ -20,6 +20,16 @@ const compositions = [
           Commissioned for project TRAIECT IV Vietnam by Hannoversche
           Gesellschaft für Neue Musik (Hanover Society for New Music) - Germany.
           <br />`,
+  `<i style="text-decoration: underline"><b>The glance of a fox</i></b> (2023)
+          <br />
+          for accordion and electronics. Duration: 09'
+          <br />
+          Premiere at Alliance français d'Accra - Ghana, and Goethe Institut Ghana.
+          Commissioned by Eva Zöllner.
+          <br />
+          Commissioned for project TRAIECT IV Vietnam by Hannoversche
+          Gesellschaft für Neue Musik (Hanover Society for New Music) - Germany.
+          <br />`,        
   `<i style="text-decoration: underline"><b>SLANTED SILHOUETTES</i></b> (2023) <br />
           for traditional and contemporary music & dance, electronic & acoustic
           music, spokenword poetry & acting, video & scenography. Duration: 90'
