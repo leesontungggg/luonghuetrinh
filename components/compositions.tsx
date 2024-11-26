@@ -25,6 +25,7 @@ const compositions = [
           for accordion and electronics. Duration: 09'
           <br />
           Premiere at Alliance Française Accra - Ghana, Goethe Institut Ghana, and Paretzer Field Music, Ketzin - Germany. 
+          <br />
           Commissioned by accordionist Eva Zöllner.
           <br />`,        
   `<i style="text-decoration: underline"><b>SLANTED SILHOUETTES</i></b> (2023) <br />
