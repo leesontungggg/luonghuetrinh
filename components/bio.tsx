@@ -14,7 +14,7 @@ const Bio = () => {
         Initially trained in jazz keyboard in Hanoi, she transitioned to electroacoustic composition, 
         completing her Master's in Multimedia Composition in Hamburg. Her artistic approach is characterized by cross-cultural exploration, 
         creating immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels 
-        and collaborations with local artists. Her work extends beyond music, embracing multi-sensory performances that interweave sound with 
+        and collaborations with local artists. Her practice extends beyond music, embracing multi-sensory performances that interweave sound with 
         images, scenography, and site-specific interventions.
         <br />
         <br />
