@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const events = [
   `<b>06.03.2025</b> at 20:00: <a style="text-decoration: underline" href="https://www.percussionsdestrasbourg.com/date-agenda/camatithu-nguyen-thien-dao-ton-that-tiet-luong-hue-trinh/"><b>#Camatithu - Nguyễn Thiện Đạo, Tôn Thất Tiết, Lương Huệ Trinh</a></b> at Theatre de Hautepierre, 13 place André Maurois, 67200 Strasbourg, France.`,
-  `<b>16-26.01.2025</b>: <a style="text-decoration: underline" href=""><b>#Medicine Man Orchestra II</a></b> in Cotonou, Benin.`,
+  `<b>16-26.01.2025</b>: <a style="text-decoration: underline" href=""><b>#Project Medicine Man Orchestra II</a></b> in Cotonou, Benin.`,
   `<b>17.12.2024</b> at 19:30: <a style="text-decoration: underline" href="https://fb.me/e/4hCiaHo3J"><b>#Mini Concert</a></b> at Atelier 6.5, n°. 6 rue Fontaine de la Ville, 06000 Nice, France.`,
   `<b>13.12.2024</b> at 20:00: <a style="text-decoration: underline" href="https://www.facebook.com/le109nice/posts/pfbid0R8EqEEgNebc3C6RRiHSDAxhTXcGC6WAxvLjUy8S3zUwA2JWEXb84VxEwWKcy78qfl"><b>#LES TRANSVERSALES #3</a></b> at [STUDIO ANTIPODES] - Le 109, Pôle des Cultures Contemporaines, 89 route de Turin, 06300 Nice, France.`,
   `<b>13.10.2024</b> at 19:00: <a style="text-decoration: underline" href=""><b>#Concert-Surprise</a></b> - 50th Festival Neue Musik at Orchesterstudio, Hochschule für Musik und Theater Hamburg (HfMT), Harvestehuder Weg 12, 20148 Hamburg, Germany.`,
