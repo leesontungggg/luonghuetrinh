@@ -207,7 +207,7 @@ export default function Home() {
         >
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col">
             <p className="text-4xl md:text-6xl font-brassiere -mt-12">
-              <span className="font-brassiere_solid">Luong</span> Hue Trinh
+              <span className="font-charm_solid">Lương</span> Huệ Trinh
             </p>
             <p className="text-md md:text-lg italic mt-3">
               multimedia composer & electroacoustic improviser
