@@ -11,15 +11,14 @@ const Bio = () => {
           LƯƠNG Huệ Trinh  
         </u>{" "}
         is a dynamic Vietnamese multimedia composer and electroacoustic improviser who deftly integrates traditional and experimental music elements. 
-        Initially trained in jazz keyboard in Hanoi, she transitioned to electroacoustic composition, then
-        completing her Master's in Multimedia Composition in Hamburg. Her artistic approach is characterized by cross-cultural exploration, 
+        She completed her Master's in Multimedia Composition at the HfMT Hamburg. Her artistic approach is characterized by cross-cultural exploration, 
         creating immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels 
         and collaborations with local artists. Her practice extends beyond music, embracing multi-sensory performances that interweave sound with 
         images, scenography, and site-specific interventions.
         <br />
         <br />
-        She has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
-        LƯƠNG’s practice has garnered international recognition, with her work featured on global radio networks and presented at 
+        LUONG's has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
+        Her work has garnered international recognition, with her work featured on global radio networks and presented at 
         renowned museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
