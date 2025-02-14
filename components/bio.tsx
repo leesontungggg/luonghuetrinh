@@ -14,7 +14,7 @@ const Bio = () => {
         She completed her Master's in Multimedia Composition at the HfMT Hamburg. Her artistic approach is characterized by cross-cultural exploration, 
         creating immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels 
         and collaborations with local artists. Her practice extends beyond music, embracing multi-sensory performances that interweave sound with 
-        images, scenography, and site-specific interventions.
+        visual, scenography, and site-specific interventions.
         <br />
         <br />
         LUONG has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
