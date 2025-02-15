@@ -17,7 +17,7 @@ const Bio = () => {
         visual, scenography, and site-specific interventions.
         <br />
         <br />
-        LƯƠNG has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
+        LƯƠNG has composed music for theater, dance, installation art, experimental/documentary film, painting performance, and contemporary ensemble works. 
         Her work has garnered international recognition, with her work featured on global radio networks and presented at 
         renowned museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
@@ -67,10 +67,10 @@ const Bio = () => {
             Her artistic approach intergrates traditional and experimental music, crafting immersive soundscapes 
             that invite audiences to drift through her sonic world. Passionate about collaboration, 
             she frequently partners with local artists wherever she travels, capturing field recordings 
-            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with images, 
+            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with visual, 
             scenography, and site-specific performances, creating rich multisensory experiences.
             LƯƠNG has forged collaborations across artistic disciplines, including contemporary dance, animation,
-            experimental film, video art, poetry, drama, painting performance
+            experimental/documentary film, video art, poetry, drama, painting performance
             and installation art etc.
             <br />
             <br />
