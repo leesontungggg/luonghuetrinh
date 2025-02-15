@@ -17,7 +17,7 @@ const Bio = () => {
         visual, scenography, and site-specific interventions.
         <br />
         <br />
-        LUONG has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
+        LƯƠNG has composed music for theater, dance, installation art, experimental film, painting performance, and contemporary ensemble works. 
         Her work has garnered international recognition, with her work featured on global radio networks and presented at 
         renowned museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
