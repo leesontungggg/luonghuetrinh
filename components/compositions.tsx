@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const compositions = [
 `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
-        for three percussionists and tape. Duration: 15'59" <br /> 
+        for three percussionists and tape. Duration: 23' <br /> 
         Premiere at Theatre de Hautepierre, Strasbourg - France.
         <br /> Commissioned by Les Percussions de Strasbourg, France`,      
   `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
