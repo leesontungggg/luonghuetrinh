@@ -10,11 +10,10 @@ const Bio = () => {
         <u>
           LƯƠNG Huệ Trinh  
         </u>{" "}
-        is a dynamic Vietnamese multimedia composer and electroacoustic improviser who deftly integrates traditional and experimental music elements. 
-        She completed her Master's in Multimedia Composition at the HfMT Hamburg. Her artistic approach is characterized by cross-cultural exploration, 
-        creating immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels 
-        and collaborations with local artists. Her practice extends beyond music, embracing multi-sensory performances that interweave sound with 
-        visual, scenography, and site-specific interventions.
+        LƯƠNG Huệ Trinh is a dynamic Vietnamese multimedia composer and electroacoustic improviser who completed her Master's in Multimedia Composition at the HfMT Hamburg, Germany. 
+        Her artistic approach is characterized by cross-cultural exploration, deftly integrating traditional and experimental music elements. 
+        She creates immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels and collaborations with local artists. 
+        Her practice extends beyond music, embracing multi-sensory performances that interweave sound with visual, scenography, and site-specific interventions.
         <br />
         <br />
         LƯƠNG has composed music for theater, dance, installation art, experimental/documentary film, painting performance, and contemporary ensemble works. 
@@ -35,8 +34,8 @@ const Bio = () => {
         <br />
         <br />
         From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious German Academic Exchange Service (DAAD) scholarship, 
-        completing New Techniques in Composition and a Master's in Multimedia Composition at the Hochschule für Musik & Theater Hamburg. 
-        There, she studied under renowned composers{" "}
+        completing New Techniques in Composition and a Master's in Multimedia Composition at the Hochschule für Musik & Theater Hamburg (HfMT). 
+        There, she studied under composers{" "}
         <a href="http://www.georghajdu.de">
           {" "}
           <u>Georg Hajdu</u>
