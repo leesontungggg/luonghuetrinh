@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import { Lato } from "next/font/google";
+import { Lato, Lobster } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -9,10 +9,14 @@ const lato = Lato({
   weight: ["100", "300", "400", "700", "900"],
 });
 
+const lobster = Lobster({
+  subsets: ["latin"],
+  weight: ["400"],
+});
+
 export const metadata: Metadata = {
   title: "Luong Hue Trinh",
-  description:
-    "Vietnamese composer & improviser",
+  description: "Vietnamese composer & improviser",
 };
 
 export default function RootLayout({

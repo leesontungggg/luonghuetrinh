@@ -7,6 +7,13 @@ import Compositions from "../../components/compositions";
 import Bio from "../../components/bio";
 import Media from "../../components/media";
 
+import { Lobster } from "next/font/google";
+
+const lobster = Lobster({
+  subsets: ["latin"],
+  weight: ["400"],
+});
+
 const images = [
   "/images/1.jpg",
   "/images/2.jpg",
@@ -206,7 +213,9 @@ export default function Home() {
           className="w-full h-full absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] bg-fixed bg-para bg-no-repeat bg-[70%] md:bg-center bg-cover"
         >
           <div className="w-full h-full flex items-center justify-center text-white bg-white/25 flex-col">
-            <p className="text-4xl md:text-6xl font-lobster -mt-12">
+            <p
+              className={`text-4xl md:text-6xl font-lobster -mt-12 ${lobster.className}`}
+            >
               <span className="font-lobster_solid">Lương</span> Huệ Trinh
             </p>
             <p className="text-md md:text-lg italic mt-3">
@@ -270,7 +279,7 @@ export default function Home() {
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
-      <iframe
+        <iframe
           width="320"
           height="240"
           src="https://www.youtube.com/embed/fxzuH8gyW0k?si=Rq34iOAeJteB7pnr"
