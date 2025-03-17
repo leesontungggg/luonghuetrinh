@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const compositions = [
 `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
-        for three percussionists and tape. Duration: 15'59" <br /> 
+        for three percussionists and tape. Duration: 23' <br /> 
         Premiere at Theatre de Hautepierre, Strasbourg - France.
         <br /> Commissioned by Les Percussions de Strasbourg, France`,      
   `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
@@ -10,8 +10,7 @@ const compositions = [
           the Future Art Lab - Klangtheater at University of Music and
           Performing Arts, Vienna - Austria.
           <br /> Commissioned for the artistic research project Études for
-          Live-Electronics 2023 - 2025 by Alex Hofmann - Institut für
-          Musikalische Akustik Wienner Kangstil.`,
+          Live-Electronics 2023 - 2025 by Alex Hofmann - Institut für Musikalische Akustik Wienner Kangstil.`,
   `<i style="text-decoration: underline"><b>Đốm</i></b> (2023)
           <br />
           for two voices (traditional Vietnamese singing Ả Đào, experimental),
@@ -200,7 +199,7 @@ const compositions = [
   `<i style="text-decoration: underline"><b>Oblique Light</i></b> (2019)
           <br />
           for traditional Vietnamese singing, percussions, cello, electronics
-          and video. Duration: 9'00
+          and video. Duration: 9'
           <br />
           Commissioned by Institut français du Vietnam - L'Espace for
           Franco-Vietnamese concert "Lettres de Hanoï" in the European Music
@@ -212,7 +211,7 @@ const compositions = [
   `<i style="text-decoration: underline"><b>iel</i></b> (2019)
           <br />
           for pipa, sheng, zhong ruan, guzheng, clarinet, drumset and
-          electronics. Duration: 7'00
+          electronics. Duration: 7'
           <br />
           Commissioned by the SoundBridge IV Contemporary Music festival Malaysia.
           <br />
@@ -229,16 +228,16 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline"><b>Scarlet Nails</i></b> (2019)
           <br />
-          for dan Tranh, rice and fixed media. Duration: 11'00
+          for dan Tranh, objects and fixed media. Duration: 10'
           <br />
           Commissioned by dan Tranh player Nguyễn Thanh Thủy.
           <br />
           Premiered in Intonal festival Malmö - Sweden,  Manzi Art Space Hanoi -
-          Vietnam.
+          Vietnam, Friespel:Halo 2025 Växjö-Sweden
           <br />`,
   `<i style="text-decoration: underline"><b>Traces</i></b> (2018)
           <br />
-          for two percussionists, vocal, electronics and video. Duration: 12’00
+          for two percussionists, vocal, electronics and video. Duration: 12’
           <br />
           World premiered at Hamburg University of Music & Drama/Institut
           français du Vietnam - L'Espace.
@@ -246,7 +245,7 @@ const compositions = [
   `<i style="text-decoration: underline"><b>JiJi</i></b> (2018)
           <br />
           for dan Tranh, violin, cello, flute, bass clarinet, electronics and
-          video. Duration: 7'00
+          video. Duration: 7'
           <br />
           World premiered at Hamburg University of Music & Drama - Germany; Institut
           français du Vietnam - L'Espace, Vietnam National Academy of Music,
@@ -255,14 +254,14 @@ const compositions = [
   `<i style="text-decoration: underline"><b>Red Moon</i></b> (2018)
           <br />
           for a solo performer on Tam-Tam with various tools & live electronics.
-          Duration: 12’00
+          Duration: 12’
           <br />
           World premiered at Hamburg University of Music & Drama - Germany, Institut
           français du Vietnam - L'Espace, Hanoi - Vietnam.
           <br />`,
   `<i style="text-decoration: underline"><b>Departure of a Leaf</i></b> (2018)
           <br />
-          for violin and electronics. Duration: 8'00
+          for violin and electronics. Duration: 8'
           <br />
           Commissioned by Icelandic violinist Halla Steinunn Stefánsdóttir.
           <br />
@@ -275,7 +274,7 @@ const compositions = [
   `<i style="text-decoration: underline"><b>Mater Materia</i></b> (2017)
           <br />
           for fixed Media for the opera “Mater Materia” by Maurice Lenhard.
-          Duration: 16’00
+          Duration: 16’
           <br />
           Commissioned by theatre director Maurice Lenhard.
           <br />
@@ -286,7 +285,7 @@ const compositions = [
           <br />
           Improvised with electronics, e-guitar/electronics, drums/electronics,
           oud/violin/vocal and live video formed by Bjorn Charles Dreyer.
-          Duration: 60'00
+          Duration: 60'
           <br />
           Commissioned by wESTAMAN project.
           <br />
@@ -306,7 +305,7 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline"><b>Behind The Mirror</i></b> (2016)
           <br />
-          for fretless e-guitar, fixed media and video. Duration: 9’00
+          for fretless e-guitar, fixed media and video. Duration: 9’
           <br />
           World premiered at Hamburg University of Music & Drama, the 42th Neue Musik festival Lüneburg, Portrait
           Concert: Luong Hue Trinh in the 43th Neue Musik festival Lüneburg,
@@ -318,7 +317,7 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline"><b>Return II</i></b> (2016)
           <br />
-          Fixed Media for the album “Illusions”. Duration: 15’00
+          Fixed Media for the album “Illusions”. Duration: 15’
           <br />
           Published by label Pan y Rosas, Chicago - USA; in audio book “Wenjack”
           for people with disabilities, published by The National Network for
@@ -356,7 +355,7 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline"><b>Reflection</i></b> (2015)
           <br />
-          for live electronics, dan tranh and guitar. Duration: 11'00
+          for live electronics, dan tranh and guitar. Duration: 11'
           <br />
           Commisioned by DomDom Center.
           <br />
@@ -384,7 +383,7 @@ const compositions = [
   `<i style="text-decoration: underline"><b>Black Moon</i></b> (2014)
           <br />
           Fixed Media for the “Asia Experimental Music Current Project - Artist of
-          the Month, July”. Duration: 18'00
+          the Month, July”. Duration: 18'
           <br />
           Commissioned by Shanghai Rockbund Art Museum.
           <br />
@@ -393,7 +392,7 @@ const compositions = [
           <br />`,
   `<i style="text-decoration: underline"><b>Tò Vò</i></b> (2013)
           <br />
-          Fixed Media. Duration: 10’00
+          Fixed Media. Duration: 10’
           <br />
           Premiered at Hanoi Rock City, Vietnam, in the album “Synthesis Vol. 1”
           (2014) – a compilation of sound works by female composers in the
@@ -413,7 +412,7 @@ const compositions = [
           composer SonX.
           <br />
           Fixed media & installation for exhibition “Riverscapes IN FLUX”.
-          Duration: 16’00
+          Duration: 16’
           <br />
           Commissioned by Goethe Institut Vietnam - Hanoi. 
           <br />
