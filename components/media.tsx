@@ -15,6 +15,22 @@ const Media = () => {
         >
           <a
             className="underline cursor-pointer"
+            href="https://genevieve-charras.blogspot.com/2025/03/camatithu-nguyen-thien-ao-ton-that-tiet.html?m=1&fbclid=IwY2xjawJGvVpleHRuA2FlbQIxMQABHZ3HuELU7PPfTtSOEhcH1eiKvQjno8l0-x7b4H4kEDcim_PU1WFRSwxbrg_aem_3akLxkhGmYPbvR4ruJtwfQ"
+          >
+            <b>"Camatithu" Nguyễn Thiên Đạo, Tôn Thất Tiết, Lương Huệ Trinh: un triptyque percutant qui distille la temporalité en rivière et rizière mythiques</b>
+          </a>{" "}
+          -  Geneviève Charras (FRE) - 2025{" "}
+        </li>
+      <li
+          className="list-disc py-4"
+          style={{
+            listStyleType: "disc",
+            paddingTop: "16px",
+            paddingBottom: "16px",
+          }}
+        >
+          <a
+            className="underline cursor-pointer"
             href="https://thethaovanhoa.vn/cuoc-gap-go-giua-a-dao-dan-bau-va-nhac-dien-tu-20240125070333158.htm?fbclid=IwZXh0bgNhZW0CMTAAAR272FGDv-3JUwTb_vCIGuJdnlDF3IdMP556aoOaHr9lpqQMfXeCPJ89uuw_aem_IlYglqkeyxvqwGj3LYJBxg"
           >
             <b>Cuộc gặp gỡ giữa Ả Đào, đàn Bầu và nhạc điện tử</b>
