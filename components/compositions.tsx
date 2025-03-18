@@ -4,8 +4,8 @@ const compositions = [
 `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
         for three percussionists and tape. Duration: 23' <br /> 
         Premiere at Theatre de Hautepierre, Strasbourg - France.
-        <br /> Commissioned by Les Percussions de Strasbourg, France`
-        supported by the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation,      
+        <br /> Commissioned by Les Percussions de Strasbourg, France
+        supported by the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.`,      
   `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
           for Grain~bau solo. Duration: 9'30" <br /> Premiere at Showcase Concert at
           the Future Art Lab - Klangtheater at University of Music and
