@@ -17,7 +17,7 @@ const Media = () => {
             className="underline cursor-pointer"
             href="https://genevieve-charras.blogspot.com/2025/03/camatithu-nguyen-thien-ao-ton-that-tiet.html?m=1&fbclid=IwY2xjawJGvVpleHRuA2FlbQIxMQABHZ3HuELU7PPfTtSOEhcH1eiKvQjno8l0-x7b4H4kEDcim_PU1WFRSwxbrg_aem_3akLxkhGmYPbvR4ruJtwfQ"
           >
-            <b>"Camatithu" Nguyễn Thiên Đạo, Tôn Thất Tiết, Lương Huệ Trinh: un triptyque percutant qui distille la temporalité en rivière et rizière mythiques</b>
+            <b>"Camatithu" Nguyễn Thiện Đạo, Tôn Thất Tiết, Lương Huệ Trinh: un triptyque percutant qui distille la temporalité en rivière et rizière mythiques</b>
           </a>{" "}
           -  Geneviève Charras (FRE) - 2025{" "}
         </li>
