@@ -3,20 +3,17 @@ import { useState } from "react";
 const compositions = [
 `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
         for three percussionists and tape. Duration: 23' <br /> 
-        Premiere at Theatre de Hautepierre, Strasbourg - France.
-        <br /> Commissioned by Les Percussions de Strasbourg, France <br />
-        supported by the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.`,      
+        Performed at Theatre de Hautepierre, Strasbourg - France.
+        <br /> Commissioned by Les Percussions de Strasbourg with the support of the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.<br />`,      
   `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
-          for Grain~bau solo. Duration: 9'30" <br /> Premiere at Showcase Concert at
-          the Future Art Lab - Klangtheater at University of Music and
-          Performing Arts, Vienna - Austria.
-          <br /> Commissioned for the artistic research project Études for
-          Live-Electronics 2023 - 2025 by Alex Hofmann - Institut für Musikalische Akustik Wienner Kangstil.`,
+          for Grain~bau solo. Duration: 9'30" <br /> 
+          Performed at Showcase Concert at the Future Art Lab - Klangtheater at University of Music and Performing Arts, Vienna - Austria. <br /> 
+          Commissioned for the artistic research project Études for Live-Electronics 2023 - 2025 by Alex Hofmann - Institut für Musikalische Akustik Wienner Kangstil.`,
   `<i style="text-decoration: underline"><b>Đốm</i></b> (2023)
           <br />
           for two voices (traditional Vietnamese singing Ả Đào, experimental),
           Phách (wooden block), đàn Bầu, electronics, video & two performers. Duration: 10'
-          <br />
+          <br />s
           Premiere at Sprengel Museum - Hannover, Overseas Museum - Bremen,
           Academy of Arts - Berlin, Germany; 
           MotPlus - Saigon, 22 Hàng Buồm Cuture and Arts Center - Hanoi, Ồ Ạt Oh Art festival 2024 - Saigon, Vietnam. 
