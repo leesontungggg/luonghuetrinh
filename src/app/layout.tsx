@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import { Lato, Lobster } from "next/font/google";
+import { Lato, Lobster, Alegreya } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -12,6 +12,11 @@ const lato = Lato({
 const lobster = Lobster({
   subsets: ["latin"],
   weight: ["400"],
+});
+
+const alegreya = Alegreya({
+  subsets: ["latin"],
+  weight: ["400", "700", "900"],
 });
 
 export const metadata: Metadata = {
@@ -60,7 +65,10 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body style={{ backgroundColor: "#ffffff" }} className={lato.className}>
+      <body
+        style={{ backgroundColor: "#ffffff" }}
+        className={alegreya.className}
+      >
         {children}
       </body>
     </html>

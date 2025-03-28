@@ -235,7 +235,7 @@ export default function Home() {
         id="bio"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Bio</p>
+          <p className="text-4xl ">Bio</p>
         </div>
       </div>
       <Bio />
@@ -245,7 +245,7 @@ export default function Home() {
         id="events"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Events</p>
+          <p className="text-4xl ">Events</p>
         </div>
       </div>
       <Event />
@@ -255,7 +255,7 @@ export default function Home() {
         id="compositions"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Compositions</p>
+          <p className="text-4xl ">Compositions</p>
         </div>
       </div>
       <Compositions />
@@ -265,7 +265,7 @@ export default function Home() {
         id="media"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Media</p>
+          <p className="text-4xl ">Media</p>
         </div>
       </div>
       <Media />
@@ -275,7 +275,7 @@ export default function Home() {
         style={{ backgroundImage: `url("/images/p11.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Music</p>
+          <p className="text-4xl ">Music</p>
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative grid grid-cols-1 lg:grid-cols-3 bg-white py-8 lg:py-32 px-8 lg:px-72 gap-4">
@@ -436,7 +436,7 @@ export default function Home() {
         style={{ backgroundImage: `url("/images/gallery.jpg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Gallery</p>
+          <p className="text-4xl ">Gallery</p>
         </div>
       </div>
       <div className="w-full min-h-screen h-fit relative bg-white lg:py-32 py-8 px-8 lg:px-72 gap-4 flex flex-col items-center text-black">
@@ -460,7 +460,7 @@ export default function Home() {
         id="collabs"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl font-brassiere">Collabs</p>
+          <p className="text-4xl ">Collabs</p>
         </div>
       </div>
       <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
@@ -814,7 +814,7 @@ export default function Home() {
         style={{ backgroundImage: `url("/images/p10-min.jpeg")` }}
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <h3 className="text-4xl font-brassiere">Contact</h3>
+          <h3 className="text-4xl ">Contact</h3>
         </div>
       </div>
       <div className="w-[100%] h-fit relative bg-white pt-32 pb-4 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
