@@ -7,9 +7,9 @@ const Bio = () => {
       <p className="mt-8 text-[#777777]">
         Brief:
         <br />
-        <u>
+        <b>
           LƯƠNG Huệ Trinh  
-        </u>{" "}
+        </b>{" "}
         is a dynamic Vietnamese multimedia composer and electroacoustic improviser who studied Multimedia Composition at the HfMT Hamburg-Germany, via the DAAD scholarship. 
         Her artistic approach is characterized by cross-cultural and sound texture exploration, deftly integrating traditional and experimental music elements. 
         She creates immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels and collaborations with local artists. 
@@ -25,9 +25,9 @@ const Bio = () => {
         <br />
         Full:
         <br />
-        <u>
+        <b>
           LƯƠNG Huệ Trinh  
-        </u>{" "}
+        </b>{" "}
         is a dynamic multimedia Vietnamese composer and electroacoustic improviser whose musical journey began at age 5. 
         After entering the Vietnam National Academy of Music at 13 in 1998, she earned her Bachelor's in Jazz Keyboard in 2010. 
         Her focus then shifted to electroacoustic music under the mentorship of Vietnamese composer Nguyễn Xuân Sơn (SonX). 
