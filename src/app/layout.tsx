@@ -16,7 +16,7 @@ const lobster = Lobster({
 
 const alegreya = Alegreya({
   subsets: ["latin"],
-  weight: ["400", "700", "900"],
+  weight: ["500", "800", "900"],
 });
 
 export const metadata: Metadata = {
