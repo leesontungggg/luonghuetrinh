@@ -3,8 +3,10 @@ import { useState } from "react";
 const compositions = [
 `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
         for three percussionists and tape. Duration: 23' <br /> 
+        Commissioned by Les Percussions de Strasbourg with the support of the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.
+        <br />
         Performed at Theatre de Hautepierre, Strasbourg - France.
-        <br /> Commissioned by Les Percussions de Strasbourg with the support of the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.<br />`,      
+        <br />`,      
   `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
           for Grain~bau solo. Duration: 9'30" 
           <br /> 
