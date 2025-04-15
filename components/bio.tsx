@@ -3,7 +3,7 @@ import { useState } from "react";
 const Bio = () => {
   const [isSeeMore, setIsSeeMore] = useState(false);
   return (
-    <div className="h-fit w-full flex justify-center items-center bg-white py-8 xl:py-32 px-8 xl:px-72 flex-col">
+    <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col">
       <p className="mt-8 text-[#777777]">
         Brief:
         <br />
