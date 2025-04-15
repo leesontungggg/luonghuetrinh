@@ -235,7 +235,7 @@ export default function Home() {
         id="bio"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-5xl ">Bio</p>
+          <p className="text-4xl ">Bio</p>
         </div>
       </div>
       <Bio />
