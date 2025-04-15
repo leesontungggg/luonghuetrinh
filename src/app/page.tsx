@@ -218,10 +218,10 @@ export default function Home() {
             >
               <span className="font-lobster_solid">Lương</span> Huệ Trinh
             </p>
-            <p className="text-md md:text-lg mt-3">
+            <p className="text-md md:text-xl italic mt-3">
               multimedia composer & electroacoustic improviser
             </p>
-            <p className="text-md md:text-lg">organizer & producer</p>
+            <p className="text-md md:text-lg italic">organizer & producer</p>
           </div>
         </div>
       </div>
@@ -463,7 +463,7 @@ export default function Home() {
           <p className="text-4xl ">Collabs</p>
         </div>
       </div>
-      <div className="w-[100%] min-h-screen h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
+      <div className="w-[100%] h-fit relative bg-white py-32 px-8 lg:px-72 gap-4 flex flex-col items-left text-[#777777]">
         <p>
           <b>
             <i>
