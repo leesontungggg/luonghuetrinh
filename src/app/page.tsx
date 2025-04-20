@@ -892,7 +892,7 @@ export default function Home() {
           <br />
           <b>Copyright</b>
           <br />
-          © 2025, <br />
+          © 2025 <br />
           All rights reserved
           <br />
           The content of this website is protected by international copyright
