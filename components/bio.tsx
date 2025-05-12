@@ -10,15 +10,16 @@ const Bio = () => {
         <b>
           LƯƠNG Huệ Trinh  
         </b>{" "}
-        is a dynamic Vietnamese multimedia composer and electroacoustic improviser who studied Multimedia Composition at the HfMT Hamburg-Germany via the DAAD scholarship. 
-        Her artistic approach is characterized by cross-cultural and sound texture exploration, deftly integrating traditional and experimental music elements. 
-        She creates immersive sonic landscapes that draw listeners into unique sound worlds, enriched by field recordings from her global travels and collaborations with local artists. 
-        Her practice extends beyond music, embracing multi-sensory performances that interweave sound with visual, scenography, and site-specific interventions.
+        is a dynamic Vietnamese multimedia composer and electroacoustic improviser who studied at HfMT Hamburg-Germany on a DAAD scholarship. 
+        Her cross-cultural approach integrates traditional and experimental music elements, creating immersive sonic worlds enriched by global field recordings. 
+        Through custom digital processing, she transforms environmental sounds into multi-layered textured compositions that balance recognition with abstraction, 
+        while using physical objects as both sound sources and visual elements, creating meaningful connections between sound and cultural context.
         <br />
         <br />
-        LƯƠNG has composed music for theater, dance, installation art, experimental/documentary film, painting performance, and contemporary ensemble works. 
-        Her creations have garnered international recognition, featured on global radio networks and performed at 
-        renowned museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
+        LƯƠNG views sound as a vehicle for cultural memory and environmental awareness rather than merely an aesthetic medium. 
+        Her practice spans multi-sensory performances that interweave sound with visual elements, scenography, and site-specific interventions. 
+        She has composed music for theater, dance, installations, experimental/documentary films, painting performances, and contemporary ensembles. 
+        Her distinctive artistic voice has earned international acclaim through radio networks and performances at museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
         ------------------
