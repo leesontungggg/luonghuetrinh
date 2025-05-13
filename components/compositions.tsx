@@ -114,7 +114,7 @@ const compositions = [
           Isherwood
           <br />
           World premiere tour at Theatre of University of Navarre Museum, Pamploma - Spain; 
-          Conservatorio Luigi Cherubini, Florence - Italy; University of
+          Murate Art District - MAD, Florence - Italy; University of
           Washington - Seattle, California State University, Fullerton - USA;
           La Scène Numérique, Montbéliard - France.
           <br />`,
