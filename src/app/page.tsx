@@ -226,8 +226,7 @@ export default function Home() {
         </div>
       </div>
       <div className="h-[150px] w-full flex justify-center items-center bg-white italic text-[#777777] text-sm lg:text-lg px-7">
-        "Music is my inner voice,
-        <br /> expressing deep emotions and thoughts."
+        "Music is my inner voice, translating the depths of my emotions and thoughts into sound."
       </div>
       <div
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
@@ -467,8 +466,7 @@ export default function Home() {
         <p>
           <b>
             <i>
-              Composers, Performers & Conductors I have had pleasure to work
-              with:
+            Distinguished Musical Collaborators: 
             </i>
           </b>
           <br />
@@ -481,6 +479,16 @@ export default function Home() {
           <a href="https://iwk.mdw.ac.at/hofmann/">
             {" "}
             <u>Alex Hofmann</u>
+          </a>{" "}
+          /
+          <a href="https://www.aaronbebe.com/index.php/biography">
+            {" "}
+            <u>Aaron Bebe Sukura</u>
+          </a>{" "}
+          /
+          <a href="https://www.koktailmagazine.com/the-future-list/anothai-nitibhon/">
+            {" "}
+            <u>Anothai Nitibhon</u>
           </a>{" "}
           /
           <a href="https://music.youtube.com/channel/UCC1t8mZhR0mA_PjPYtOAvnQ">
@@ -633,6 +641,11 @@ export default function Home() {
             <u>Kok Siew-Wai</u>
           </a>{" "}
           /
+          <a href="https://vi.wikipedia.org/wiki/L%C3%AA_Phi_Phi">
+            {" "}
+            <u>Le Phi Phi (FiFi) </u>
+          </a>{" "}
+          /
           <a href="https://siedlcao.com">
             {" "}
             <u>Lan Cao & Gregor Siedl</u>
@@ -666,6 +679,16 @@ export default function Home() {
           <a href="https://nguyenthanhthuy.weebly.com">
             {" "}
             <u>Nguyễn Thanh Thủy</u>
+          </a>{" "}
+          /
+           <a href="https://hanoigrapevine.com/vi/2019/07/son-x-approach-experimental-music-empty-mind">
+            {" "}
+            <u>Nguyễn Xuân Sơn (SonX)</u>
+          </a>{" "}
+          /
+          <a href="https://en.wikipedia.org/wiki/Qu%E1%BB%91c_Trung">
+            {" "}
+            <u>Nguyễn Quốc Trung</u>
           </a>{" "}
           /
           <a href="https://www.sathecollective.org/about/natalie-alexandra-2/">
@@ -807,6 +830,63 @@ export default function Home() {
           </a>
           <br />
           <br />
+          <b>
+            <i>
+            Artistic Cross-Disciplinary Collaborations: 
+            </i>
+          </b>
+          <br />
+          <br />
+           <a href="https://vcad.org.vn/vi/artists/le-huy-hoang-vi/">
+            {" "}
+            <u>Bopha Xorigia Lê Huy Hoàng</u>
+          </a>{" "}
+          / 
+          <a href="https://www.compagnie-antipodes.com/pr%C3%A9sentation">
+            {" "}
+            <u>Lisie Philip</u>
+          </a>{" "}
+          /
+          <a href="https://www.lebrothers.net">
+            {" "}
+            <u>Le Brothers</u>
+          </a>{" "}
+          /
+          <a href="https://independent.academia.edu/ilenzi">
+            {" "}
+            <u>Iola Lenzi</u>
+          </a>{" "}
+          /
+          <a href="https://www.ioichoi.com">
+            {" "}
+            <u>ioi Choi</u>
+          </a>{" "}
+          /
+          <a href="https://www.rmit.edu.vn/profiles/n/giang-nguyenhoang">
+            {" "}
+            <u>Nguyễn Hoàng Giang</u>
+          </a>{" "}
+          / 
+          <a href="https://nguyentrinhthi.wordpress.com">
+            {" "}
+            <u>Nguyễn Trinh Thi</u>
+          </a>{" "}
+          /
+           <a href="https://vov.vn/van-hoa/mua-duong-dai-dac-quanh-chat-tuong-trong-vo-than-cua-bien-dao-mua-duy-thanh-850528.vov">
+            {" "}
+            <u>Nguyễn Duy Thành</u>
+          </a>{" "}
+          /
+          <a href="https://www.pinabausch.org/person/shelly_ohene-nyako">
+            {" "}
+            <u>Shelly Ohene Nyako</u>
+          </a>{" "}
+          /
+          <a href="https://artworlddatabase.com/portfolio/tran-luong">
+            {" "}
+            <u>Tran Luong</u>
+          </a>{" "}
+          /
         </p>
       </div>
       <div
