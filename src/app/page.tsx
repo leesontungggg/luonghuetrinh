@@ -832,7 +832,7 @@ export default function Home() {
           <br />
           <b>
             <i>
-            Artistic Cross-Disciplinary Collaborations: 
+            Artistic Cross-Disciplinary Collaborators: 
             </i>
           </b>
           <br />
