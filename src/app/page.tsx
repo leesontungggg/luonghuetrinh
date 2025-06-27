@@ -902,7 +902,7 @@ export default function Home() {
             <u>Trần Lương</u>
           </a>{" "}
           /
-          ...
+          updating...
         </p>
       </div>
       <div
