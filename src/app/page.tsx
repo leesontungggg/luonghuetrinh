@@ -491,6 +491,11 @@ export default function Home() {
             <u>Anothai Nitibhon</u>
           </a>{" "}
           /
+           <a href="https://sunsymphony.vn/en/about-us">
+            {" "}
+            <u>Kyle Acuncius</u>
+          </a>{" "}
+          /
           <a href="https://music.youtube.com/channel/UCC1t8mZhR0mA_PjPYtOAvnQ">
             {" "}
             <u>Andrea Neumann</u>
@@ -837,6 +842,11 @@ export default function Home() {
           </b>
           <br />
           <br />
+          <a href="https://www.acorpsdart.com/about-5">
+            {" "}
+            <u>Aurélia Zabal</u>
+          </a>{" "}
+          / 
            <a href="https://vcad.org.vn/vi/artists/le-huy-hoang-vi/">
             {" "}
             <u>Bopha Xorigia Lê Huy Hoàng</u>
@@ -882,9 +892,14 @@ export default function Home() {
             <u>Shelly Ohene Nyako</u>
           </a>{" "}
           /
+          <a href="https://www.muenchner-kammerspiele.de/en/wir/39414-koffi-kegou-afiadegnigban">
+            {" "}
+            <u>Koffi-Kégou Afiadegnigban</u>
+          </a>{" "}
+          /
           <a href="https://artworlddatabase.com/portfolio/tran-luong">
             {" "}
-            <u>Tran Luong</u>
+            <u>Trần Lương</u>
           </a>{" "}
           /
           ...
