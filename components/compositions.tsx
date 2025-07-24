@@ -146,7 +146,7 @@ const compositions = [
           <br />
           Commissioned by Goethe Institut Vietnam.
           <br />
-          Online performance from 4 countries and a live performance at Goethe Institut Vietnam in Hanoi.
+          A network live performance among Vietnam, Ghana, France, Germany and Switzerland. 
           <br />`,
   `<i style="text-decoration: underline"><b>Heave/Phập phồng</i></b> (2021)
           <br />

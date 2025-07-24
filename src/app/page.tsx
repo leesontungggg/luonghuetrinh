@@ -566,11 +566,6 @@ export default function Home() {
             <u>Eva Zöllner</u>
           </a>{" "}
           /
-          <a href="https://www.miasmah.com/eks/index.html">
-            {" "}
-            <u>Erik K Skodvin aka Miasmah</u>
-          </a>{" "}
-          /
           <a href="http://www.georghajdu.de">
             {" "}
             <u>Georg Hajdu</u>
@@ -648,7 +643,7 @@ export default function Home() {
           /
           <a href="https://vi.wikipedia.org/wiki/L%C3%AA_Phi_Phi">
             {" "}
-            <u>Le Phi Phi (FiFi) </u>
+            <u>Lê Phi Phi (FiFi) </u>
           </a>{" "}
           /
           <a href="https://siedlcao.com">
@@ -736,11 +731,6 @@ export default function Home() {
             <u>Peter Veale</u>
           </a>{" "}
           /
-          <a href="https://teamsachikom.wixsite.com/sachiko-m">
-            {" "}
-            <u>Sachiko M</u>
-          </a>{" "}
-          /
           <a href="https://sabineercklentz.com">
             {" "}
             <u>Sabine Ercklentz</u>
@@ -805,7 +795,8 @@ export default function Home() {
             {" "}
             <u>Yong Yansend</u>
           </a>{" "}
-          / ...
+          / 
+          updating...
           <br />
           <br />
           <br />
