@@ -247,7 +247,7 @@ export default function Home() {
               <span className="font-lobster_solid">Lương</span> Huệ Trinh
             </p>
             <p className="text-md md:text-lg mt-3">
-              multimedia composer & electroacoustic improviser
+              multimedia composer & electroacoustics improviser
             </p>
             <p className="text-md md:text-lg">organizer & producer</p>
           </div>
