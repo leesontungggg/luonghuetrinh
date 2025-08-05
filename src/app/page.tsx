@@ -589,6 +589,11 @@ export default function Home() {
             <u>DJ Sniff</u>
           </a>{" "}
           /
+          <a href="https://erikhonore.bandcamp.com/album/triage">
+            {" "}
+            <u>Erik Honoré</u>
+          </a>{" "}
+          /
           <a href="http://www.eva-zoellner.de">
             {" "}
             <u>Eva Zöllner</u>
@@ -609,6 +614,11 @@ export default function Home() {
             <u>Henrik Frisk</u>
           </a>{" "}
           /
+          <a href="https://www.orso.co/solisten/holger-roese">
+            {" "}
+            <u>Holger Roese</u>
+          </a>{" "}
+          /
           <a href="https://zangimusic.wordpress.com/ignaz-schick/">
             {" "}
             <u>Ignaz Schick</u>
@@ -622,6 +632,11 @@ export default function Home() {
           <a href="https://www.instagram.com/indramenus/">
             {" "}
             <u>Indra Menus aka To Die</u>
+          </a>{" "}
+          /
+          <a href="https://janbang.org">
+            {" "}
+            <u>Jan Bang</u>
           </a>{" "}
           /
           <a href="https://www.iac.lu.se/calendar/jakob-riis-inhabitants-intonal-2024">
@@ -669,6 +684,11 @@ export default function Home() {
             <u>Kok Siew-Wai</u>
           </a>{" "}
           /
+          <a href="http://jgpercussion.com/portfolio/kyle-acuncius">
+            {" "}
+            <u>Kyle Acuncius</u>
+          </a>{" "}
+          /
           <a href="https://vi.wikipedia.org/wiki/L%C3%AA_Phi_Phi">
             {" "}
             <u>Lê Phi Phi (FiFi) </u>
@@ -694,44 +714,19 @@ export default function Home() {
             <u>Lukas Ligeti</u>
           </a>{" "}
           /
-          <a href="http://www.nicholasisherwood.com">
+          <a href="https://marijanajanevska.com">
             {" "}
-            <u>Nicholas Isherwood</u>
-          </a>{" "}
-          /
-          <a href="https://www.youtube.com/@tramyngo2403">
-            {" "}
-            <u>Ngô Trà My</u>
-          </a>{" "}
-          /
-          <a href="https://nguyenthanhthuy.weebly.com">
-            {" "}
-            <u>Nguyễn Thanh Thủy</u>
-          </a>{" "}
-          /
-           <a href="https://hanoigrapevine.com/vi/2019/07/son-x-approach-experimental-music-empty-mind">
-            {" "}
-            <u>Nguyễn Xuân Sơn (SonX)</u>
-          </a>{" "}
-          /
-          <a href="https://en.wikipedia.org/wiki/Qu%E1%BB%91c_Trung">
-            {" "}
-            <u>Nguyễn Quốc Trung</u>
-          </a>{" "}
-          /
-          <a href="https://www.sathecollective.org/about/natalie-alexandra-2/">
-            {" "}
-            <u>Natalie Alexandra Tse</u>
-          </a>{" "}
-          /
-          <a href="https://www.minhtamnguyen.com">
-            {" "}
-            <u>Minh-Tâm Nguyen</u>
+            <u>Marijana Janevska</u>
           </a>{" "}
           /
           <a href="https://www.donosovera.de/en-gb">
             {" "}
             <u>Martín Donoso Vera </u>
+          </a>{" "}
+          /
+          <a href="https://www.minhtamnguyen.com">
+            {" "}
+            <u>Minh-Tâm Nguyen</u>
           </a>{" "}
           /
           <a href="https://playingforchange.org/mohammed-alidu/">
@@ -742,6 +737,46 @@ export default function Home() {
           <a href="https://en.wikipedia.org/wiki/Mohamed_Issa_Haji_%27Matona%27">
             {" "}
             <u>Mohamed Issa Haji 'Matona</u>
+          </a>{" "}
+          /
+           <a href="https://www.sathecollective.org/about/natalie-alexandra-2/">
+            {" "}
+            <u>Natalie Alexandra Tse</u>
+          </a>{" "}
+          /
+          <a href="http://www.nicholasisherwood.com">
+            {" "}
+            <u>Nicholas Isherwood</u>
+          </a>{" "}
+          /
+          <a href="https://www.youtube.com/@tramyngo2403">
+            {" "}
+            <u>Ngô Trà My</u>
+          </a>{" "}
+          /
+          <a href="https://www.galeriequynh.com/artists/48-nguyen-manh-hung">
+            {" "}
+            <u>Nguyễn Mạnh Hùng</u>
+          </a>{" "}
+          /
+          <a href="https://nguyenthanhthuy.weebly.com">
+            {" "}
+            <u>Nguyễn Thanh Thủy</u>
+          </a>{" "}
+          /
+          <a href="https://en.wikipedia.org/wiki/Qu%E1%BB%91c_Trung">
+            {" "}
+            <u>Nguyễn Quốc Trung</u>
+          </a>{" "}
+          /
+          <a href="https://hanoigrapevine.com/vi/2019/07/son-x-approach-experimental-music-empty-mind">
+            {" "}
+            <u>Nguyễn Xuân Sơn (SonX)</u>
+          </a>{" "}
+          /
+          <a href="https://www.akwaabamusic.com/blog/osei-korankye-emmere-nhyina-nse-2">
+            {" "}
+            <u>Osei Korankye</u>
           </a>{" "}
           /
           <a href="https://otomoyoshihide.com">
@@ -804,14 +839,29 @@ export default function Home() {
             <u>Tim Tarek-Grund</u>
           </a>{" "}
           /
+          <a href="https://tristanxkoester.com">
+            {" "}
+            <u>Tristan Xavier Köster</u>
+          </a>{" "}
+          /
           <a href="https://utewassermann.com">
             {" "}
             <u>Ute Wassermann</u>
           </a>{" "}
           /
-          <a href="https://ntu.ccasingapore.org/residency/yuen-chee-wai/">
+          <a href="https://www.vera-seedorf.de">
             {" "}
-            <u>Yuen Chee Wai</u>
+            <u>Vera Seedorf</u>
+          </a>{" "}
+          /
+          <a href="https://vunhattangroup.wordpress.com/vu-nhat-tan-group-vntg">
+            {" "}
+            <u>Vu Nhat Tan</u>
+          </a>{" "}
+          /
+          <a href="http://www.yuzmshanghai.org/yin-yi-listening/?lang=en">
+            {" "}
+            <u>Yin Yi</u>
           </a>{" "}
           /
           <a href="http://www.yiikahhoe.com">
@@ -824,6 +874,11 @@ export default function Home() {
             <u>Yong Yansend</u>
           </a>{" "}
           / 
+          <a href="https://ntu.ccasingapore.org/residency/yuen-chee-wai/">
+            {" "}
+            <u>Yuen Chee Wai</u>
+          </a>{" "}
+          /
           updating...
           <br />
           <br />
@@ -861,6 +916,11 @@ export default function Home() {
           </b>
           <br />
           <br />
+          <a href="https://grad.temple.edu/academics/student-alumni-experiences/sena-abigail-atsugah">
+            {" "}
+            <u>Abigail Sena Atsugah</u>
+          </a>{" "}
+          / 
           <a href="https://www.acorpsdart.com/about-5">
             {" "}
             <u>Aurélia Zabal</u>
@@ -871,6 +931,16 @@ export default function Home() {
             <u>Bopha Xorigia Lê Huy Hoàng</u>
           </a>{" "}
           / 
+          <a href="https://danceartsfaculty.com/en/artists-teachers/celia-amade">
+            {" "}
+            <u>Célia Amade</u>
+          </a>{" "}
+          /
+          <a href="https://uqo.ca/profil/delldi01">
+            {" "}
+            <u>Dimitri della Faille</u>
+          </a>{" "}
+          /
           <a href="https://www.compagnie-antipodes.com/pr%C3%A9sentation">
             {" "}
             <u>Lisie Philip</u>
@@ -891,9 +961,19 @@ export default function Home() {
             <u>ioi Choi</u>
           </a>{" "}
           /
+          <a href="https://www.ueberschlagfestival.de/en/news/martin-mutschler#:~:text=Martin%20studied%20Romance%20studies%2C%20Slavic,Capital%20of%20Culture%20in%20Pilsen.">
+            {" "}
+            <u>Martin Muschler</u>
+          </a>{" "}
+          / 
+           <a href="https://www.mauricelenhard.de">
+            {" "}
+            <u>Maủice Lenhard</u>
+          </a>{" "}
+          / 
           <a href="https://mzungnguyen.com">
             {" "}
-            <u>Mzung</u>
+            <u>Mzung Nguyen</u>
           </a>{" "}
           / 
           <a href="https://www.rmit.edu.vn/profiles/n/giang-nguyenhoang">
@@ -901,6 +981,11 @@ export default function Home() {
             <u>Nguyễn Hoàng Giang</u>
           </a>{" "}
           / 
+          <a href="https://danviet.vn/btv-tai-nang-cua-vtv-la-con-cua-nghe-si-nhan-dan-tung-giu-chuc-thu-truong-hieu-truong-mot-truong-dai-hoc-20241106002831232-d1193491.html">
+            {" "}
+            <u>Nguyễn Mỹ Linh</u>
+          </a>{" "}
+          /
           <a href="https://nguyentrinhthi.wordpress.com">
             {" "}
             <u>Nguyễn Trinh Thi</u>
@@ -909,6 +994,11 @@ export default function Home() {
            <a href="https://vov.vn/van-hoa/mua-duong-dai-dac-quanh-chat-tuong-trong-vo-than-cua-bien-dao-mua-duy-thanh-850528.vov">
             {" "}
             <u>Nguyễn Duy Thành</u>
+          </a>{" "}
+          /
+          <a href="https://nguyentheson.com">
+            {" "}
+            <u>Nguyễn Thế Sơn</u>
           </a>{" "}
           /
           <a href="https://www.pinabausch.org/person/shelly_ohene-nyako">
@@ -924,6 +1014,16 @@ export default function Home() {
           <a href="https://artworlddatabase.com/portfolio/tran-luong">
             {" "}
             <u>Trần Lương</u>
+          </a>{" "}
+          /
+          <a href="https://www.galeriequynh.com/artists/40-vo-tran-chau">
+            {" "}
+            <u>Võ Trân Châu</u>
+          </a>{" "}
+          /
+          <a href="https://www.bao-vuong.com">
+            {" "}
+            <u>Bao Vuong</u>
           </a>{" "}
           /
           updating...
