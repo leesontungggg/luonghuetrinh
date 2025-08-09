@@ -639,6 +639,11 @@ export default function Home() {
             <u>Jan Bang</u>
           </a>{" "}
           /
+          <a href="https://www.facebook.com/jacobadjibode7">
+            {" "}
+            <u>Jacob Olamide</u>
+          </a>{" "}
+          /
           <a href="https://www.iac.lu.se/calendar/jakob-riis-inhabitants-intonal-2024">
             {" "}
             <u>Jakob Riis</u>
@@ -931,6 +936,11 @@ export default function Home() {
             <u>Bopha Xorigia Lê Huy Hoàng</u>
           </a>{" "}
           / 
+          <a href="https://www.bao-vuong.com">
+            {" "}
+            <u>Bao Vuong</u>
+          </a>{" "}
+          /
           <a href="https://danceartsfaculty.com/en/artists-teachers/celia-amade">
             {" "}
             <u>Célia Amade</u>
@@ -961,6 +971,11 @@ export default function Home() {
             <u>ioi Choi</u>
           </a>{" "}
           /
+          <a href="https://www.instagram.com/miszfadel/?hl=en">
+            {" "}
+            <u>Jackeline Fadel</u>
+          </a>{" "}
+          /
           <a href="https://www.ueberschlagfestival.de/en/news/martin-mutschler#:~:text=Martin%20studied%20Romance%20studies%2C%20Slavic,Capital%20of%20Culture%20in%20Pilsen.">
             {" "}
             <u>Martin Muschler</u>
@@ -968,12 +983,17 @@ export default function Home() {
           / 
            <a href="https://www.mauricelenhard.de">
             {" "}
-            <u>Maủice Lenhard</u>
+            <u>Maurice Lenhard</u>
           </a>{" "}
           / 
           <a href="https://mzungnguyen.com">
             {" "}
             <u>Mzung Nguyen</u>
+          </a>{" "}
+          / 
+          <a href="https://www.instagram.com/teochronic/?hl=en">
+            {" "}
+            <u>Nela Elle</u>
           </a>{" "}
           / 
           <a href="https://www.rmit.edu.vn/profiles/n/giang-nguyenhoang">
@@ -1001,6 +1021,11 @@ export default function Home() {
             <u>Nguyễn Thế Sơn</u>
           </a>{" "}
           /
+          <a href="https://danviet.vn/dao-dien-phung-ngoc-tu-toi-nhieu-lan-vac-tien-nha-ra-de-lam-phim-20240304202935711-d1148744.html">
+            {" "}
+            <u>Phùng Ngọc Tú</u>
+          </a>{" "}
+          /
           <a href="https://www.pinabausch.org/person/shelly_ohene-nyako">
             {" "}
             <u>Shelly Ohene Nyako</u>
@@ -1019,11 +1044,6 @@ export default function Home() {
           <a href="https://www.galeriequynh.com/artists/40-vo-tran-chau">
             {" "}
             <u>Võ Trân Châu</u>
-          </a>{" "}
-          /
-          <a href="https://www.bao-vuong.com">
-            {" "}
-            <u>Bao Vuong</u>
           </a>{" "}
           /
           updating...
