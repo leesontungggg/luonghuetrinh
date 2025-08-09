@@ -926,6 +926,11 @@ export default function Home() {
             <u>Abigail Sena Atsugah</u>
           </a>{" "}
           / 
+          <a href="https://www.instagram.com/abena_lar/?hl=en">
+            {" "}
+            <u>Adelaide Larbi-Amoah (Abena Larbi)</u>
+          </a>{" "}
+          / 
           <a href="https://www.acorpsdart.com/about-5">
             {" "}
             <u>Aurélia Zabal</u>
