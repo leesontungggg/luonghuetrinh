@@ -861,7 +861,7 @@ export default function Home() {
           /
           <a href="https://vunhattangroup.wordpress.com/vu-nhat-tan-group-vntg">
             {" "}
-            <u>Vu Nhat Tan</u>
+            <u>Vũ Nhật Tân</u>
           </a>{" "}
           /
           <a href="http://www.yuzmshanghai.org/yin-yi-listening/?lang=en">
@@ -963,7 +963,7 @@ export default function Home() {
           /
           <a href="https://www.lebrothers.net">
             {" "}
-            <u>Le Brothers</u>
+            <u>Lê Brothers</u>
           </a>{" "}
           /
           <a href="https://independent.academia.edu/ilenzi">
@@ -1024,11 +1024,6 @@ export default function Home() {
           <a href="https://nguyentheson.com">
             {" "}
             <u>Nguyễn Thế Sơn</u>
-          </a>{" "}
-          /
-          <a href="https://danviet.vn/dao-dien-phung-ngoc-tu-toi-nhieu-lan-vac-tien-nha-ra-de-lam-phim-20240304202935711-d1148744.html">
-            {" "}
-            <u>Phùng Ngọc Tú</u>
           </a>{" "}
           /
           <a href="https://www.pinabausch.org/person/shelly_ohene-nyako">
