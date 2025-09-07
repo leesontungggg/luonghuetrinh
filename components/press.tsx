@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Media = () => {
+const Press = () => {
   const [isSeeMore, setIsSeeMore] = useState(false);
   return (
     <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
@@ -66,7 +66,7 @@ const Media = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/embed/9YcZX-LJrPI"
           >
-            <b>Video: Slanted Silhouettes - a site-specific multimedia project </b>
+            <b>Video-interview: Slanted Silhouettes - a site-specific multimedia project </b>
           </a>{" "}
           - Alliance Française d'Accra, Ghana (ENG) - 2023{" "}
         </li>
@@ -98,7 +98,7 @@ const Media = () => {
             className="underline cursor-pointer"
             href="https://www.youtube.com/embed/uBvfoYRm8Eg"
           >
-            <b>Video: The Vivid Silences -a site-specific multimedia project </b>
+            <b>Video-interview: The Vivid Silences -a site-specific multimedia project </b>
           </a>{" "}
           - Goethe Institut Ghana (ENG) - 2022{" "}
         </li>
@@ -425,7 +425,7 @@ const Media = () => {
             onClick={() => {
               setIsSeeMore(false);
             }}
-            href="#media"
+            href="#press"
           >
             See Less...
           </a>
@@ -435,4 +435,4 @@ const Media = () => {
   );
 };
 
-export default Media;
+export default Press;

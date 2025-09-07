@@ -5,7 +5,7 @@ import ImageViewer from "react-simple-image-viewer";
 import Event from "../../components/event";
 import Compositions from "../../components/compositions";
 import Bio from "../../components/bio";
-import Media from "../../components/media";
+import Press from "../../components/press";
 
 import { Lobster } from "next/font/google";
 
@@ -149,8 +149,8 @@ export default function Home() {
         <a className="px-8 py-4 hover:bg-white/50" href="#compositions">
           COMPOSITIONS
         </a>
-        <a className="px-8 py-4 hover:bg-white/50" href="#media">
-          MEDIA
+        <a className="px-8 py-4 hover:bg-white/50" href="#press">
+          PRESS
         </a>
         <a className="px-8 py-4 hover:bg-white/50" href="#music">
           MUSIC
@@ -198,8 +198,8 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a className="px-8 py-4 hover:bg-white/50" href="#media">
-                  MEDIA
+                <a className="px-8 py-4 hover:bg-white/50" href="#press">
+                  PRESS
                 </a>
               </li>
               <li>
@@ -292,10 +292,10 @@ export default function Home() {
         id="media"
       >
         <div className="absolute left-[50%] top-[50%] -translate-x-[50%] -translate-y-[50%] w-full h-full flex items-center justify-center text-white bg-white/25 flex-col gap-4">
-          <p className="text-4xl ">Media</p>
+          <p className="text-4xl ">Press</p>
         </div>
       </div>
-      <Media />
+      <Press />
       <div
         id="music"
         className="w-full h-[200px] md:h-[400px] relative bg-fixed bg-contain bg-no-repeat bg-center md:bg-cover bg-white"
@@ -624,11 +624,6 @@ export default function Home() {
             <u>Ignaz Schick</u>
           </a>{" "}
           /
-          <a href="https://www.ina-ich.net">
-            {" "}
-            <u>INA-ICH</u>
-          </a>{" "}
-          /
           <a href="https://www.instagram.com/indramenus/">
             {" "}
             <u>Indra Menus aka To Die</u>
@@ -941,11 +936,6 @@ export default function Home() {
             <u>Bopha Xorigia Lê Huy Hoàng</u>
           </a>{" "}
           / 
-          <a href="https://www.bao-vuong.com">
-            {" "}
-            <u>Bao Vuong</u>
-          </a>{" "}
-          /
           <a href="https://danceartsfaculty.com/en/artists-teachers/celia-amade">
             {" "}
             <u>Célia Amade</u>
@@ -1004,11 +994,6 @@ export default function Home() {
           <a href="https://www.rmit.edu.vn/profiles/n/giang-nguyenhoang">
             {" "}
             <u>Nguyễn Hoàng Giang</u>
-          </a>{" "}
-          / 
-          <a href="https://danviet.vn/btv-tai-nang-cua-vtv-la-con-cua-nghe-si-nhan-dan-tung-giu-chuc-thu-truong-hieu-truong-mot-truong-dai-hoc-20241106002831232-d1193491.html">
-            {" "}
-            <u>Nguyễn Mỹ Linh</u>
           </a>{" "}
           /
           <a href="https://nguyentrinhthi.wordpress.com">
