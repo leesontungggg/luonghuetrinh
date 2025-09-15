@@ -1,6 +1,9 @@
 import { useState } from "react";
 
 const events = [
+  `<b>12.12.2025</b> at 20:45: <a style="text-decoration: underline" href=""><b>#Concert</a></b> in Hanoi, Vietnam. More information updated soon!`,
+  `<b>07.12.2025</b> at 20:45: <a style="text-decoration: underline" href=""><b>#Concert</a></b> at Polygon Musik, Hanoi, Vietnam. More information updated soon!`,
+  `<b>28.11.2025</b> at 19:30: <a style="text-decoration: underline" href=""><b>#Music & Dance</a></b> at Dance School at 155Bis Nam Kỳ Khởi Nghĩa, Phường 6, Quận 3, Saigon, Vietnam. More information updated soon!`,
   `<b>20.09.2025</b> at 20:00: <a style="text-decoration: underline" href=""><b>#Timeless Whispers Concert</a></b> at l'Espace Grappelli, 49 avenue de la Marne, 06100 Nice, France.`,
   `<b>01-02.07.2025</b>: <a style="text-decoration: underline" href="https://iwk.mdw.ac.at/mapper-symposium/"><b>#MAPPER – A Symposium on Music Acoustics for Performance Preparation and the Engagement with Repertoire in Live-Electronics</a></b> at Klangtheater at University of Music and Performing Arts Vienna (mdw), Austria.`,
   `<b>01.04.2025</b> at 19:30: <a style="text-decoration: underline" href="https://fb.me/e/4hCiaHo3J"><b>#Shadow of Sound: Electroacoustics and Vietnamese monochord Concert</a></b> with Ngô Trà My at Atelier 6.5, n°. 6 rue Fontaine de la Ville, 06000 Nice, France.`,
