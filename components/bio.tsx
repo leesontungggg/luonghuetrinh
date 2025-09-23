@@ -10,16 +10,15 @@ const Bio = () => {
         <b>
           LƯƠNG Huệ Trinh  
         </b>{" "}
-        is a dynamic Vietnamese multimedia composer and electroacoustic improviser who studied at HfMT Hamburg-Germany on a DAAD scholarship. 
-        Her cross-cultural approach integrates traditional and experimental music elements, creating immersive sonic worlds enriched by global field recordings. 
-        Through custom digital processing, she transforms environmental sounds into multi-layered textured compositions that balance recognition with abstraction, 
-        while using physical objects as both sound sources and visual elements, creating meaningful connections between sound and cultural context.
+        Vietnamese multimedia composer and electroacoustic improviser LƯƠNG Huệ Trinh completed her M.A. at HfMT Hamburg, Germany on a DAAD scholarship. 
+        Sound, for her, serves as a vital vehicle for cultural memory and lived experience, transforming listening into a visceral and poetic journey. 
+        This cross-cultural approach integrates traditional and experimental music elements, creating shimmering sonic worlds enriched by global field recordings. 
+        Through digital processing, she transforms these diverse sources into multi-layered compositions that balance presence with abstraction, connecting the intimate and the universal.
         <br />
         <br />
-        LƯƠNG views sound as a vehicle for cultural memory and environmental awareness rather than merely an aesthetic medium. 
-        Her practice spans multi-sensory performances that interweave sound with visual elements, scenography, and site-specific interventions. 
-        She has composed music for theater, dance, installations, experimental/documentary films, painting performances, and contemporary ensembles. 
-        Her distinctive artistic voice has earned international acclaim through radio networks and performances at museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
+        LƯƠNG's practice ranges from multi-sensory performances that interweave sound with visual elements, scenography, and site-specific works. 
+        She composes music for theater, dance, installations, experimental and documentary films, painting performances, and contemporary ensembles. 
+        International acclaim has followed through radio networks and performances at museums, festivals, and universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
         <br />
         ------------------
