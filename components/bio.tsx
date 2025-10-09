@@ -75,10 +75,10 @@ const Bio = () => {
             <br />
             Her debut album "Illusions" (USA, 2016) received acclaim, named one
             of Avant Music News' Best of 2016 - Albums of the Year. 
-            Her achievements include being honored as Hanoi Grapevine's 'Finest Artist of the Year' (2019) - Hanoi
+            Her achievements include being honored as Hanoi Grapevine's 'Finest Artist of the Year' (Vietnam, 2019) - Hanoi
             Grapevine is the only bi-lingual site for art and cultural events in
-            Vietnam, awarding a Réciprocité residency at Cité Internationale des Arts Paris (2020) by Institut français du Vietnam, 
-            and being recognized as one of 14 notable DAAD Vietnam alumni in celebration of 45 years of German-Vietnamese relations.
+            Vietnam, awarding a Réciprocité residency at Cité Internationale des Arts Paris (France, 2020) by Institut français du Vietnam, 
+            and being recognized as one of 14 notable DAAD Vietnam alumni from 1985 to 2020 in celebration of 45 years of German-Vietnamese relations.
             <br />
             <br />
             LƯƠNG's music has been featured internationally on broadcasts, including Artist of
