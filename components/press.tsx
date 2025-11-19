@@ -3,7 +3,7 @@ import { useState } from "react";
 const Press = () => {
   const [isSeeMore, setIsSeeMore] = useState(false);
   return (
-    <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]">
+    <div className="h-fit w-full flex justify-center items-center bg-white py-8 lg:py-32 px-8 lg:px-72 flex-col text-[#777777]" id="press">
       <ul className="flex flex-col gap-8 w-full">
       <li
           className="list-disc py-4"
