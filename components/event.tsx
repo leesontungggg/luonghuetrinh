@@ -3,7 +3,7 @@ import { useState } from "react";
 const events = [
   `<b>12.12.2025</b> at 20:00: <a style="text-decoration: underline" href=""><b>#Concert Đàn Bầu and beyond</a></b> at Anatolia, 7 Ngõ 437/2, Ngọc Thụy, Long Biên, Hà Nội, Vietnam. `,
   `<b>07.12.2025</b> at 20:30: <a style="text-decoration: underline" href=""><b>#Concert Trầm Tích / Sediment</a></b> at Polygon Musik, 29 ngách 31 ngõ 167 Tây Sơn, district Đống Đa, Hanoi, Vietnam.`,
-  `<b>30.11.2025</b> at 20:00: <a style="text-decoration: underline" href=""><b>#Site-specific Concert Trốn Tìm / Hide & Seek</a></b> at 158/14 Nguyễn Văn Đậu, Saigon, Vietnam.`,
+  `<b>30.11.2025</b> at 20:00: <a style="text-decoration: underline" href="https://fb.me/e/3LrfFEGvz"><b>#Site-specific Concert Trốn Tìm / Hide & Seek</a></b> at 158/14 Nguyễn Văn Đậu, Saigon, Vietnam.`,
   `<b>28.11.2025</b> at 19:30: <a style="text-decoration: underline" href="https://fb.me/e/1Wwf77IOnp"><b>#Music & Dance Performance: Hợp Lưu / Confluence</a></b> at Black Box - Dance School, 155bis Nam Kỳ Khởi Nghĩa, district 3, Saigon, Vietnam.`,
   `<b>20.09.2025</b> at 20:00: <a style="text-decoration: underline" href=""><b>#Timeless Whispers Concert</a></b> at l'Espace Grappelli, 49 avenue de la Marne, 06100 Nice, France.`,
   `<b>01-02.07.2025</b>: <a style="text-decoration: underline" href="https://iwk.mdw.ac.at/mapper-symposium/"><b>#MAPPER – A Symposium on Music Acoustics for Performance Preparation and the Engagement with Repertoire in Live-Electronics</a></b> at Klangtheater at University of Music and Performing Arts Vienna (mdw), Austria.`,
