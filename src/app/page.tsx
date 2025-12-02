@@ -839,6 +839,11 @@ export default function Home() {
             <u>Tim Tarek-Grund</u>
           </a>{" "}
           /
+          <a href="https://www.adachitomomi.com">
+            {" "}
+            <u>Tomomi Adachi</u>
+          </a>{" "}
+          /
           <a href="https://tristanxkoester.com">
             {" "}
             <u>Tristan Xavier Köster</u>
