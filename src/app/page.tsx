@@ -794,11 +794,6 @@ export default function Home() {
             <u>Peter Veale</u>
           </a>{" "}
           /
-          <a href="https://sabineercklentz.com">
-            {" "}
-            <u>Sabine Ercklentz</u>
-          </a>{" "}
-          /
           <a href="https://www.severineballon.com">
             {" "}
             <u>Séverine Ballon</u>
