@@ -499,6 +499,11 @@ export default function Home() {
           </b>
           <br />
           <br />
+          <a href="https://berggruen.org/eu/people/adel-jing-wang">
+            {" "}
+            <u>Adel-Jing Wang</u>
+          </a>{" "}
+          /
           <a href="http://www.alexanderschubert.net">
             {" "}
             <u>Alexander Schubert</u>
