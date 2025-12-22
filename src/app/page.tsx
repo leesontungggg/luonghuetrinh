@@ -524,11 +524,6 @@ export default function Home() {
             <u>Anothai Nitibhon</u>
           </a>{" "}
           /
-           <a href="https://sunsymphony.vn/en/about-us">
-            {" "}
-            <u>Kyle Acuncius</u>
-          </a>{" "}
-          /
           <a href="https://music.youtube.com/channel/UCC1t8mZhR0mA_PjPYtOAvnQ">
             {" "}
             <u>Andrea Neumann</u>
