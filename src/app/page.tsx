@@ -249,7 +249,7 @@ export default function Home() {
             <p className="text-md md:text-lg mt-3">
               multimedia composer & electroacoustics improviser
             </p>
-            <p className="text-md md:text-lg">organizer & producer</p>
+            <p className="text-md md:text-lg">sound artist & organizer </p>
           </div>
         </div>
       </div>
