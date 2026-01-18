@@ -104,7 +104,7 @@ const Bio = () => {
             Goethe Institut Vietnam, Institut français du Vietnam, National Fine Arts museum - Hanoi, Hanoi New Music festival (Vietnam); 
             Shanghai Rockbund Art museum, Banye Art Hotel Hangzhou (China); Metropolitan museum - Manila, Taylor's University,
             University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of
-            Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); Coutonou (Benin)...
+            Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); Cotonou (Benin)...
             <br />
             <br />
           </>
