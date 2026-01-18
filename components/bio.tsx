@@ -29,13 +29,13 @@ const Bio = () => {
         <b>
           LƯƠNG Huệ Trinh  
         </b>{" "}
-        is a dynamic multimedia Vietnamese composer, sound artist and electroacoustic improviser whose musical journey began at age 5. 
+        is a multimedia Vietnamese composer, sound artist and electroacoustic improviser whose musical journey began at age 5. 
         After entering the Vietnam National Academy of Music at 13 in 1998, she earned her Bachelor's in Jazz Keyboard in 2010. 
         Her focus then shifted to electroacoustic music under the mentorship of Vietnamese composer Nguyễn Xuân Sơn (SonX). 
         <br />
         <br />
         From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious German Academic Exchange Service (DAAD) scholarship, 
-        completing program "New Techniques in Composition" and a Master's in Multimedia Composition at the University of Music & Theater Hamburg (HfMT). 
+        completing the program "New Techniques in Composition" and a Master's in Multimedia Composition at the University of Music & Theater Hamburg (HfMT). 
         There, she studied under composers{" "}
         <a href="http://www.georghajdu.de">
           {" "}
@@ -64,21 +64,21 @@ const Bio = () => {
         {isSeeMore && (
           <>
             <br />
-            Her artistic approach intergrates traditional and experimental music, crafting immersive soundscapes 
+            Her artistic approach integrates traditional and experimental music, crafting immersive soundscapes 
             that invite audiences to drift through her sonic world. Passionate about collaboration, 
             she frequently partners with local artists wherever she travels, capturing field recordings 
-            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with visual, 
+            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with visual elements, 
             scenography, and site-specific performances, creating rich multisensory experiences.
             LƯƠNG has forged collaborations across artistic disciplines, including contemporary dance, animation,
-            experimental/documentary film, video art, poetry, drama, painting performance
-            and installation art etc.
+            experimental and documentary film, video art, poetry, theater, live painting performance
+            and installation art.
             <br />
             <br />
             Her debut album "Illusions" (USA, 2016) received acclaim, named one
             of Avant Music News' Best of 2016 - Albums of the Year. 
             Her achievements include being honored as Hanoi Grapevine's 'Finest Artist of the Year' (Vietnam, 2019) - Hanoi
-            Grapevine is the only bi-lingual site for art and cultural events in
-            Vietnam, awarding a Réciprocité residency at Cité Internationale des Arts Paris (France, 2020) by Institut français du Vietnam, 
+            Grapevine is known as the pioneering independent platform promoting arts and culture in Vietnam, 
+            receiving a Réciprocité residency at Cité Internationale des Arts Paris (France, 2020) from Institut français du Vietnam, 
             and being recognized as one of 14 notable DAAD Vietnam alumni from 1985 to 2020 in celebration of 45 years of German-Vietnamese relations.
             <br />
             <br />
@@ -104,7 +104,7 @@ const Bio = () => {
             Goethe Institut Vietnam, Institut français du Vietnam, National Fine Arts museum - Hanoi, Hanoi New Music festival (Vietnam); 
             Shanghai Rockbund Art museum, Banye Art Hotel Hangzhou (China); Metropolitan museum - Manila, Taylor's University,
             University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of
-            Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); ...
+            Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); Coutonou (Benin)...
             <br />
             <br />
           </>
