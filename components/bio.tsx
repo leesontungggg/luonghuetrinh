@@ -17,7 +17,7 @@ const Bio = () => {
         Through digital processing, she transforms these diverse sources into multi-layered compositions that balance presence with abstraction, bridging the intimate and the universal. 
         <br />
         <br />
-        LƯƠNG's practice encompasses multi-sensory performances where sound interweaves with visual elements, scenography, and site-specific works. 
+        Lương Huệ Trinh's practice encompasses multi-sensory performances where sound interweaves with visual elements, scenography, and site-specific works. 
         She composes music for theater, dance, installations, experimental and animated films, live painting performances, and contemporary ensembles. 
         International acclaim has followed through radio networks and performances at museums, festivals, and art universities across Asia, Europe, Oceania, North America, and Africa.
         <br />
