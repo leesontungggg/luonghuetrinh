@@ -11,7 +11,7 @@ const Bio = () => {
           LƯƠNG Huệ Trinh  
         </b>{" "}
         is a Vietnamese multimedia composer, sound artist and electroacoustic improviser. She completed her B.A. in Jazz Keyboard at the Vietnam National Academy of Music before 
-        earning her M.A. in Multimedia Composition at Hamburg University of Music and Theatre, Germany, with support from a DAAD scholarship. 
+        earning her M.A. in Multimedia Composition at the Hamburg University of Music and Theatre, Germany, with support from a DAAD scholarship. 
         Sound, for her, becomes an essential vehicle for cultural memory and lived experience, transforming listening into a visceral and poetic journey. 
         This cross-cultural approach integrates traditional and experimental music elements, creating immersive sonic worlds enriched by field recordings gathered from her travels . 
         Through digital processing, she transforms these diverse sources into multi-layered compositions that balance presence with abstraction, bridging the intimate and the universal. 
@@ -35,7 +35,7 @@ const Bio = () => {
         <br />
         <br />
         From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious German Academic Exchange Service (DAAD) scholarship, 
-        completing New Techniques in Composition and a Master's in Multimedia Composition at the Hochschule für Musik & Theater Hamburg (HfMT). 
+        completing program "New Techniques in Composition" and a Master's in Multimedia Composition at the University of Music & Theater Hamburg (HfMT). 
         There, she studied under composers{" "}
         <a href="http://www.georghajdu.de">
           {" "}
@@ -85,8 +85,8 @@ const Bio = () => {
             LƯƠNG's music has been featured internationally on broadcasts, including Artist of
             the Month on StillStream radio (USA, 2013); London’s Gwaith Sŵn radio, London Resonance FM 104.4FM 
             (UK, 2020); NRK - The Norwegian Broadcasting Corporation (Norway, 2014 & 2015); 
-            Urban Arts Berlin radio (2016), Deutschlandfunk Kultur (Germany, 2018); Yfm, Mx24TV (Ghana, 2022,
-            2023); Italian Public radio - RAI radio 3 - Battiti (Italia, 2024).
+            Urban Arts Berlin radio (2016), Deutschlandfunk Kultur (Germany, 2018); Yfm, Mx24TV (Ghana, 2022 & 2023); 
+            Italian Public radio - RAI radio 3 - Battiti (Italia, 2024).
             <br />
             <br />
             Her work has been showcased across Asia, Europe, Oceania, North
