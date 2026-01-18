@@ -10,10 +10,10 @@ const Bio = () => {
         <b>
           LƯƠNG Huệ Trinh  
         </b>{" "}
-        is a Vietnamese multimedia composer, sound artist and electroacoustic improviser. She completed her B.A. in Jazz Keyboard at the Vietnam National Academy of Music before 
-        earning her M.A. in Multimedia Composition at the Hamburg University of Music and Theatre, Germany, with support from a DAAD scholarship. 
+        is a Vietnamese multimedia composer, sound artist, electroacoustic improviser, and organiser. She completed her B.A. in Jazz Keyboard at the Vietnam National Academy of Music before 
+        earning her M.A. in Multimedia Composition at the Hamburg University of Music and Theatre, Germany, with support from a German Academic Exchange Service (DAAD) scholarship. 
         Sound, for her, becomes an essential vehicle for cultural memory and lived experience, transforming listening into a visceral and poetic journey. 
-        This cross-cultural approach integrates traditional and experimental music elements, creating immersive sonic worlds enriched by field recordings gathered from her travels . 
+        This cross-cultural approach integrates traditional and experimental music elements, creating immersive sonic worlds enriched by field recordings gathered from her travels. 
         Through digital processing, she transforms these diverse sources into multi-layered compositions that balance presence with abstraction, bridging the intimate and the universal. 
         <br />
         <br />
@@ -29,13 +29,13 @@ const Bio = () => {
         <b>
           LƯƠNG Huệ Trinh  
         </b>{" "}
-        is a multimedia Vietnamese composer, sound artist and electroacoustic improviser whose musical journey began at age 5. 
+        is a multimedia Vietnamese composer, sound artist, electroacoustic improviser, and organiser whose musical journey began at age 5. 
         After entering the Vietnam National Academy of Music at 13 in 1998, she earned her Bachelor's in Jazz Keyboard in 2010. 
         Her focus then shifted to electroacoustic music under the mentorship of Vietnamese composer Nguyễn Xuân Sơn (SonX). 
         <br />
         <br />
-        From 2015 to 2018, LƯƠNG pursued advanced studies in Germany through a prestigious German Academic Exchange Service (DAAD) scholarship, 
-        completing the program "New Techniques in Composition" and a Master's in Multimedia Composition at the University of Music & Theater Hamburg (HfMT). 
+        From 2015 to 2018, Lương Huệ Trinh pursued advanced studies in Germany through a German Academic Exchange Service (DAAD) scholarship, 
+        completing the program <b>New Techniques in Composition</b> and a Master's in Multimedia Composition at the University of Music & Theater Hamburg (HfMT). 
         There, she studied under composers{" "}
         <a href="http://www.georghajdu.de">
           {" "}
@@ -64,33 +64,26 @@ const Bio = () => {
         {isSeeMore && (
           <>
             <br />
-            Her artistic approach integrates traditional and experimental music, crafting immersive soundscapes 
-            that invite audiences to drift through her sonic world. Passionate about collaboration, 
-            she frequently partners with local artists wherever she travels, capturing field recordings 
-            from everyday life that she weaves into her compositions. Beyond sound, she integrates her music with visual elements, 
-            scenography, and site-specific performances, creating rich multisensory experiences.
-            LƯƠNG has forged collaborations across artistic disciplines, including contemporary dance, animation,
-            experimental and documentary film, video art, poetry, theater, live painting performance
-            and installation art.
+            Her artistic approach integrates traditional and experimental music, crafting immersive soundscapes that invite audiences to drift through her sonic world. 
+            Passionate about collaboration, she frequently partners with local artists wherever she travels, capturing field recordings from everyday life that she weaves into her compositions. 
+            Beyond sound, she integrates her music with visual elements, scenography, and site-specific performances, creating rich multisensory experiences. 
+            Lương Huệ Trinh has forged collaborations across artistic disciplines, including contemporary dance, animation, experimental and documentary film, 
+            video art, poetry, theater, live painting performance and installation art.
             <br />
             <br />
-            Her debut album "Illusions" (USA, 2016) received acclaim, named one
-            of Avant Music News' Best of 2016 - Albums of the Year. 
-            Her achievements include being honored as Hanoi Grapevine's 'Finest Artist of the Year' (Vietnam, 2019) - Hanoi
-            Grapevine is known as the pioneering independent platform promoting arts and culture in Vietnam, 
-            receiving a Réciprocité residency at Cité Internationale des Arts Paris (France, 2020) from Institut français du Vietnam, 
-            and being recognized as one of 14 notable DAAD Vietnam alumni from 1985 to 2020 in celebration of 45 years of German-Vietnamese relations.
+            Her debut album <b>Illusions</b> (USA, 2016), received critical acclaim and was recognized among the <b>Best of 2016 - Albums of the Year</b> by the US online magazine <b>Avant Music News</b>. 
+            Her accolades include the title of <b>Artist of the Year</b> from the leading cultural and artistic platform <b>Hanoi Grapevine</b> (Vietnam, 2019), 
+            a <b>Réciprocité</b> residency at the Cité internationale des Arts in Paris (France, 2020) awarded by the French Institute in Vietnam, 
+            and selection as one of the 14 most outstanding DAAD Vietnam alumni (1985-2020) in celebration of 45 years of German-Vietnamese diplomatic relations.
             <br />
             <br />
-            LƯƠNG's music has been featured internationally on broadcasts, including Artist of
-            the Month on StillStream radio (USA, 2013); London’s Gwaith Sŵn radio, London Resonance FM 104.4FM 
-            (UK, 2020); NRK - The Norwegian Broadcasting Corporation (Norway, 2014 & 2015); 
+            Lương Huệ Trinh's music has been featured internationally on broadcasts, including Artist of the Month on StillStream radio (USA, 2013); 
+            London’s Gwaith Sŵn radio, London Resonance FM 104.4FM (UK, 2020); NRK - The Norwegian Broadcasting Corporation (Norway, 2014 & 2015); 
             Urban Arts Berlin radio (2016), Deutschlandfunk Kultur (Germany, 2018); Yfm, Mx24TV (Ghana, 2022 & 2023); 
             Italian Public radio - RAI radio 3 - Battiti (Italia, 2024).
             <br />
             <br />
-            Her work has been showcased across Asia, Europe, Oceania, North
-            America, and Africa such as Übersee museum - Bremen, Sprengel museum
+            Her work has been showcased across Asia, Europe, Oceania, North America, and Africa such as Übersee museum - Bremen, Sprengel museum
             - Hannover, Mikromusik Festival 2018 by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
             Berlin Academy of Arts, Center for Art & Media - ZKM, Karlsruhe, university of Music, Theater & Media Hanover (Germany);
             Sibelius museum - Turku (Findland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
