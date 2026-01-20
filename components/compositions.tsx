@@ -10,7 +10,7 @@ const compositions = [
   `<i style="text-decoration: underline"><b>How can I be tender ?</i></b> (2023) <br /> 
           for Grain~bau solo. Duration: 9'30" 
           <br /> 
-          Commissioned for the artistic research project Études for Live-Electronics 2023 - 2025 by Alex Hofmann - Institut für Musikalische Akustik Wienner Kangstil.
+          Commissioned for the artistic research project Études for Live-Electronics 2023-2025 by Alex Hofmann - Institut für Musikalische Akustik Wienner Kangstil.
           <br />
           Performed at Showcase Concert at the Future Art Lab - Klangtheater at University of Music and Performing Arts, Vienna - Austria.`,
   `<i style="text-decoration: underline"><b>Đốm</i></b> (2023)
@@ -85,8 +85,7 @@ const compositions = [
           spoken word/poetry & scenography. Duration: 70'
           <br />
           an intercultural,
-          intermedia and site-specific performance designed for Alliance
-          Française Accra - Ghana.
+          intermedia and site-specific performance designed for Alliance Française Accra - Ghana.
           <br />
           A production of Alliance Française Accra, Ghana with support from the
           French Embassy to Ghana; Ministry of Culture, Youth & Education in
