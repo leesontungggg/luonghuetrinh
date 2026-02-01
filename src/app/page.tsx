@@ -759,6 +759,11 @@ export default function Home() {
             <u>Nguyễn Mạnh Hùng</u>
           </a>{" "}
           /
+          <a href="hhttps://www.goethe.de/prj/nus/en/ats/ngh.html">
+            {" "}
+            <u>Nguyễn Hồng Giang aka Writher </u>
+          </a>{" "}
+          /
           <a href="https://nguyenthanhthuy.weebly.com">
             {" "}
             <u>Nguyễn Thanh Thủy</u>
