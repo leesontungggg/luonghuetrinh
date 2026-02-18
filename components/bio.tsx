@@ -86,7 +86,7 @@ const Bio = () => {
             Her work has been showcased across Asia, Europe, Oceania, North America, and Africa such as Übersee museum - Bremen, Sprengel museum
             - Hannover, Mikromusik Festival 2018 by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
             Berlin Academy of Arts, Center for Art & Media - ZKM, Karlsruhe, university of Music, Theater & Media Hanover (Germany);
-            Sibelius museum - Turku (Findland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
+            Sibelius museum - Turku (Finland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
             Montbéliard, Theatre de Hautepierre - Strasbourg (France); Intonal festival, Inter Arts Center - Malmö (Sweden); university of Washington - Seattle, 
             California State university - Fullerton (USA); The National Network for Equitable Library Service (NNELS) - Toronto (Canada); 
             Newcastle Summer festival - the UK; Murate Art District (MAD) - Florence, 33th AngelicA festival 2023 - Bologna (Italy);
