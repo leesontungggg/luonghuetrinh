@@ -84,15 +84,15 @@ const Bio = () => {
             <br />
             <br />
             Her work has been showcased across Asia, Europe, Oceania, North America, and Africa such as Übersee museum - Bremen, Sprengel museum
-            - Hannover, Mikromusik Festival 2018 by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
+            - Hannover, Mikromusik Festival by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
             Berlin Academy of Arts, Center for Art & Media - ZKM, Karlsruhe, university of Music, Theater & Media Hanover (Germany);
             Sibelius museum - Turku (Finland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
             Montbéliard, Theatre de Hautepierre - Strasbourg (France); Intonal festival, Inter Arts Center - Malmö (Sweden); university of Washington - Seattle, 
             California State university - Fullerton (USA); The National Network for Equitable Library Service (NNELS) - Toronto (Canada); 
-            Newcastle Summer festival - the UK; Murate Art District (MAD) - Florence, 33th AngelicA festival 2023 - Bologna (Italy);
+            Newcastle Summer festival - the UK; Murate Art District (MAD) - Florence, 33th AngelicA festival - Bologna (Italy);
             university of Music & Performing Arts Vienna (Austria); Copenhagen Jazz festival, Gong festival, Transistor Meetings festival, 
             SONIC festival - Copenhagen, Roskilde university (Denmark); Punkt festival 2015 - Kristiansand (Norway); Skálholt church (Iceland); 
-            the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival 2015 - Tokyo & Kyoto, OUA Electroacoustic Music festival
+            the ARTER/Space for Art - Istanbul (Turkey); ASIAN Meeting festival - Tokyo & Kyoto, OUA Electroacoustic Music festival
             - Osaka University of Art (Japan); Youth Theater - Hanoi, National Academy of Music - Hanoi, Ho Chi Minh Conservatory of Music - HCM city, 
             Goethe Institut Vietnam, Institut français du Vietnam, National Fine Arts museum - Hanoi, Hanoi New Music festival (Vietnam); 
             Shanghai Rockbund Art museum, Banye Art Hotel Hangzhou (China); Metropolitan museum - Manila, Taylor's University,
