@@ -2,6 +2,7 @@ import { useState } from "react";
 
 const events = [
   `<b>02.08.2026</b>: <a style="text-decoration: underline" href=""><b>#Lách Tách Concert</a></b> in Berlin. Info soon.`,
+  `<b>20.03.2026</b>: <a style="text-decoration: underline" href="https://paulzetter.bandcamp.com/track/quieter-rooms"><b>#Quieter Rooms Launching </a></b>by Paul Zetter & Lương Huệ Trinh.`,
   `<b>12.12.2025</b> at 20:00: <a style="text-decoration: underline" href="https://fb.me/e/3Hkok06qX"><b>#Đàn Bầu and Beyond Concert</a></b> at Anatolia, 7 Ngõ 437/2, Ngọc Thụy, Long Biên, Hà Nội, Vietnam.`,
   `<b>07.12.2025</b> at 20:30: <a style="text-decoration: underline" href="https://fb.me/e/3QW6Qsaz0"><b>#Trầm Tích / Sediment Concert</a></b> at Polygon Musik, 29 ngách 31 ngõ 167 phố Tây Sơn, district Đống Đa, Hanoi, Vietnam.`,
   `<b>30.11.2025</b> at 20:00: <a style="text-decoration: underline" href="https://fb.me/e/3LrfFEGvz"><b>#Trốn Tìm / Hide & Seek - a site-specific Concert</a></b> at a21studio, 158/14 Nguyễn Văn Đậu, Saigon, Vietnam.`,
