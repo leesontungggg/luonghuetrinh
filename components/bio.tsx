@@ -84,7 +84,7 @@ const Bio = () => {
             <br />
             <br />
             Her work has been showcased across Asia, Europe, Oceania, North America, and Africa such as Übersee museum - Bremen, Sprengel museum
-            - Hannover, Mikromusik Festival by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
+            - Hannover, Mikromusik festival by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
             Berlin Academy of Arts, Center for Art & Media - ZKM, Karlsruhe, university of Music, Theater & Media Hanover (Germany);
             Sibelius museum - Turku (Finland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
             Montbéliard, Theatre de Hautepierre - Strasbourg (France); Intonal festival, Inter Arts Center - Malmö (Sweden); university of Washington - Seattle, 
@@ -97,7 +97,7 @@ const Bio = () => {
             Goethe Institut Vietnam, Institut français du Vietnam, National Fine Arts museum - Hanoi, Hanoi New Music festival (Vietnam); 
             Shanghai Rockbund Art museum, Banye Art Hotel Hangzhou (China); Metropolitan museum - Manila, Taylor's University,
             University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of
-            Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); Cotonou (Benin)...
+            Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); Cotonou (Benin); Institut français du Togo, festival Woédoupé - Lomé (Togo); ...
             <br />
             <br />
           </>

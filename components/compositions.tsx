@@ -1,7 +1,13 @@
 import { useState } from "react";
 
 const compositions = [
-`<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
+ `<i style="text-decoration: underline"><b>The World Is Bended</i></b> (2026) <br /> 
+        for fixed media. Duration: 8' <br /> 
+        Commissioned by Togolese choreographer Koffi Kégou Afiadegnigban.
+        <br />
+        Performed at the festival Woédoupé and at Institut français du Togo, Lomé, Togo.
+        <br />`,      
+        `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
         for three percussionists and tape. Duration: 23' <br /> 
         Commissioned by Les Percussions de Strasbourg with the support of the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.
         <br />

@@ -2,8 +2,8 @@ import { useState } from "react";
 
 const events = [
   `<b>02.08.2026</b> at 16:30: <a style="text-decoration: underline" href="https://young-euro-classic.de/en/konzerte-detailseite/l-ch-t-ch-59"><b>#Lách Tách Concert</a></b> in Future Now / Young Euro Classic Festival at Werner-Otto-Hall, Konzerthaus Berlin, Gendarmenmarkt 2, 10117 Berlin, Germany.`,
-  `<b>27.06.2026</b> at 19:00: <a style="text-decoration: underline" href="https://www.instagram.com/reel/DZxFb6EMRy8/?utm_source=ig_web_button_share_sheet"><b>#A la mémoire de nos mémoires </a></b>by Koffi-kegou AFIADEGNIGBAN at Institut Français du Togo, Lomé.`, 
-  `<b>26.06.2026</b> at 20:00: <a style="text-decoration: underline" href="https://www.facebook.com/share/r/1EkQg3tQCs/"><b>#Festival Woédoupé - A la mémoire de nos mémoires </a></b>by Koffi-kegou AFIADEGNIGBAN at Centre Brin de Chocolat, Lomé, Togo.`,
+  `<b>27.06.2026</b> at 19:00: <a style="text-decoration: underline" href="https://www.instagram.com/reel/DZxFb6EMRy8/?utm_source=ig_web_button_share_sheet"><b>#A la mémoire de nos mémoires </a></b>by Koffi Kégou AFIADEGNIGBAN at Institut Français du Togo, Lomé.`, 
+  `<b>26.06.2026</b> at 20:00: <a style="text-decoration: underline" href="https://www.facebook.com/share/r/1EkQg3tQCs/"><b>#Festival Woédoupé - A la mémoire de nos mémoires </a></b>by Koffi Kégou AFIADEGNIGBAN at Centre Brin de Chocolat, Lomé, Togo.`,
   `<b>20.03.2026</b>: <a style="text-decoration: underline" href="https://paulzetter.bandcamp.com/track/quieter-rooms"><b>#Quieter Rooms Track Launching </a></b>by Paul Zetter & Lương Huệ Trinh.`,
   `<b>12.12.2025</b> at 20:00: <a style="text-decoration: underline" href="https://fb.me/e/3Hkok06qX"><b>#Đàn Bầu and Beyond Concert</a></b> at Anatolia, 7 Ngõ 437/2, Ngọc Thụy, Long Biên, Hà Nội, Vietnam.`,
   `<b>07.12.2025</b> at 20:30: <a style="text-decoration: underline" href="https://fb.me/e/3QW6Qsaz0"><b>#Trầm Tích / Sediment Concert</a></b> at Polygon Musik, 29 ngách 31 ngõ 167 phố Tây Sơn, district Đống Đa, Hanoi, Vietnam.`,
