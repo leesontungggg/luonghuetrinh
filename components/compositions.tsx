@@ -5,7 +5,7 @@ const compositions = [
         for fixed media. Duration: 8' <br /> 
         Commissioned by Togolese choreographer Koffi Kégou Afiadegnigban.
         <br />
-        Performed at the festival Woédoupé, Institut français du Togo, Lomé, Togo.
+        Performed at the festival Woédoupé in Lomé, and Institut français du Togo.
         <br />`,      
         `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
         for three percussionists and tape. Duration: 23' <br /> 
