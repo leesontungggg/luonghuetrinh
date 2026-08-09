@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const compositions = [
  `<i style="text-decoration: underline"><b>Lách Tách</i></b> (2026) <br /> 
-        a co-created music performance with Vũ Thị Thuỳ Linh for live electronics, voice, objects, and Ả Đào (so called Ca Trù, traditional Vietnamese music). Duration: 45' <br /> 
+        a co-created site-specific music performance with Vũ Thị Thuỳ Linh for live electronics, voice, objects, and Ả Đào (so called Ca Trù, traditional Vietnamese music). Duration: 45' <br /> 
         Commissioned by Future Now / the 27th Young Euro Classic Festival, Berlin - Germany.
         <br />
         Performed at the Future Now / Young Euro Classic Festival at Konzerthaus Berlin.
