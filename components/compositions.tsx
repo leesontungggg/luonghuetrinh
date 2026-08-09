@@ -1,7 +1,11 @@
 import { useState } from "react";
 
 const compositions = [
- `<i style="text-decoration: underline"><b>The World Is Bended</i></b> (2026) <br /> 
+ `<i style="text-decoration: underline"><b>Lách Tách</i></b> (2026) <br /> - a co-created music performance with Vũ Thị Thuỳ Linh
+        for live electronics, voice, objects and Ả Đào (traditional Vietnamese music). Duration: 45' <br /> 
+        Commissioned by/for Future Now/ the 27th Young Euro Classic Festival, Berlin - Germany.
+        <br />
+`<i style="text-decoration: underline"><b>The World Is Bended</i></b> (2026) <br /> 
         for fixed media. Duration: 8' <br /> 
         Commissioned by Togolese choreographer Koffi Kégou Afiadegnigban.
         <br />
@@ -9,7 +13,7 @@ const compositions = [
         <br />`,      
         `<i style="text-decoration: underline"><b>Hoang hoải</i></b> (2024-25) <br /> 
         for three percussionists and tape. Duration: 23' <br /> 
-        Commissioned by Les Percussions de Strasbourg with the support of the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.
+        Commissioned by Les Percussions de Strasbourg, France with the support of the Nguyễn Thiện Đạo Foundation, backed by the King Baudouin Foundation.
         <br />
         Performed at Theatre de Hautepierre, Strasbourg - France.
         <br />`,      
@@ -27,8 +31,7 @@ const compositions = [
           Commissioned for project TRAIECT IV Vietnam by Hannoversche
           Gesellschaft für Neue Musik (Hanover Society for New Music) - Germany.
           <br />
-          Performed at Sprengel Museum - Hannover, Overseas Museum - Bremen,
-          Academy of Arts - Berlin, Germany; 
+          Performed at Sprengel Museum - Hannover, Overseas Museum - Bremen, Academy of Arts - Berlin, Germany; 
           MotPlus - Saigon, Hàng Buồm Cuture and Arts Center - Hanoi, Ồ Ạt Oh Art festival 2024 - Saigon, Vietnam. 
           <br />`,
   `<i style="text-decoration: underline"><b>The glance of a fox</i></b> (2023)

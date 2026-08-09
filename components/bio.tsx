@@ -85,7 +85,7 @@ const Bio = () => {
             <br />
             Her work has been showcased across Asia, Europe, Oceania, North America, and Africa such as Übersee museum - Bremen, Sprengel museum
             - Hannover, Mikromusik festival by Berliner Künstlerprogramm des DAAD and Humboldt Forum Foundation, 
-            Berlin Academy of Arts, Center for Art & Media - ZKM, Karlsruhe, university of Music, Theater & Media Hanover (Germany);
+            Berlin Academy of Arts, Center for Art & Media - ZKM, Karlsruhe, university of Music, Theater & Media Hanover, Konzerthaus Berlin (Germany);
             Sibelius museum - Turku (Finland); Navarre museum - Pamploma (Spain); Cité Internationale des Arts Paris, La Scène Numérique -
             Montbéliard, Theatre de Hautepierre - Strasbourg (France); Intonal festival, Inter Arts Center - Malmö (Sweden); university of Washington - Seattle, 
             California State university - Fullerton (USA); The National Network for Equitable Library Service (NNELS) - Toronto (Canada); 
