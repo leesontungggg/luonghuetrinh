@@ -589,6 +589,11 @@ export default function Home() {
             <u>DJ Sniff</u>
           </a>{" "}
           /
+          <a href="https://www.emiliogordoa.com">
+            {" "}
+            <u>Emilio Gordoa</u>
+          </a>{" "}  
+           /   
           <a href="https://erikhonore.bandcamp.com/album/triage">
             {" "}
             <u>Erik Honoré</u>
@@ -950,12 +955,7 @@ export default function Home() {
             {" "}
             <u>Dimitri della Faille</u>
           </a>{" "}
-          /
-          <a href="https://www.emiliogordoa.com">
-            {" "}
-            <u>Emilio Gordoa</u>
-          </a>{" "}  
-           /        
+          /     
           <a href="https://www.compagnie-antipodes.com/pr%C3%A9sentation">
             {" "}
             <u>Lisie Philip</u>
