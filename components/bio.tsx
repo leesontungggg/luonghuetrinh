@@ -11,7 +11,7 @@ const Bio = () => {
           LƯƠNG Huệ Trinh  
         </b>{" "}
         is a Vietnamese multimedia composer, sound artist, electroacoustic improviser, and organiser. She completed her B.A. in Jazz Keyboard at the Vietnam National Academy of Music before 
-        earning her M.A. in Multimedia Composition at the Hamburg University of Music and Theatre, Germany, with support from a German Academic Exchange Service (DAAD) scholarship. 
+        earning her M.A. in Multimedia Composition at the Hamburg University of Music and Drama (HfMT), Germany, with support from a German Academic Exchange Service (DAAD) scholarship. 
         Sound, for her, becomes an essential vehicle for cultural memory and lived experience, transforming listening into a visceral and poetic journey. 
         This cross-cultural approach integrates traditional and experimental music elements, creating immersive sonic worlds enriched by field recordings gathered from her travels. 
         Through digital processing, she transforms these diverse sources into multi-layered compositions that balance presence with abstraction, bridging the intimate and the universal. 
@@ -35,7 +35,7 @@ const Bio = () => {
         <br />
         <br />
         From 2015 to 2018, Lương Huệ Trinh pursued advanced studies in Germany through a German Academic Exchange Service (DAAD) scholarship, 
-        completing the program <b>New Techniques in Composition</b> and a Master's in Multimedia Composition at the University of Music & Theater Hamburg (HfMT). 
+        completing the program <b>New Techniques in Composition</b> and a Master's in Multimedia Composition at the Hamburg University of Music & Drama (HfMT). 
         There, she studied under composers{" "}
         <a href="http://www.georghajdu.de">
           {" "}
