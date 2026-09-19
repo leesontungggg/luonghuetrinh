@@ -514,6 +514,11 @@ export default function Home() {
             <u>Alex Hofmann</u>
           </a>{" "}
           /
+           <a href="https://www.instagram.com/alloybarine/">
+            {" "}
+            <u>Alloy Barine</u>
+          </a>{" "}
+          /
           <a href="https://www.aaronbebe.com/index.php/biography">
             {" "}
             <u>Aaron Bebe Sukura</u>
@@ -797,6 +802,11 @@ export default function Home() {
           <a href="https://oteanankanduro.wordpress.com">
             {" "}
             <u>Oteanankanduro</u>
+          </a>{" "}
+           /
+           <a href="https://www.instagram.com/iam_peterbata/">
+            {" "}
+            <u>Peter D. Abayomi</u>
           </a>{" "}
           /
           <a href="https://www.musikfabrik.eu/en/ensemble/members/peter-veale/">
