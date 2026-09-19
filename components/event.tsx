@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 const events = [
+  `<b>25.09.2026</b> at 17:30: <a style="https://www.facebook.com/photo/?fbid=10164732688364313&set=a.10151546005599313"><b>#ENCOUNTERS - Open Studio</a></b> at 12 Odunsi street, Bariga, Lagos, Nigeria.`,
   `<b>02.08.2026</b> at 16:30: <a style="text-decoration: underline" href="https://young-euro-classic.de/en/konzerte-detailseite/l-ch-t-ch-59"><b>#Lách Tách Concert</a></b> in Future Now / the 27th Young Euro Classic Festival at Werner-Otto-Hall, Konzerthaus Berlin, Gendarmenmarkt 2, 10117 Berlin, Germany.`,
   `<b>27.06.2026</b> at 19:00: <a style="text-decoration: underline" href="https://www.instagram.com/reel/DZxFb6EMRy8/?utm_source=ig_web_button_share_sheet"><b>#A la mémoire de nos mémoires </a></b>by Koffi Kégou AFIADEGNIGBAN at Institut Français du Togo, Lomé.`, 
   `<b>26.06.2026</b> at 20:00: <a style="text-decoration: underline" href="https://www.facebook.com/share/r/1EkQg3tQCs/"><b>#Festival Woédoupé - A la mémoire de nos mémoires </a></b>by Koffi Kégou AFIADEGNIGBAN at Centre Brin de Chocolat, Lomé, Togo.`,
