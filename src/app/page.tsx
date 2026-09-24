@@ -804,7 +804,7 @@ export default function Home() {
             <u>Oteanankanduro</u>
           </a>{" "}
            /
-           <a href="https://www.instagram.com/iam_peterbata/">
+           <a href="https://www.instagram.com/iam_peterbata/">l
             {" "}
             <u>Peter D. Abayomi</u>
           </a>{" "}
