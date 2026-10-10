@@ -1131,7 +1131,7 @@ export default function Home() {
         <h3 className="text-center text-xl">Legal Notice</h3>
         <p>
           <b>Lương Huệ Trinh </b> <br />
-          Paris - France & Hanoi - Vietnam
+          Lagos - Nigeria & Hanoi - Vietnam
           <br />
           <br />
           <br />
