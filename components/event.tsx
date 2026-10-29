@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const events = [
-  `<b>21.11.2026</b> at 17:00: <a style="text-decoration: underline" href=""><b>Live music and dance</a></b> in the ANCESTRAL WALK EXHIBITION 2026 at Afrocan Studio, 38 Asani street, Bariga, Lagos, Nigeria.`,
+  `<b>21.11.2026</b> at 17:00: <a style="text-decoration: underline" href=""><b>Live music and dance</a></b> in the ANCESTRAL WALK exhibition 2026 at Afrocan Studio, 38 Asani street, Bariga, Lagos, Nigeria.`,
   `<b>05.11.2026</b> at 19:30: <a style="text-decoration: underline" href=""><b>Live music in the theatre play "A Rising Tide"</a></b> in the CANEX WKND 2026 (Creative Africa Nexus) at National Theatre Main Bowl, Iganmu, Surulere, Lagos, Nigeria.`,
   `<b>27.09.2026</b> at 16:00: <a style="text-decoration: underline" href="https://www.instagram.com/p/DdxS42qM_es/"><b>#FINALE</a></b> in the 9th Edition of Dance festival - SLUM PARTY Cathedral Thinking 26 at Adebare street Oworonshoki, Lagos, Nigeria.`,
   `<b>26.09.2026</b> at 17:00: <a style="text-decoration: underline" href="https://www.instagram.com/p/DdrWqVZTUqo/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=="><b>#SOLO DANCE EVENING</a></b> in the 9th Edition of Dance festival - SLUM PARTY Cathedral Thinking 26 at African Studio, 38 Asani street, Bariga, Lagos, Nigeria.`,
