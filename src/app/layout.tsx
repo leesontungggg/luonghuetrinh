@@ -20,7 +20,7 @@ const alegreya = Alegreya({
 });
 
 export const metadata: Metadata = {
-  title: "Luong Hue Trinh",
+  title: "Lương Huệ Trinh",
   description: "Vietnamese composer & improviser",
 };
 
@@ -36,7 +36,7 @@ export default function RootLayout({
           property="og:image"
           content="https://www.luonghuetrinh.org/images/thumb.jpg"
         />
-        <meta property="og:title" content="Luong Hue Trinh" />
+        <meta property="og:title" content="Lương Huệ Trinh" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.luonghuetrinh.org/" />
         <meta
