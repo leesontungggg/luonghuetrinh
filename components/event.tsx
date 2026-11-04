@@ -4,7 +4,7 @@ const events = [
   `<b>19.12.2026</b> at : <a style="text-decoration: underline" href=""><b>#Long Dance Event</a></b> in the Afrocan festival - Kizùté, Lagos, Nigeria.`,
   `<b>16.12.2026</b> at : <a style="text-decoration: underline" href=""><b>#Soundscape Evening</a></b> in the Afrocan festival - Kizùté, Lagos, Nigeria.`,
   `<b>21.11.2026</b> at 17:00: <a style="text-decoration: underline" href="https://www.instagram.com/p/DfJ7y00jPOB/?img_index=1"><b>#Finding Essence (Embodiment)</a></b> - Live music and dance in the ANCESTRAL WALK exhibition at Afrocan Studio, 38 Asani street, Bariga, Lagos, Nigeria.`,
-  `<b>18.11.2026</b> at 17:00: <a style="text-decoration: underline" href=""><b>#Lagos Book and Arts festival</a></b> - Live music and dance at Freedom Park Lagos, Lagos Island, Nigeria.`,
+  `<b>18.11.2026</b> at 17:00: <a style="text-decoration: underline" href="https://www.facebook.com/LagosBookArtFestival/"><b>#Lagos Book and Art festival</a></b> - Live music and dance at Freedom Park Lagos, Lagos Island, Nigeria.`,
   `<b>15.11.2026</b> at 18:00: <a style="text-decoration: underline" href=""><b>#Sound + Check</a></b> - an event for installation and performance at J. Randle Centre for Yorùbá Culture & History, Lagos Island, Onikan 102273, Nigeria.`,
   `<b>06.11.2026</b> at 18:00: <a style="text-decoration: underline" href="https://lagosfringe.com"><b>#Lagos Fringe festival 2026</a></b> - Live music & dance at Freedom Park Lagos, Lagos Island, Nigeria.`,
   `<b>05.11.2026</b> at 19:30: <a style="text-decoration: underline" href=""><b>#A musical "A Rising Tide"</a></b> in the CANEX WKND 2026 (Creative Africa Nexus) at National Theatre Main Bowl, Iganmu, Surulere, Lagos, Nigeria.`,
