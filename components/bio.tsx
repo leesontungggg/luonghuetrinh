@@ -98,7 +98,8 @@ const Bio = () => {
             Shanghai Rockbund Art museum, Banye Art Hotel Hangzhou (China); Metropolitan museum - Manila, Taylor's University,
             University of Philippines (Philippines); The Langgeng Art Foundation - Yogyakarta (Indonesia); Princess Galyani Vadhana Institute of
             Music - Bangkok (Thailand); Goethe Institut Ghana, Alliance française d'Accra (Ghana); Cotonou (Benin); Institut français du Togo, festival Woédoupé - Lomé (Togo); 
-            Bariga, Oworonshoki - Lagos (Nigeria)...
+            Slum Party - Cathedral Thinking '26 - Bariga, Oworonshoki; National Theatre, Lagos Fringe festival - Freedom Park Lagos,
+             J. Randle Centre for Yorùbá Culture & History - Lagos Island, Lagos (Nigeria)...
             <br />
             <br />
           </>
