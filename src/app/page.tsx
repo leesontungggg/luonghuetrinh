@@ -961,9 +961,19 @@ export default function Home() {
             <u>Célia Amade</u>
           </a>{" "}
           /
+          <a href="https://artcoremobile-festival.com/en/the-artists-collection/chima-obasi-emmanuel/">
+            {" "}
+            <u>Chima Obasi Emmanuel</u>
+          </a>{" "}
+          /
           <a href="https://uqo.ca/profil/delldi01">
             {" "}
             <u>Dimitri della Faille</u>
+          </a>{" "}
+             /
+          <a href="https://tantoloun.org/esther-essien/">
+            {" "}
+            <u>Esther Essien</u>
           </a>{" "}
           /     
           <a href="https://www.compagnie-antipodes.com/pr%C3%A9sentation">
@@ -1029,6 +1039,16 @@ export default function Home() {
           <a href="https://nguyentheson.com">
             {" "}
             <u>Nguyễn Thế Sơn</u>
+          </a>{" "}
+          /
+          <a href="https://artisticdirectorsacademy.org/obiajulu-ozegbe/">
+            {" "}
+            <u>Obiajulu Ozegbe</u>
+          </a>{" "}
+          /
+          <a href="https://www.instagram.com/p/DMiLIgctopF/">
+            {" "}
+            <u>Samson Bethel (Sammytee)</u>
           </a>{" "}
           /
           <a href="https://www.pinabausch.org/person/shelly_ohene-nyako">
