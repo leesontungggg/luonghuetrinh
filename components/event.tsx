@@ -3,6 +3,7 @@ import { useState } from "react";
 const events = [
   `<b>19.12.2026</b> at : <a style="text-decoration: underline" href=""><b>#Long Dance </a></b>in the Afrocan festival - Kizùté, Lagos, Nigeria.`,
   `<b>16.12.2026</b> at : <a style="text-decoration: underline" href=""><b>#Soundscape Evening </a></b>in the Afrocan festival - Kizùté, Lagos.`,
+  `<b>03.12.2026</b> at 18:00: <a style="text-decoration: underline" href=""><b>#ArtCore Mobile festival </a></b> at Freedom Park, Lagos Island.`,
   `<b>22.11.2026</b> at 17:00: <a style="text-decoration: underline" href=""><b>#Cultural Fusion (Ancestral Encounters)</a></b> - ANCESTRAL WALK exhibition - Live music and solo dance at Afrocan Studio, 38 Asani street, Bariga, Lagos.`,
   `<b>21.11.2026</b> at 17:00: <a style="text-decoration: underline" href="https://www.instagram.com/p/DfJ7y00jPOB/?img_index=1"><b>#Finding Essence (Embodiment)</a></b> - ANCESTRAL WALK exhibition - Live music and dance at Afrocan Studio, 38 Asani street, Bariga, Lagos.`,
   `<b>18.11.2026</b> at 17:00: <a style="text-decoration: underline" href="https://www.facebook.com/LagosBookArtFestival/"><b>#Lagos Book and Art festival</a></b> - Live music and dance at Freedom Park Lagos, Lagos Island.`,
