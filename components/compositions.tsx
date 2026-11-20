@@ -3,7 +3,6 @@ import { useState } from "react";
 const compositions = [
  `<i style="text-decoration: underline"><b>Inheritance for the Unborn</i></b> (2026) <br /> 
         an audiovisual installation. Duration: 7' <br /> 
-        <br />
         in the SOUND + CHECK exhibition, organized by Lagos Sound Artists Collective at J.Randle Centre for Yoruba Culture and History, Onika, Lagos Island, Nigeria.
         <br />`,              
  `<i style="text-decoration: underline"><b>Lách Tách</i></b> (2026) <br /> 
